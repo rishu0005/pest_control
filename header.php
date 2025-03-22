@@ -16,6 +16,9 @@
 
 <!-- Count Up Animation -->
 <script src="https://cdn.rawgit.com/inorganik/countUp.js/master/dist/countUp.min.js"></script>
+
+<!-- Swiper Js Cdn -->
+<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
 </head>
 <body>
 <nav class="navbar  navbar-expand-lg">

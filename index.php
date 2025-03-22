@@ -111,7 +111,7 @@
 
 
  <!-- About Us Section Start-->
-<div class="container ">
+<div class="container top-padding">
     <div class="row  align-items-center">
         <div class="col-lg-5">
             <!-- About Us Images Start -->
@@ -214,10 +214,32 @@
     </div>
     
 </div>
-
  <!-- About Us SEction ENd -->
 
- <!--  -->
+ <!-- About Us Slider Start -->
+  <div class="top-paddding bg-lightsecondary">
+
+      <div class="container ">
+        <div class="row  section-row align-items-center">
+            <div class="col-lg-12 mt-5">
+                <!-- Section Title start -->
+                 <div class="section-title text-center">
+                    <h5 class="text-white bg-success">Services</h5>
+                    <h2 class="text-center ">Expert Solutions for every <span class="text-green">pest problem</span></h2>
+                 </div>
+    
+                <!-- Section Title ENd  -->
+            </div>
+        </div>
+
+        
+      </div>
+  </div>
+
+
+ <!-- About Us SLider ENd -->
+
+ <!-- Our Features Star  -->
 
  
 
