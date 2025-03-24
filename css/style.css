@@ -107,10 +107,11 @@ html,body{
     height: 6px;
 }
 .section-title h2{
-    font-size: 44px;
+    font-size: 60px;
     line-height: 1.1em;
     letter-spacing: -0.02em;
     font-weight: 700;
+    color: #002f47;
 }
 .btn-default .btn-highlighted::before{
     background-color: #299b46;
@@ -189,7 +190,14 @@ html,body{
 /* Index Page Service Card Section ENd */
 
 /* Index Page About  Section Start */
-
+.section-title h2{
+  font-size: 43px;
+    line-height: 1.1em;
+    letter-spacing: -0.02em;
+    margin-bottom: 0;
+    cursor: none;
+    color: #002f47;
+}
 .about-us-images{
   position: relative;
     padding: 0 55px 0 65px;
@@ -330,7 +338,7 @@ html,body{
 
 /* Index Page Service Slider Start */
 .bg-lightsecondary .section-title h5::before{
-background:#FFFFFF;
+background:#FFFFFF !important;
 
 }
 
@@ -350,15 +358,212 @@ background:#FFFFFF;
   width: 600px;
   height: 300px;
 }
+/* Index Page features section start */
+.features-item{
+  width: calc(50% - 15px);
+    display: flex;
+}
+.features-item .icon-box{
+  position: relative;
+  background: #299b46;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 10px;
+  transition: all 0.3s ease-in-out;
+  z-index: 1;
+}
+.features-item .icon-box::before{
+  content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color:#002f47 ;
+    border-radius: 50%;
+    height: 100%;
+    width: 100%;
+    transform: scale(0);
+    transition: all 0.4s ease-in-out;
+}
+.features-item .icon-box img{
+  position: relative;
+    max-width: 30px;
+    z-index: 1;
+}
+.features-item-content{
+  width: calc(100% - 70px);
+}
+.features-item-content h3{
+  font-size: 20px;
+  text-transform: capitalize;
+  margin-bottom: 10px;
+  color: #002f47;
+}
+.features-image{
+  position: relative;
+    padding: 0 0 20px 45px;
+    margin-left: 20px;
+}
+.features-image figure{
+  display: block;
+    border-radius: 24px;
+}
+.reveal{
+  position: relative;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  visibility: hidden;
+  overflow: hidden;
+}
+.features-image figure img{
+  width: 100%;
+    aspect-ratio: 1 / 0.8937;
+    object-fit: cover;
+    border-radius: 24px;
+}
+.reveal img{
+  height: 100%;
+  width: 100%;
+  -o-object-fit: cover;
+  object-fit: cover;
+  -webkit-transform-origin: left;
+  transform-origin: left
+}
+.section-row .section-title.section-title-center {
+  width: 100%;
+  max-width: 640px;
+  margin: 0 auto;
+  text-align: center;
+}
+.our-project-nav ul li a::before{
+  content: '';
+  position: absolute;
+  top: 50%;
+  right: -21px;
+  transform: translateY(-50%);
+  background: #299b46;
+  border-radius: 50%;
+  width: 6px;
+  height: 6px;
+}
+/* index page why choose us section start */
+.why-choose-us-item{
+  position: relative;
+    width: calc(25% - 22.5px);
+    background: #FFFFFF;
+    border-radius: 24px;
+    overflow: hidden;
+    padding: 30px 25px;
+    transition: all 0.4s ease-in-out;
+}
+.why-choose-us-item::before{
+  content: '';
+  position: absolute;
+  top: 100%;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #002f47;
+  height: 100%;
+  width: 100%;
+  transition: all 0.4s ease-in-out;
+}
+.why-choose-us-item:hover .why-choose-us-item::before{
+  /* content: '';
+  position: absolute; */
+  top: 0%;
+  bottom: 50px;
+  left: 0;
+  /* right: 0;
+  background-color:#002f47;
+  height: 100%; */
+  width: 100%;
+  transition: all 0.4s ease-in-out;
 
-
-
-
-  
+}
+.why-choose-us-item .icon-box{
+  position: relative;
+  background: #299b46;
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 40px;
+  transition: all 0.3s ease-in-out;
+  z-index: 1;
+}
+.why-choose-us-item .why-choose-item-content h3{
+  font-size: 20px;
+  text-transform: capitalize;
+  margin-bottom: 10px;
+  transition: all 0.3s ease-in-out;
+  color: #002f47;
+}
+.page-cta-box{
+  position: relative;
+  width: calc(25% - 22.5px);
+  background: url('https://html.awaikenthemes.com/petronus/images/page-cta-box-bg.jpg') no-repeat;
+  background-position: center center;
+  background-size: cover;
+  align-content: center;
+  border-radius: 24px;
+  padding: 50px 30px;
+  overflow: hidden;
+}
+.page-cta-box::before{
+  content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: #002f47;
+    opacity: 70%;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+}
+.page-cta-box-info, .cta-contact-box{
+  position: relative;
+    z-index: 1;
+}
+.cta-contact-item .icon-box{
+  width: 30px;
+  height: 30px;
+  background: #299b46;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 8px;
+}
+.cta-contact-item .icon-box img{
+  width: 100%;
+  max-width: 16px;
+}
+.cta-contact-info p{
+  font-weight: 600;
+  text-transform: uppercase;
+  /* color: var(--white-color); */
+  margin-bottom: 0px !important;
+  line-height: 1.6em;
+}
+/*  */
 
 /*** Utility Class ***/
 .text-green{
     color: #299b46;
+}
+.bg-green{
+  background-color: #299b46 !important;
 }
 .fw-7{
     font-weight: 700;
@@ -371,4 +576,10 @@ background:#FFFFFF;
 }
 .top-padding{
   padding: 100px 0;
+}
+.text-grey{
+  color: #3d5a6a;
+}
+.bg-navyblue{
+  background-color: #002f47;
 }
