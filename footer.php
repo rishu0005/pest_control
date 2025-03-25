@@ -1,26 +1,73 @@
+<div class="top-padding bg-navyblue">
+<div class="container">
+    <div class="row">
+        <div class="col-lg-5">
+            <div class="about-footer w-75 text-white">
+                <h4 class="fw-7">About </h4>
+                <p class="">we are dedicated to creating safe, pest-free environments for homes and businesses alike. With years of experience in the pest control industry.
+                   <br><br>
+                    we pride ourselves on delivering effective, eco-friendly solutions tailored to your needs.</p>
+            </div>
+        </div>
+        <div class="col-lg-2 col-md-3 text-white">
+
+            <h4>Services</h4>
+            <ul>
+                <li>About Services</li>
+                <li>Our Services</li>
+                <li>Our Blogs</li>
+                <li>Contact Us</li>
+            </ul>
+        </div>
+        <div class="col-lg-2 col-md-4 text-white">
+            <h4>Links</h4>
+            <ul>
+                <li>Home Pest Control</li>
+                <li>Commerical Pest</li>
+                <li>Termite & Rodent</li>
+                <li>Eco-Friendly Pest</li>
+                <li>Wildlife Removal </li>
+            </ul>
+        </div>
+        <div class="col-lg-3 col-md-5 text-white">
+            <h4>Contact Us </h4>
+            <p></p>
+        </div>
+        <div class="col-lg-12 mt-5 border-secondary border-top"></div>
+    </div>
+</div>
+</div>
+
 <!-- Bootstrap CDN -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 <!-- Swiper Js Script Cdn -->
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-
 <script>
 
 //Swiper slider
-var swiper = new Swiper('.swiper', {
-  slidesPerView: 1, // Number of slides visible at once
-  spaceBetween: 30, // Space between slides
-  loop: true, // Loop the slides
-  navigation: {
-    nextEl: '.swiper-button-next', // Next button
-    prevEl: '.swiper-button-prev', // Previous button
-  },
-  pagination: {
-    el: '.swiper-pagination', // Pagination container
-    clickable: true, // Make bullets clickable
-  },
+
+// Initialize swiper
+var swiper = new Swiper(".mySwiper", {
+    slidesPerView : 1,
+			speed: 1000,
+			spaceBetween: 30,
+			loop: true,
+			autoplay: {
+				delay: 5000,
+			},
+			pagination: {
+				el: '.swiper-pagination',
+				clickable: true,
+			},
+			breakpoints: {
+				768:{
+					slidesPerView: 2,
+				},
+				991:{
+					slidesPerView: 3,
+				}
+			}
 });
-
-
 
 //function For Countup animation
 function countUp(elementId, start, end, duration) {
