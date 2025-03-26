@@ -28,9 +28,8 @@
   <div class="container ">
     <!-- <div class="container"></div> -->
     <a class="navbar-brand me-5" href="index.php">
-      <img loading="lazy" class="logo_image" src="https://html.awaikenthemes.com/petronus/images/logo.svg
-" alt="Fabrica" width="183" height="49">
-
+      <img loading="lazy" class="logo_image" src="./img/logo.png" alt="Fabrica" width="100" height="100">
+       
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>

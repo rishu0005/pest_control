@@ -15,7 +15,7 @@ html,body{
   top: 0;
   z-index: 1000;
   /* border-bottom: 1px solid #535353; */
-  padding-top: 2rem;
+  /* padding-top: 2rem; */
   transition: all 0.3s ease-in-out;  /* Smooth transition for height and background */
   /* padding: 50px; */
 }
@@ -27,9 +27,9 @@ html,body{
 
 .navbar-brand img {
   padding-bottom: 8px;
-  /* min-width: 193px; */
-  height: 55px;
-  max-height: 100px;
+  min-width: 130px;
+  height: 120px;
+  max-height: 120px;
   max-width: 250px;
   transition: all 0.3s ease-in-out; /* Smooth transition for logo resizing */
 }
@@ -196,7 +196,7 @@ html,body{
     letter-spacing: -0.02em;
     margin-bottom: 0;
     font-weight: 700;
-    cursor: none;
+    /* cursor: none; */
     color: #002f47;
 }
 .about-us-images{
@@ -274,7 +274,7 @@ html,body{
     line-height: 1.1em;
     letter-spacing: -0.02em;
     margin-bottom: 0;
-    cursor: none;
+    /* cursor: none; */
 }
 .about-us-list .check{
   background-color: #299b46;
@@ -324,7 +324,7 @@ html,body{
   display: flex;
   align-items: center;
   justify-content: center;
-  cursor: none;
+  /* cursor: none; */
 }
 .about-countup h2{
   font-size: 44px;
@@ -342,6 +342,47 @@ html,body{
 background:#FFFFFF !important;
 
 }
+.service-item{
+  background: #FFFFFF;
+    border-radius: 24px;
+    height: calc(100% - 30px);
+    margin-bottom: 30px;
+    overflow: hidden;
+}
+.service-image img{
+  width: 100%;
+    aspect-ratio: 1 / 0.65;
+    object-fit: cover;
+    transition: all 0.4s ease-in-out;
+}
+.readmore-btn{
+  position: relative;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.6em;
+    color: #299b46;
+    text-transform: capitalize;
+    padding-right: 36px;
+    transition: all 0.4s ease-in-out;
+}
+.readmore-btn::before {
+  content: '';
+  position: absolute;
+  display: block;
+  right: 0;
+  top: 0;
+  width: 26px;
+  height: 26px;
+  background-color: #299b46;
+  background-image: url('https://html.awaikenthemes.com/petronus/images/arrow-white.svg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 16px auto;
+  border-radius: 50%;
+  transform: translateX(-3px);
+  transition: all 0.4s ease-in-out;
+}
 
 /* Index Page Service Slider Start */
 .service-item{
@@ -355,7 +396,11 @@ background:#FFFFFF !important;
   text-align: center;
     padding: 30px 18px;
 }
-
+.services-pagination{
+  position: relative;
+    text-align: center;
+    margin-top: 40px;
+}
 
 /* Index Page features section start */
 .features-item{
@@ -730,8 +775,29 @@ background:#FFFFFF !important;
   height: 20px;
 }
 
-
-
+/* index page footer */
+.footer-padding{
+  padding-top:60px ;
+}
+.mail{
+  color: #002f47;
+  background-color: #FFFFFF;
+  padding: 10px;
+  border-radius: 50%;
+}
+.footer-links ul li::marker{
+  color: #299b46;
+    transition: all 0.3s ease-in-out;
+}
+.footer-logo img{
+  height: 100px ;
+}
+.footer-social .icon{
+  color: #FFFFFF;
+  border: 1px solid grey;
+  padding: 10px;
+  border-radius: 50%;
+}
 
 
 

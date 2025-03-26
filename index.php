@@ -43,7 +43,7 @@
      </div>
 <!-- Hero Section End -->
 
-<!-- Service Item COntainer  Start -->
+<!-- Service Item Container  Start -->
 <div class="container-fluid">
     <div class="row">
         <div class="col-lg-3 border-end  border-bottom">
@@ -53,8 +53,8 @@
                     <img src="https://html.awaikenthemes.com/petronus/images/icon-best-service-1.svg" class="img-fluid" alt="">
                 </div>
                 <div class="best-service-content">
-                    <h5 class="fw-7">Comprehensive Coverage</h5>
-                    <a href="" class="text-decoration-none text-green fs-5">Read more</a>
+                    <h5 class="fw-7">Mosquitoes Control</h5>
+                    <a href="" class="readmore-btn text-decoration-none">Read more</a>
                 </div>
             </div>
             <!-- Service Item End -->
@@ -68,8 +68,8 @@
                     <img src="https://html.awaikenthemes.com/petronus/images/icon-best-service-1.svg" class="img-fluid" alt="">
                 </div>
                 <div class="best-service-content">
-                    <h5 class="fw-7">Comprehensive Coverage</h5>
-                    <a href="" class="text-decoration-none text-green fs-5">Read more</a>
+                    <h5 class="fw-7">Cockroaches Control</h5>
+                    <a href="" class="readmore-btn text-decoration-none">Read more</a>
                 </div>
             </div>
             <!-- Service Item End -->
@@ -83,8 +83,8 @@
                     <img src="https://html.awaikenthemes.com/petronus/images/icon-best-service-1.svg" class="img-fluid" alt="">
                 </div>
                 <div class="best-service-content">
-                    <h5 class="fw-7">Comprehensive Coverage</h5>
-                    <a href="" class="text-decoration-none text-green fs-5">Read more</a>
+                    <h5 class="fw-7">Bed-bug  Control</h5>
+                    <a href="" class="readmore-btn text-decoration-none">Read more</a>
                 </div>
             </div>
             <!-- Service Item End -->
@@ -98,8 +98,8 @@
                     <img src="https://html.awaikenthemes.com/petronus/images/icon-best-service-1.svg" class="img-fluid" alt="">
                 </div>
                 <div class="best-service-content">
-                    <h5 class="fw-7">Comprehensive Coverage</h5>
-                    <a href="" class="text-decoration-none text-green fs-5">Read more</a>
+                    <h5 class="fw-7">General Insects, Control</h5>
+                    <a href="" class="readmore-btn text-decoration-none ">Read more</a>
                 </div>
             </div>
             <!-- Service Item End -->
@@ -136,7 +136,7 @@
                 <!-- About Us Circle Image Start -->
                 <div class="about-us-circle-img-2">
                     <figure class="image-anime">
-                        <img src="https://html.awaikenthemes.com/petronus/images/about-circle-img-2.jpg" class="img-fluid" alt="">
+                        <img src="https://html.awaikenthemes.com/petronus/images/about-circle-img-2.jpg" class="img-fluid"  alt="">
                     </figure>
                 </div>
                 <!-- About Us Circle Image ENd -->
@@ -155,16 +155,16 @@
                         <!-- About Us List Start -->
                         <ul class="list-unstyled text-grey me-5 ">
                             <li class="mb-2 "><i class="fa-solid fa-check check me-2"></i>Expertise You Can Trust</li>
-                            <li class="mb-2"><i class="fa-solid fa-check check me-2"></i>Expertise You Can Trust</li>
-                            <li class="mb-2"><i class="fa-solid fa-check check me-2"></i>Expertise You Can Trust</li>
-                            <li class="mb-2"><i class="fa-solid fa-check check me-2"></i>Expertise You Can Trust</li>
+                            <li class="mb-2"><i class="fa-solid fa-check check me-2"></i>Certified Professionals</li>
+                            <li class="mb-2"><i class="fa-solid fa-check check me-2"></i>Eco-Friendly Approach</li>
+                            <li class="mb-2"><i class="fa-solid fa-check check me-2"></i>Customer-Focused Service</li>
                            
                         </ul>
                         <ul  class="list-unstyled text-grey me-4">
-                            <li class="mb-2"><i class="fa-solid fa-check check me-2"></i>Expertise You Can Trust</li>
-                            <li class="mb-2"><i class="fa-solid fa-check check me-2"></i>Expertise You Can Trust</li>
-                            <li class="mb-2"><i class="fa-solid fa-check check me-2"></i>Expertise You Can Trust</li>
-                            <li class="mb-2"><i class="fa-solid fa-check check me-2"></i>Expertise You Can Trust</li>
+                            <li class="mb-2"><i class="fa-solid fa-check check me-2"></i>24/7 Availability</li>
+                            <li class="mb-2"><i class="fa-solid fa-check check me-2"></i>Affordable Solutions</li>
+                            <li class="mb-2"><i class="fa-solid fa-check check me-2"></i>Advanced Techniques</li>
+                            <li class="mb-2"><i class="fa-solid fa-check check me-2"></i>Commitment to Excellence</li>
                            
                         </ul>
                         <!-- About Us List ENd -->
@@ -194,18 +194,18 @@
 
                     <div class="border-right ">
                        <h2><span class="counter count" id="projects">0</span></h2> 
-                        <p class="fs-5 text-grey">Projects</p>
+                        <p class="fs-5 text-grey">Team member</p>
                     </div>
 
                     <div class=" border-right">
-                       <h2> <span class="counter" id="clients">0</span></h2>
-                        <p class="fs-5 text-grey">Happy Clients</p>
+                       <h2> <span class="counter" id="clients">0+</span></h2>
+                        <p class="fs-5 text-grey">Years Of Experience</p>
                     </div>
 
                     <div class="">
                         <h2><span  class="yearly_profit counter" id="profit">0%</span></h2>
                        
-                        <p class="fs-5 text-grey">Yearly Profit</p>
+                        <p class="fs-5 text-grey">Happy Customers</p>
                     </div>
            
                 <!--Countdown Section End  -->
@@ -216,31 +216,165 @@
 </div>
  <!-- About Us SEction ENd -->
 
- <!-- About Us Slider Start -->
-  <!-- <div class="top-paddding bg-lightsecondary">
-
-      <div class="container ">
-        <div class="row  section-row align-items-center">
-            <div class="col-lg-12 mt-5">
-                Section Title start
-                 <div class="section-title text-center">
-                    <h5 class="text-white bg-success">Services</h5>
-                    <h2 class="text-center ">Expert Solutions for every <span class="text-green">pest problem</span></h2>
-                 </div>
-    
-                Section Title ENd 
+  <!-- Services Start  -->
+<div class="pb-5 bg-lightsecondary">
+    <div class="container bg-img">
+        <div class="row section-row">
+            <div class="col-lg-12 mt-4">
+                <div class="section-title section-title-center">
+                    <h5 class="bg-green text-white">Services</h5>
+                    <h2 class="text-center">Expert solutions for every <span class="text-green">pest Problem</span></h2>
+                </div>
             </div>
         </div>
+        <div class="row">
+            <div class="col-lg-12 mt-5">
+                <!-- Slider main container -->
+                <div class="swiper mySwiper">
+    <div class="swiper-wrapper mb-5">
+      <div class="swiper-slide card service-item ">
+      <div class="service-image">
+           <a href="service-single.html" data-cursor-text="View">
+                <figure class="image-anime">
+                    <img src="https://html.awaikenthemes.com/petronus/images/service-image-1.jpg" alt="">
+                </figure>
+            </a>                            
+        </div>
 
-        
+        <div class="service-content p-3 text-center">
+            <h5 class="text-navyblue fw-7">Residental Pest Control</h5>
+            <p class="text-grey fs-6">
+                Tailored Solutions to protect your home from common pests.
+            </p>
+        </div>
+        <div class="service-btn">
+            <a href="" class="readmore-btn text-decoration-none">read more</a>
+        </div>
       </div>
-  </div> -->
+      <div class="swiper-slide card service-item ">
+      <div class="service-image">
+           <a href="service-single.html" data-cursor-text="View">
+                <figure class="image-anime">
+                    <img src="https://html.awaikenthemes.com/petronus/images/service-image-2.jpg" alt="">
+                </figure>
+            </a>                            
+        </div>
+
+        <div class="service-content p-3 text-center">
+            <h5 class="text-navyblue fw-7">Residental Pest Control</h5>
+            <p class="text-grey fs-6">
+                Tailored Solutions to protect your home from common pests.
+            </p>
+        </div>
+        <div class="service-btn">
+            <a href="" class="readmore-btn text-decoration-none">read more</a>
+        </div>
+      </div>
+      <div class="swiper-slide card service-item ">
+      <div class="service-image">
+           <a href="service-single.html" data-cursor-text="View">
+                <figure class="image-anime">
+                    <img src="https://html.awaikenthemes.com/petronus/images/service-image-3.jpg" alt="">
+                </figure>
+            </a>                            
+        </div>
+
+        <div class="service-content p-3 text-center">
+            <h5 class="text-navyblue fw-7">Residental Pest Control</h5>
+            <p class="text-grey fs-6">
+                Tailored Solutions to protect your home from common pests.
+            </p>
+        </div>
+        <div class="service-btn">
+            <a href="" class="readmore-btn text-decoration-none">read more</a>
+        </div>
+      </div>
+      <div class="swiper-slide card service-item ">
+      <div class="service-image">
+           <a href="service-single.html" data-cursor-text="View">
+                <figure class="image-anime">
+                    <img src="https://html.awaikenthemes.com/petronus/images/service-image-4.jpg" alt="">
+                </figure>
+            </a>                            
+        </div>
+
+        <div class="service-content p-3 text-center">
+            <h5 class="text-navyblue fw-7">Residental Pest Control</h5>
+            <p class="text-grey fs-6">
+                Tailored Solutions to protect your home from common pests.
+            </p>
+        </div>
+        <div class="service-btn">
+            <a href="" class="readmore-btn text-decoration-none">read more</a>
+        </div>
+      </div>
+      <!-- <div class="swiper-slide card testimonial-item  p-5">
+        <div class="testimonial-author">
+            <div class="author-image">
+                <figure class="image-anime text-start">
+                    <img src="https://html.awaikenthemes.com/petronus/images/author-6.jpg" class="img-fluid img-pill" alt="">
+                </figure>
+            </div>
+            <div class="author-content text-start">
+                <h4 class="text-navyblue fw-7">Albert Walker</h4>
+                <p class="text-grey">chairman</p>
+            </div>
+            <div class="testimonial-rating text-start">
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+            </div>
+            <div class="testimonial-content text-start">
+                <p class="fs-5 text-grey">"Excellent service! We had a major ant problem, and they took care of it quickly and professionally.!"</p>
+            </div>
+            
+        </div>
+      </div>
+      <div class="swiper-slide card testimonial-item  p-5">
+        <div class="testimonial-author">
+            <div class="author-image">
+                <figure class="image-anime text-start">
+                    <img src="https://html.awaikenthemes.com/petronus/images/author-7.jpg" class="img-fluid img-pill" alt="">
+                </figure>
+            </div>
+            <div class="author-content text-start">
+                <h4 class="text-navyblue fw-7">Alan Runner</h4>
+                <p class="text-grey">chairman</p>
+            </div>
+            <div class="testimonial-rating text-start">
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+            </div>
+            <div class="testimonial-content text-start">
+                <p class="fs-5 text-grey">"Excellent service! We had a major ant problem, and they took care of it quickly and professionally.!"</p>
+            </div>
+            
+        </div>
+      </div> -->
+     
+    </div>
+
+      <div class="swiper-pagination services-pagination text-green mt-5"></div>
+</div>
+            </div>
+
+            <div class="col-lg-12">
+                <p class="text-grey text-center pt-5">Ready for a Pest-Free Home? <a href="" class="text-green fw-bold" >Reach Out To Us Today!</a></p>
+            </div>
+
+        </div>
 
 
+    </div>
+</div>
+ <!-- Services End -->
 
- <!-- About Us SLider ENd -->
-
- <!-- Our Features Star  -->
+ <!-- Our Features Start  -->
 <div class="top-padding">
     <div class="container">
         <div class="row align-items-center">
@@ -271,7 +405,7 @@
                                 <img src="https://html.awaikenthemes.com/petronus/images/icon-features-item-1.svg" alt="">
                             </div>
                             <div class="feature-items-content">
-                                <h5 class="fw-7">Emergency Services</h5>
+                                <h5 class="fw-7">Customized Treatment</h5>
                                 <p class="text-grey word-wrap w-75">We are available round the clock to address.</p>
 
                             </div>
@@ -282,7 +416,7 @@
                                 <img src="https://html.awaikenthemes.com/petronus/images/icon-features-item-1.svg" alt="">
                             </div>
                             <div class="feature-items-content">
-                                <h5 class="fw-7">Emergency Services</h5>
+                                <h5 class="fw-7">Certified Professionals</h5>
                                 <p class="text-grey word-wrap w-75">We are available round the clock to address.</p>
 
                             </div>
@@ -293,7 +427,7 @@
                                 <img src="https://html.awaikenthemes.com/petronus/images/icon-features-item-1.svg" alt="">
                             </div>
                             <div class="feature-items-content">
-                                <h5 class="fw-7">Emergency Services</h5>
+                                <h5 class="fw-7">Guaranteed Results</h5>
                                 <p class="text-grey word-wrap w-75">We are available round the clock to address.</p>
 
                             </div>
@@ -309,7 +443,6 @@
                
                     <figure class="image-anime reveal" style="transform: translate(0px, 0px); opacity: 1; visibility: inherit;">
                             <!-- <img src="images/features-image.jpg" alt="" style="transform: translate(0px, 0px);"> -->
-                        
                         <img src="https://html.awaikenthemes.com/petronus/images/features-image.jpg" alt="heelo why are you not coming" alt="" style="transform: translate(0px, 0px);">
                     </figure>
                 </div>
@@ -319,40 +452,6 @@
     </div>
 </div>
 <!-- Our Features ENd -->
-
-<!-- Portfoilo Start -->
- <!-- <div class="top-padding bg-lightsecondary">
-    <div class="container">
-        <div class="row section-row align-items-center">
-            <div class="col-lg-12">
-                <div class="section-title section-title-center">
-                    <h5 class="bg-green text-white">Our Portfoilo</h5>
-                    <h2 class="">Explore our proven track record of <span class="text-green">pest-free Solutions</span> </h2>
-                </div>
-            </div>
-        </div>
-
-        <div class="row">
-            <div class="col-lg-12 col-md-12">
-                <div class="our-project-nav">
-
-                    <ul class="list-unstyled flex-warp d-flex align-items-center mt-4 justify-content-center g-5">
-                    <li><a href="" class=" text-decoration-none text-grey me-4">All</a> </li>
-                    <li><a href="" class="  text-decoration-none text-grey me-4">  Home Pest</a></li>
-                    <li><a href="" class="text-decoration-none text-grey me-4"> Commericial Pest</a></li>
-                    <li><a href="" class="text-decoration-none text-grey me-4"> Eco-Friendly Pest</a> </li>
-                    <li><a href="" class="text-decoration-none text-grey me-4"> Termite & Rodent</a> </li>
-                    <li><a href="" class="text-decoration-none text-grey me-4">Outdoor Pest</a> </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-
-
-    </div>
- </div> -->
-
- <!-- Portfolio ENd -->
 
  <!-- WHy Choose Us Start -->
  <div class="top-padding bg-lightsecondary container-fluid">
@@ -412,7 +511,7 @@
                                 
                             </div>
                             <div class="cta-contact-item-content text-white">
-                                <h3 class="text-white">+1 322-782-968</h3>
+                                <h3 class="text-white fs-4"> +91  98201 31924</h3>
                             </div>
                         </div>
                     </div>
@@ -461,7 +560,7 @@
                 <!-- Section Title Start -->
                 <div class="section-title">
                     <h5 class="text-green">Frequently Asked Questions</h5>
-                    <h2 class="text-white">Find Helpful answers to yours pest <span class="text-green">pest concerns</span> </h2>
+                    <h2 class="text-white">Find Helpful answers to yours pest <span class="text-green">control concerns</span> </h2>
                 </div>
                 <!-- Section TItle End -->
 
@@ -578,7 +677,7 @@
         <div class="testimonial-author">
             <div class="author-image">
                 <figure class="image-anime text-start">
-                    <img src="https://html.awaikenthemes.com/petronus/images/author-2.jpg" class="img-fluid img-pill" alt="">
+                    <img src="https://html.awaikenthemes.com/petronus/images/author-1.jpg" class="img-fluid img-pill" alt="">
                 </figure>
             </div>
             <div class="author-content text-start">
@@ -602,7 +701,7 @@
         <div class="testimonial-author">
             <div class="author-image">
                 <figure class="image-anime text-start">
-                    <img src="https://html.awaikenthemes.com/petronus/images/author-2.jpg" class="img-fluid img-pill" alt="">
+                    <img src="https://html.awaikenthemes.com/petronus/images/author-4.jpg" class="img-fluid img-pill" alt="">
                 </figure>
             </div>
             <div class="author-content text-start">
@@ -626,7 +725,7 @@
         <div class="testimonial-author">
             <div class="author-image">
                 <figure class="image-anime text-start">
-                    <img src="https://html.awaikenthemes.com/petronus/images/author-2.jpg" class="img-fluid img-pill" alt="">
+                    <img src="https://html.awaikenthemes.com/petronus/images/author-5.jpg" class="img-fluid img-pill" alt="">
                 </figure>
             </div>
             <div class="author-content text-start">
@@ -646,54 +745,7 @@
             
         </div>
       </div>
-      <div class="swiper-slide card testimonial-item  p-5">
-        <div class="testimonial-author">
-            <div class="author-image">
-                <figure class="image-anime text-start">
-                    <img src="https://html.awaikenthemes.com/petronus/images/author-2.jpg" class="img-fluid img-pill" alt="">
-                </figure>
-            </div>
-            <div class="author-content text-start">
-                <h4 class="text-navyblue fw-7">Albert Walker</h4>
-                <p class="text-grey">chairman</p>
-            </div>
-            <div class="testimonial-rating text-start">
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-            </div>
-            <div class="testimonial-content text-start">
-                <p class="fs-5 text-grey">"Excellent service! We had a major ant problem, and they took care of it quickly and professionally.!"</p>
-            </div>
-            
-        </div>
-      </div>
-      <div class="swiper-slide card testimonial-item  p-5">
-        <div class="testimonial-author">
-            <div class="author-image">
-                <figure class="image-anime text-start">
-                    <img src="https://html.awaikenthemes.com/petronus/images/author-2.jpg" class="img-fluid img-pill" alt="">
-                </figure>
-            </div>
-            <div class="author-content text-start">
-                <h4 class="text-navyblue fw-7">Alan Runner</h4>
-                <p class="text-grey">chairman</p>
-            </div>
-            <div class="testimonial-rating text-start">
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-            </div>
-            <div class="testimonial-content text-start">
-                <p class="fs-5 text-grey">"Excellent service! We had a major ant problem, and they took care of it quickly and professionally.!"</p>
-            </div>
-            
-        </div>
-      </div>
+      
      
     </div>
 

@@ -1,4 +1,4 @@
-<div class="top-padding bg-navyblue">
+<div class=" bg-navyblue footer-padding">
 <div class="container">
     <div class="row">
         <div class="col-lg-5">
@@ -9,31 +9,51 @@
                     we pride ourselves on delivering effective, eco-friendly solutions tailored to your needs.</p>
             </div>
         </div>
-        <div class="col-lg-2 col-md-3 text-white">
+        <div class="col-lg-2 col-md-3 footer-links text-white">
 
             <h4>Services</h4>
-            <ul>
-                <li>About Services</li>
-                <li>Our Services</li>
-                <li>Our Blogs</li>
-                <li>Contact Us</li>
+            <ul class="">
+                <li class="mb-3">About Services</li>
+                <li class="mb-3">Our Services</li>
+                <li class="mb-3">Our Blogs</li>
+                <li class="mb-3">Our Projects</li>
+                <li class="mb-3">Contact Us</li>
             </ul>
         </div>
-        <div class="col-lg-2 col-md-4 text-white">
+        <div class="col-lg-2 footer-links col-md-4 text-white">
             <h4>Links</h4>
-            <ul>
-                <li>Home Pest Control</li>
-                <li>Commerical Pest</li>
-                <li>Termite & Rodent</li>
-                <li>Eco-Friendly Pest</li>
-                <li>Wildlife Removal </li>
+            <ul class="">
+                <li class="mb-3">Home Pest Control</li>
+                <li class="mb-3">Commerical Pest</li>
+                <li class="mb-3">Termite & Rodent</li>
+                <li class="mb-3">Eco-Friendly Pest</li>
+                <li class="mb-3">Wildlife Removal </li>
             </ul>
         </div>
         <div class="col-lg-3 col-md-5 text-white">
-            <h4>Contact Us </h4>
-            <p></p>
+            <h4 class="mb-3">Contact Us </h4>
+            <p class="mt-3"> <i class="fa-solid fa-envelope mail me-3"></i> sagarpestcontrol2002@gmail.com</p>
+            <p class="mt-3"> <i class="fa-solid fa-phone mail me-3"></i> +91 98201 31924</p>
         </div>
-        <div class="col-lg-12 mt-5 border-secondary border-top"></div>
+        <div class="col-lg-12 mt-5 border-secondary border-top d-flex justify-content-between flex-wrap align-items-center">
+            <div class="footer-logo d-flex align-items-center">
+                <img src="./img/logo.png" class="img-fluid" alt="">
+                <h3 class="text-light fw-7">Sagar Pest Controller</h3>
+            </div>
+            <div class="footer-social">
+            <ul class="list-unstyled d-flex justify-content-center gap-3 align-items-center">
+                <li><a href="#"><i class="fa-brands fa-instagram icon"></i></a></li>
+                <li><a href="#"><i class="fa-brands fa-facebook-f icon"></i></a></li>
+                <li><a href="#"><i class="fa-brands fa-dribbble icon"></i></a></li>
+             </ul>
+
+            </div>
+            <div class="footer-content">
+                <p class="text-white ">Copyright © 2025 All Rights Reserved.</p>
+
+            </div>
+           
+        </div>
     </div>
 </div>
 </div>
@@ -93,7 +113,8 @@ function countUp(elementId, start, end, duration) {
         if (elementId === 'profit') {
             // For 'profit', append '%' sign
             counterElement.textContent = Math.floor(current) + '%';
-        } else {
+        }else if (elementId === 'clients') {
+            counterElement.textContent = Math.floor(current) + '+'; } else {
             // For other counters, just display the number
             counterElement.textContent = Math.floor(current);
         }
@@ -104,10 +125,10 @@ function countUp(elementId, start, end, duration) {
         }
 
 // Initialize counters with start, end, and duration (in ms)
-countUp('clients', 0, 200, 2000);    // 2 seconds for clients
+countUp('clients', 0, 50, 2000);    // 2 seconds for clients
 countUp('projects', 0, 150, 3000);   // 3 seconds for projects
-countUp('cases', 0, 120, 2500);      // 2.5 seconds for cases
-countUp('profit', 0,79,2500)         //2.5 seconds for profit
+countUp('cases', 0, 220, 2500);      // 2.5 seconds for cases
+countUp('profit', 0,98,2500)         //2.5 seconds for profit
 
 </script>
 
