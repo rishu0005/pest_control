@@ -1,3 +1,14 @@
+/* :root{
+  --primary-color: #002F47;
+    --secondary-color: #F5F7F2;
+    --text-color: #3D5A6A;
+    --accent-color: #013198;
+    --white-color: #FFFFFF;
+    --divider-color: #002F471A;
+    --dark-divider-color: #FFFFFF24;
+    --error-color: rgb(230, 87, 87);
+    --default-font: "Onest", sans-serif;
+} */
 html,body{
     font-family: "Onest", sans-serif;
 	background-color: #FFFFFF;
@@ -101,7 +112,7 @@ html,body{
     top: 50%;
     left: 20px;
     transform: translateY(-50%);
-    background: #299b46;
+    background: #054471;
     border-radius: 50%;
     width: 6px;
     height: 6px;
@@ -114,7 +125,7 @@ html,body{
     color: #002f47;
 }
 .btn-default .btn-highlighted::before{
-    background-color: #299b46;
+    background-color: #013198;
 }
 .btn-default{
     position: relative;
@@ -123,7 +134,7 @@ html,body{
     font-weight: 700;
     line-height: 1em;
     text-transform: capitalize;
-    background: #299b46;
+    background: #013198;
     color: var(--white-color);
     border-radius: 100px;
     padding: 17px 30px;
@@ -140,7 +151,7 @@ html,body{
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    background-color: #299b46;
+    background-color: #013198;
     background-image: url('https://html.awaikenthemes.com/petronus/images/arrow-white.svg');
     background-repeat: no-repeat;
     background-position: center center;
@@ -156,7 +167,7 @@ html,body{
     left: 50%;
     right: 50%;
     opacity: 0;
-    background:#299b46 ;
+    background:#013198 ;
     border-radius: 100px;
     transition: all 0.4s ease-in-out;
     z-index: -1;
@@ -174,7 +185,7 @@ html,body{
     position: relative;
     width: 70px;
     height: 70px;
-    background: #299b46;
+    background: #013198;
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -277,7 +288,7 @@ html,body{
     /* cursor: none; */
 }
 .about-us-list .check{
-  background-color: #299b46;
+  background-color: #013198;
   padding: 5px;
   font-size: 12px;
   border-radius: 50px;
@@ -361,7 +372,7 @@ background:#FFFFFF !important;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.6em;
-    color: #299b46;
+    color: #013198;
     text-transform: capitalize;
     padding-right: 36px;
     transition: all 0.4s ease-in-out;
@@ -374,7 +385,7 @@ background:#FFFFFF !important;
   top: 0;
   width: 26px;
   height: 26px;
-  background-color: #299b46;
+  background-color: #013198;
   background-image: url('https://html.awaikenthemes.com/petronus/images/arrow-white.svg');
   background-repeat: no-repeat;
   background-position: center center;
@@ -409,7 +420,7 @@ background:#FFFFFF !important;
 }
 .features-item .icon-box{
   position: relative;
-  background: #299b46;
+  background: #013198;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -491,7 +502,7 @@ background:#FFFFFF !important;
   top: 50%;
   right: -21px;
   transform: translateY(-50%);
-  background: #299b46;
+  background: #013198;
   border-radius: 50%;
   width: 6px;
   height: 6px;
@@ -533,7 +544,7 @@ background:#FFFFFF !important;
 }
 .why-choose-us-item .icon-box{
   position: relative;
-  background: #299b46;
+  background: #013198;
   border-radius: 50%;
   width: 70px;
   height: 70px;
@@ -582,7 +593,7 @@ background:#FFFFFF !important;
 .cta-contact-item .icon-box{
   width: 30px;
   height: 30px;
-  background: #299b46;
+  background: #013198;
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -698,7 +709,7 @@ background:#FFFFFF !important;
 }
 .testimonial-rating i{
   font-size: 18px;
-  color: #299b46;
+  color: #013198;
 }
 .swiper-pagination .swiper-pagination-bullet{
   height: 10px ;
@@ -709,7 +720,7 @@ background:#FFFFFF !important;
   transition: all 0.4s ease-in-out;
 }
 .swiper-pagination-bullet-active{
-  background: #299b46 !important;
+  background: #013198 !important;
   width: 20px !important;
   border-radius: 12px !important;
 }
@@ -766,7 +777,7 @@ background:#FFFFFF !important;
   left: 0;
   top: 1px;
   background-image: url(https://html.awaikenthemes.com/petronus/images/arrow-white.svg);
-  background-color: #299b46;
+  background-color: #013198;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 14px auto;
@@ -786,7 +797,7 @@ background:#FFFFFF !important;
   border-radius: 50%;
 }
 .footer-links ul li::marker{
-  color: #299b46;
+  color: #013198;
     transition: all 0.3s ease-in-out;
 }
 .footer-logo img{
@@ -812,10 +823,10 @@ background:#FFFFFF !important;
 
 /*** Utility Class ***/
 .text-green{
-    color: #299b46;
+    color: #013198;
 }
 .bg-green{
-  background-color: #299b46 !important;
+  background-color: #013198 !important;
 }
 .fw-7{
     font-weight: 700;

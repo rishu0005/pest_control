@@ -4,14 +4,14 @@
         <div class="col-lg-5">
             <div class="about-footer w-75 text-white">
                 <h4 class="fw-7">About </h4>
-                <p class="">we are dedicated to creating safe, pest-free environments for homes and businesses alike. With years of experience in the pest control industry.
+                <p class="">At Sagar Pest Controller, we have been delivering top-quality pest control solutions since 2002. With over two decades of experience, we specialize in providing safe, effective, and eco-friendly pest management services for homes, businesses, and industries.
                    <br><br>
-                    we pride ourselves on delivering effective, eco-friendly solutions tailored to your needs.</p>
+                   Our team of trained professionals is committed to safeguarding your space from termites, rodents, cockroaches, mosquitoes, and more.</p>
             </div>
         </div>
         <div class="col-lg-2 col-md-3 footer-links text-white">
 
-            <h4>Services</h4>
+            <h4 class="ms-3">Services</h4>
             <ul class="">
                 <li class="mb-3">About Services</li>
                 <li class="mb-3">Our Services</li>
@@ -21,9 +21,9 @@
             </ul>
         </div>
         <div class="col-lg-2 footer-links col-md-4 text-white">
-            <h4>Links</h4>
+            <h4 class="ms-3">Links</h4>
             <ul class="">
-                <li class="mb-3">Home Pest Control</li>
+                <li class="mb-3 ">Home Pest Control</li>
                 <li class="mb-3">Commerical Pest</li>
                 <li class="mb-3">Termite & Rodent</li>
                 <li class="mb-3">Eco-Friendly Pest</li>
@@ -49,7 +49,8 @@
 
             </div>
             <div class="footer-content">
-                <p class="text-white ">Copyright © 2025 All Rights Reserved.</p>
+                <p class="text-white  text-end">Copyright © 2025 All Rights Reserved.</p>
+                <p class="text-white  text-center">Developed by Deltasoft.</p>
 
             </div>
            

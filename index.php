@@ -9,8 +9,8 @@
                 <div class="hero-content">
                     <!-- Section Title Start -->
                     <div class="section-title">
-                        <h5 class="text-success ">Your Shield Against Unwanted Guests</h5>
-                        <h1 class="text-light">Reliable pest & bug control services you can trust </h1>
+                        <h5 class="text-green ">Your Shield Against Unwanted Guests</h5>
+                        <h1 class="text-light">Sagar Pest Controller – Where Safety Meets Expertise </h1>
                         <p class="text-light mt-4 fs-5">Protect your home and business with our effective pest control solutions. From termites to rodents we eliminate pest quickly & safely.</p>
                     </div>
                     <!-- Section Title End -->
@@ -146,9 +146,11 @@
             <div class="col-lg-7">
                     <!-- Section Title Start -->
                     <div class="section-title">
-                        <h5 class="text-success">About Us</h5>
-                        <h2 class="">Protecting home, businesses, <span class="text-green"> and communities</span></h2>
-                        <p class="text-grey mt-4 fs-5">Our mission is simple: to provide dependable pest management services that ensure a clean, safe, and comfortable environment for everyone. With years of expertise and a customer-first approach ,we go above and beyond to eliminate pests and prevent their return.</p>
+                        <h5 class="text-green">About Us</h5>
+                        <h2 class="">Delivering  Safe & Effective  Pest Control, <span class="text-green">Since 2002</span></h2>
+                        <p class="text-grey mt-4 fs-5">At Sagar Pest Controller, we have been delivering top-quality pest control solutions since 2002. With over two decades of experience, we specialize in providing safe, effective, and eco-friendly pest management services for homes, businesses, and industries. <br><br>
+
+We use advanced machines and cutting-edge techniques to eliminate pests efficiently while ensuring minimal environmental impact. Our team of trained professionals is committed to safeguarding your space from termites, rodents, cockroaches, mosquitoes, and more.<br><br> </p>
                     </div>
                     <!-- Section Title ENd -->
                     <div class="about-us-list d-flex align-items-center flex-warp">
@@ -224,6 +226,7 @@
                 <div class="section-title section-title-center">
                     <h5 class="bg-green text-white">Services</h5>
                     <h2 class="text-center">Expert solutions for every <span class="text-green">pest Problem</span></h2>
+                    <p class="mt-4 fs-5  text-grey">We are providing different types of services for control of inscets to reduce Dengue, Maleriya, Allergy, Pleg and damage of property.</p>
                 </div>
             </div>
         </div>
@@ -234,15 +237,16 @@
     <div class="swiper-wrapper mb-5">
       <div class="swiper-slide card service-item ">
       <div class="service-image">
-           <a href="service-single.html" data-cursor-text="View">
+           <a href="" data-cursor-text="View">
                 <figure class="image-anime">
-                    <img src="https://html.awaikenthemes.com/petronus/images/service-image-1.jpg" alt="">
+                    <!-- <img src="https://html.awaikenthemes.com/petronus/images/service-image-1.jpg" alt=""> -->
+                     <img src="./img/cockroach_control.jpeg" alt="">
                 </figure>
             </a>                            
         </div>
 
         <div class="service-content p-3 text-center">
-            <h5 class="text-navyblue fw-7">Residental Pest Control</h5>
+            <h5 class="text-navyblue fw-7">Mosquitoes  Control</h5>
             <p class="text-grey fs-6">
                 Tailored Solutions to protect your home from common pests.
             </p>
@@ -253,34 +257,16 @@
       </div>
       <div class="swiper-slide card service-item ">
       <div class="service-image">
-           <a href="service-single.html" data-cursor-text="View">
-                <figure class="image-anime">
-                    <img src="https://html.awaikenthemes.com/petronus/images/service-image-2.jpg" alt="">
-                </figure>
-            </a>                            
-        </div>
-
-        <div class="service-content p-3 text-center">
-            <h5 class="text-navyblue fw-7">Residental Pest Control</h5>
-            <p class="text-grey fs-6">
-                Tailored Solutions to protect your home from common pests.
-            </p>
-        </div>
-        <div class="service-btn">
-            <a href="" class="readmore-btn text-decoration-none">read more</a>
-        </div>
-      </div>
-      <div class="swiper-slide card service-item ">
-      <div class="service-image">
-           <a href="service-single.html" data-cursor-text="View">
+           <a href="" data-cursor-text="View">
                 <figure class="image-anime">
                     <img src="https://html.awaikenthemes.com/petronus/images/service-image-3.jpg" alt="">
+
                 </figure>
             </a>                            
         </div>
 
         <div class="service-content p-3 text-center">
-            <h5 class="text-navyblue fw-7">Residental Pest Control</h5>
+            <h5 class="text-navyblue fw-7">Cockroaches Control</h5>
             <p class="text-grey fs-6">
                 Tailored Solutions to protect your home from common pests.
             </p>
@@ -291,15 +277,100 @@
       </div>
       <div class="swiper-slide card service-item ">
       <div class="service-image">
-           <a href="service-single.html" data-cursor-text="View">
+           <a href="" data-cursor-text="View">
                 <figure class="image-anime">
-                    <img src="https://html.awaikenthemes.com/petronus/images/service-image-4.jpg" alt="">
+                <!-- <img src="./img/cockroach_control.jpeg" alt=""> -->
+
+                    <!-- <img src="https://html.awaikenthemes.com/petronus/images/service-image-3.jpg" alt=""> -->
+                    <img src="https://html.awaikenthemes.com/petronus/images/service-image-2.jpg" alt="">
+
+                     <!-- <img src="./img/bed_bugs" alt=""> -->
                 </figure>
             </a>                            
         </div>
 
         <div class="service-content p-3 text-center">
-            <h5 class="text-navyblue fw-7">Residental Pest Control</h5>
+            <h5 class="text-navyblue fw-7">Bed Bugs Control</h5>
+            <p class="text-grey fs-6">
+                Tailored Solutions to protect your home from common pests.
+            </p>
+        </div>
+        <div class="service-btn">
+            <a href="" class="readmore-btn text-decoration-none">read more</a>
+        </div>
+      </div>
+      <div class="swiper-slide card service-item ">
+      <div class="service-image">
+           <a href="" data-cursor-text="View">
+                <figure class="image-anime">
+                    <!-- <img src="https://html.awaikenthemes.com/petronus/images/service-image-4.jpg" alt=""> -->
+                     <img src="./img/termite_control.jpeg" alt="">
+                </figure>
+            </a>                            
+        </div>
+
+        <div class="service-content p-3 text-center">
+            <h5 class="text-navyblue fw-7">Termite Control</h5>
+            <p class="text-grey fs-6">
+                Tailored Solutions to protect your home from common pests.
+            </p>
+        </div>
+        <div class="service-btn">
+            <a href="" class="readmore-btn text-decoration-none">read more</a>
+        </div>
+      </div>
+      <div class="swiper-slide card service-item ">
+      <div class="service-image">
+           <a href="" data-cursor-text="View">
+                <figure class="image-anime">
+                    <!-- <img src="https://html.awaikenthemes.com/petronus/images/service-image-4.jpg" alt=""> -->
+                     <img src="./img/rodent_control.jpeg" alt="">
+                </figure>
+            </a>                            
+        </div>
+
+        <div class="service-content p-3 text-center">
+            <h5 class="text-navyblue fw-7">Rodent Control</h5>
+            <p class="text-grey fs-6">
+                Tailored Solutions to protect your home from common pests.
+            </p>
+        </div>
+        <div class="service-btn">
+            <a href="" class="readmore-btn text-decoration-none">read more</a>
+        </div>
+      </div>
+      <div class="swiper-slide card service-item ">
+      <div class="service-image">
+           <a href="" data-cursor-text="View">
+                <figure class="image-anime">
+                    <!-- <img src="https://html.awaikenthemes.com/petronus/images/service-image-4.jpg" alt=""> -->
+                     <img src="./img/rat_guard_installion.jpeg" alt="">
+                </figure>
+            </a>                            
+        </div>
+
+        <div class="service-content p-3 text-center">
+            <h5 class="text-navyblue fw-7">Rat Guard Installion</h5>
+            <p class="text-grey fs-6">
+                Tailored Solutions to protect your home from common pests.
+            </p>
+        </div>
+        <div class="service-btn">
+            <a href="" class="readmore-btn text-decoration-none">read more</a>
+        </div>
+      </div>
+      <div class="swiper-slide card service-item ">
+      <div class="service-image">
+           <a href="" data-cursor-text="View">
+                <figure class="image-anime">
+                    <!-- <img src="https://html.awaikenthemes.com/petronus/images/service-image-4.jpg" alt=""> -->
+                     <img src="./img/general_insect.jpeg" alt="">
+                </figure>
+            </a>                            
+        </div>
+
+        <div class="service-content p-3 text-center">
+            <h5 class="text-navyblue fw-7">General Insects Control</h5>
             <p class="text-grey fs-6">
                 Tailored Solutions to protect your home from common pests.
             </p>
@@ -560,7 +631,7 @@
                 <!-- Section Title Start -->
                 <div class="section-title">
                     <h5 class="text-green">Frequently Asked Questions</h5>
-                    <h2 class="text-white">Find Helpful answers to yours pest <span class="text-green">control concerns</span> </h2>
+                    <h2 class="text-white">Find Helpful answers to yours pest <span class="text-white">control concerns</span> </h2>
                 </div>
                 <!-- Section TItle End -->
 
@@ -772,7 +843,7 @@
                     <div class="cta-box-content">
 
                         <div class="section-title section-title-center">
-                           <h2 class="text-white fw-7 ">Let's talk about your <span class="text-green">pest control needs</span></h2>
+                           <h2 class="text-white fw-7 ">Let's talk about your <span class="text-white">pest control needs</span></h2>
                         </div>
                         <div class="cta-box-body mt-4">
 
