@@ -259,6 +259,90 @@ We use advanced machines and cutting-edge techniques to eliminate pests efficien
       <div class="service-image">
            <a href="" data-cursor-text="View">
                 <figure class="image-anime">
+                    <!-- <img src="https://html.awaikenthemes.com/petronus/images/service-image-4.jpg" alt=""> -->
+                     <img src="./img/termite_control.jpeg" alt="">
+                </figure>
+            </a>                            
+        </div>
+
+        <div class="service-content p-3 text-center">
+            <h5 class="text-navyblue fw-7">Termite Control</h5>
+            <p class="text-grey fs-6">
+                Tailored Solutions to protect your home from common pests.
+            </p>
+        </div>
+        <div class="service-btn">
+            <a href="" class="readmore-btn text-decoration-none">read more</a>
+        </div>
+      </div>
+      <div class="swiper-slide card service-item ">
+      <div class="service-image">
+           <a href="" data-cursor-text="View">
+                <figure class="image-anime">
+                    <!-- <img src="https://html.awaikenthemes.com/petronus/images/service-image-4.jpg" alt=""> -->
+                     <img src="./img/rat_guard_installion.jpeg" alt="">
+                </figure>
+            </a>                            
+        </div>
+
+        <div class="service-content p-3 text-center">
+            <h5 class="text-navyblue fw-7">Rat Guard Installion</h5>
+            <p class="text-grey fs-6">
+                Tailored Solutions to protect your home from common pests.
+            </p>
+        </div>
+        <div class="service-btn">
+            <a href="" class="readmore-btn text-decoration-none">read more</a>
+        </div>
+      </div>
+      
+      
+      <div class="swiper-slide card service-item ">
+      <div class="service-image">
+           <a href="" data-cursor-text="View">
+                <figure class="image-anime">
+                    <!-- <img src="https://html.awaikenthemes.com/petronus/images/service-image-4.jpg" alt=""> -->
+                     <img src="./img/rodent_control.jpeg" alt="">
+                </figure>
+            </a>                            
+        </div>
+
+        <div class="service-content p-3 text-center">
+            <h5 class="text-navyblue fw-7">Rodent Control</h5>
+            <p class="text-grey fs-6">
+                Tailored Solutions to protect your home from common pests.
+            </p>
+        </div>
+        <div class="service-btn">
+            <a href="" class="readmore-btn text-decoration-none">read more</a>
+        </div>
+      </div>
+      
+      <div class="swiper-slide card service-item ">
+      <div class="service-image">
+           <a href="" data-cursor-text="View">
+                <figure class="image-anime">
+                    <!-- <img src="https://html.awaikenthemes.com/petronus/images/service-image-4.jpg" alt=""> -->
+                     <img src="./img/general_insect.jpeg" alt="">
+                </figure>
+            </a>                            
+        </div>
+
+        <div class="service-content p-3 text-center">
+            <h5 class="text-navyblue fw-7">General Insects Control</h5>
+            <p class="text-grey fs-6">
+                Tailored Solutions to protect your home from common pests.
+            </p>
+        </div>
+        <div class="service-btn">
+            <a href="" class="readmore-btn text-decoration-none">read more</a>
+        </div>
+      </div>
+
+      <div class="swiper-slide card service-item ">
+      <div class="service-image">
+           <a href="" data-cursor-text="View">
+                <figure class="image-anime">
                     <img src="https://html.awaikenthemes.com/petronus/images/service-image-3.jpg" alt="">
 
                 </figure>
@@ -291,86 +375,6 @@ We use advanced machines and cutting-edge techniques to eliminate pests efficien
 
         <div class="service-content p-3 text-center">
             <h5 class="text-navyblue fw-7">Bed Bugs Control</h5>
-            <p class="text-grey fs-6">
-                Tailored Solutions to protect your home from common pests.
-            </p>
-        </div>
-        <div class="service-btn">
-            <a href="" class="readmore-btn text-decoration-none">read more</a>
-        </div>
-      </div>
-      <div class="swiper-slide card service-item ">
-      <div class="service-image">
-           <a href="" data-cursor-text="View">
-                <figure class="image-anime">
-                    <!-- <img src="https://html.awaikenthemes.com/petronus/images/service-image-4.jpg" alt=""> -->
-                     <img src="./img/termite_control.jpeg" alt="">
-                </figure>
-            </a>                            
-        </div>
-
-        <div class="service-content p-3 text-center">
-            <h5 class="text-navyblue fw-7">Termite Control</h5>
-            <p class="text-grey fs-6">
-                Tailored Solutions to protect your home from common pests.
-            </p>
-        </div>
-        <div class="service-btn">
-            <a href="" class="readmore-btn text-decoration-none">read more</a>
-        </div>
-      </div>
-      <div class="swiper-slide card service-item ">
-      <div class="service-image">
-           <a href="" data-cursor-text="View">
-                <figure class="image-anime">
-                    <!-- <img src="https://html.awaikenthemes.com/petronus/images/service-image-4.jpg" alt=""> -->
-                     <img src="./img/rodent_control.jpeg" alt="">
-                </figure>
-            </a>                            
-        </div>
-
-        <div class="service-content p-3 text-center">
-            <h5 class="text-navyblue fw-7">Rodent Control</h5>
-            <p class="text-grey fs-6">
-                Tailored Solutions to protect your home from common pests.
-            </p>
-        </div>
-        <div class="service-btn">
-            <a href="" class="readmore-btn text-decoration-none">read more</a>
-        </div>
-      </div>
-      <div class="swiper-slide card service-item ">
-      <div class="service-image">
-           <a href="" data-cursor-text="View">
-                <figure class="image-anime">
-                    <!-- <img src="https://html.awaikenthemes.com/petronus/images/service-image-4.jpg" alt=""> -->
-                     <img src="./img/rat_guard_installion.jpeg" alt="">
-                </figure>
-            </a>                            
-        </div>
-
-        <div class="service-content p-3 text-center">
-            <h5 class="text-navyblue fw-7">Rat Guard Installion</h5>
-            <p class="text-grey fs-6">
-                Tailored Solutions to protect your home from common pests.
-            </p>
-        </div>
-        <div class="service-btn">
-            <a href="" class="readmore-btn text-decoration-none">read more</a>
-        </div>
-      </div>
-      <div class="swiper-slide card service-item ">
-      <div class="service-image">
-           <a href="" data-cursor-text="View">
-                <figure class="image-anime">
-                    <!-- <img src="https://html.awaikenthemes.com/petronus/images/service-image-4.jpg" alt=""> -->
-                     <img src="./img/general_insect.jpeg" alt="">
-                </figure>
-            </a>                            
-        </div>
-
-        <div class="service-content p-3 text-center">
-            <h5 class="text-navyblue fw-7">General Insects Control</h5>
             <p class="text-grey fs-6">
                 Tailored Solutions to protect your home from common pests.
             </p>
@@ -514,7 +518,7 @@ We use advanced machines and cutting-edge techniques to eliminate pests efficien
                
                     <figure class="image-anime reveal" style="transform: translate(0px, 0px); opacity: 1; visibility: inherit;">
                             <!-- <img src="images/features-image.jpg" alt="" style="transform: translate(0px, 0px);"> -->
-                        <img src="https://html.awaikenthemes.com/petronus/images/features-image.jpg" alt="heelo why are you not coming" alt="" style="transform: translate(0px, 0px);">
+                        <img src="./img/mosquito_control.jpeg" alt="heelo why are you not coming" alt="" style="transform: translate(0px, 0px);">
                     </figure>
                 </div>
 
@@ -610,17 +614,17 @@ We use advanced machines and cutting-edge techniques to eliminate pests efficien
                 <div class="our-faq-images">
                     <div class="faqs-img-1">
                      <figure class="image-anime reveal" style="transform: translate(0px, 0px); opacity: 1; visibility: inherit;">
-                        <img src="https://html.awaikenthemes.com/petronus/images/faqs-img-1.jpg" style="transform: translate(0px, 0px);" alt="">
+                        <img src="./img/general_insect.jpeg" style="transform: translate(0px, 0px);" alt="">
                      </figure>
                     </div>
                     <div class="faqs-img-2">
                         <figure class="image-anime reveal" style="transform: translate(0px, 0px); opacity: 1; visibility: inherit;" >
-                            <img src="https://html.awaikenthemes.com/petronus/images/faqs-img-2.jpg" style="transform: translate(0px, 0px);" alt="">
+                            <img src="./img/termite_control.jpeg" style="transform: translate(0px, 0px);" alt="">
                         </figure>
                     </div>
                     <div class="faqs-img-3">
                         <figure class="image-anime reveal"  style="transform: translate(0px, 0px); opacity: 1; visibility: inherit;">
-                            <img src="https://html.awaikenthemes.com/petronus/images/faqs-img-3.jpg" style="transform: translate(0px, 0px);" alt="">
+                            <img src="./img/cockroach_control.jpeg" style="transform: translate(0px, 0px);" alt="">
                         </figure>
                     </div>
                     
