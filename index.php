@@ -10,7 +10,7 @@
                     <!-- Section Title Start -->
                     <div class="section-title">
                         <h5 class="text-green ">Your Shield Against Unwanted Guests</h5>
-                        <h1 class="text-light">Sagar Pest Controller – Where Safety Meets Expertise </h1>
+                        <h1 class="text-light">Sagar Pest Control – Control the pest & save your family </h1>
                         <p class="text-light mt-4 fs-5">Protect your home and business with our effective pest control solutions. From termites to rodents we eliminate pest quickly & safely.</p>
                     </div>
                     <!-- Section Title End -->
@@ -383,54 +383,6 @@ We use advanced machines and cutting-edge techniques to eliminate pests efficien
             <a href="" class="readmore-btn text-decoration-none">read more</a>
         </div>
       </div>
-      <!-- <div class="swiper-slide card testimonial-item  p-5">
-        <div class="testimonial-author">
-            <div class="author-image">
-                <figure class="image-anime text-start">
-                    <img src="https://html.awaikenthemes.com/petronus/images/author-6.jpg" class="img-fluid img-pill" alt="">
-                </figure>
-            </div>
-            <div class="author-content text-start">
-                <h4 class="text-navyblue fw-7">Albert Walker</h4>
-                <p class="text-grey">chairman</p>
-            </div>
-            <div class="testimonial-rating text-start">
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-            </div>
-            <div class="testimonial-content text-start">
-                <p class="fs-5 text-grey">"Excellent service! We had a major ant problem, and they took care of it quickly and professionally.!"</p>
-            </div>
-            
-        </div>
-      </div>
-      <div class="swiper-slide card testimonial-item  p-5">
-        <div class="testimonial-author">
-            <div class="author-image">
-                <figure class="image-anime text-start">
-                    <img src="https://html.awaikenthemes.com/petronus/images/author-7.jpg" class="img-fluid img-pill" alt="">
-                </figure>
-            </div>
-            <div class="author-content text-start">
-                <h4 class="text-navyblue fw-7">Alan Runner</h4>
-                <p class="text-grey">chairman</p>
-            </div>
-            <div class="testimonial-rating text-start">
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-            </div>
-            <div class="testimonial-content text-start">
-                <p class="fs-5 text-grey">"Excellent service! We had a major ant problem, and they took care of it quickly and professionally.!"</p>
-            </div>
-            
-        </div>
-      </div> -->
      
     </div>
 
@@ -644,24 +596,33 @@ We use advanced machines and cutting-edge techniques to eliminate pests efficien
                         <div class="accordion-item border-0">
                             <h2 class="accordion-header bg-navyblue text-light" id="headingOne">
                             <button class="accordion-button bg-navyblue text-white  fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            1. What types of pests do you treat?
+                            1. WHY PEST CONTROL IS NECESSARY ?
                             </button>
                             </h2>
                             <div id="collapseOne" class="bg-navyblue  accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                             <div class="accordion-body text-white">
-                            We handle a wide range of pests, including rodents, ants, cockroaches, termites, bed bugs, mosquitoes, spiders, and wildlife.
+                            Pest control is necessary because rodent and insects carry diseases, infest
+                            your kitchens and bed-rooms, and bite you or your pets. Pests of all
+                            stripes carry through viruses and bacteria that require long – term
+                            treatment. Other can make existing medical conditions like asthma even
+                            worse.
                             </div>
                             </div>
                         </div>
                         <div class="accordion-item border-0 border-top border-secondary  ">
                             <h2 class="accordion-header " id="headingTwo">
                             <button class="accordion-button collapsed bg-navyblue fw-bold text-white" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                            2. Are your pest control methods safe for my pets?
+                            2. WHERE PEST CONTROL SERVICE REQUIRED ?
+                             
                             </button>
                             </h2>
                             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                             <div class="accordion-body bg-navyblue text-white">
-                            We handle a wide range of pests, including rodents, ants, cockroaches, termites, bed bugs, mosquitoes, spiders, and wildlife.
+                            CO-OPERATIVE HOUSING SOCIETY outside common area
+                            like as drain & gutter line, ducts, meter room, pump room, lift
+                            well, garbej, refuse area , car- parking , security cabin, shop line,
+                            stair-case, storage room, toilets & bathroom, garden and society
+                            office etc.
                             </div>
                             </div>
                         </div>
@@ -732,7 +693,7 @@ We use advanced machines and cutting-edge techniques to eliminate pests efficien
                 </figure>
             </div>
             <div class="author-content text-start">
-                <h4 class="text-navyblue fw-7">Ronald Richard</h4>
+                <h4 class="text-navyblue fw-7">Sheth Developers Pvt. Ltd.</h4>
                 <p class="text-grey">chairman</p>
             </div>
             <div class="testimonial-rating text-start">
@@ -756,7 +717,7 @@ We use advanced machines and cutting-edge techniques to eliminate pests efficien
                 </figure>
             </div>
             <div class="author-content text-start">
-                <h4 class="text-navyblue fw-7">Oliver Waltan</h4>
+                <h4 class="text-navyblue fw-7">Surbhi Builders & Developers</h4>
                 <p class="text-grey">chairman</p>
             </div>
             <div class="testimonial-rating text-start">
@@ -780,7 +741,7 @@ We use advanced machines and cutting-edge techniques to eliminate pests efficien
                 </figure>
             </div>
             <div class="author-content text-start">
-                <h4 class="text-navyblue fw-7">James Richard</h4>
+                <h4 class="text-navyblue fw-7">Lodha Aqua Complex </h4>
                 <p class="text-grey">chairman</p>
             </div>
             <div class="testimonial-rating text-start">
@@ -804,7 +765,7 @@ We use advanced machines and cutting-edge techniques to eliminate pests efficien
                 </figure>
             </div>
             <div class="author-content text-start">
-                <h4 class="text-navyblue fw-7">John Maximus</h4>
+                <h4 class="text-navyblue fw-7">Kalpataru Tower CHS Ltd.</h4>
                 <p class="text-grey">chairman</p>
             </div>
             <div class="testimonial-rating text-start">
@@ -820,6 +781,158 @@ We use advanced machines and cutting-edge techniques to eliminate pests efficien
             
         </div>
       </div>
+
+      <div class="swiper-slide card testimonial-item  p-5">
+        <div class="testimonial-author">
+            <div class="author-image">
+                <figure class="image-anime text-start">
+                    <img src="https://html.awaikenthemes.com/petronus/images/author-5.jpg" class="img-fluid img-pill" alt="">
+                </figure>
+            </div>
+            <div class="author-content text-start">
+                <h4 class="text-navyblue fw-7">Mahad Building</h4>
+                <p class="text-grey">chairman</p>
+            </div>
+            <div class="testimonial-rating text-start">
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+            </div>
+            <div class="testimonial-content text-start">
+                <p class="fs-5 text-grey">"Excellent service! We had a major ant problem, and they took care of it quickly and professionally.!"</p>
+            </div>
+            
+        </div>
+      </div>
+
+      <div class="swiper-slide card testimonial-item  p-5">
+        <div class="testimonial-author">
+            <div class="author-image">
+                <figure class="image-anime text-start">
+                    <img src="https://html.awaikenthemes.com/petronus/images/author-5.jpg" class="img-fluid img-pill" alt="">
+                </figure>
+            </div>
+            <div class="author-content text-start">
+                <h4 class="text-navyblue fw-7">Mumbai Bank</h4>
+                <p class="text-grey">chairman</p>
+            </div>
+            <div class="testimonial-rating text-start">
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+            </div>
+            <div class="testimonial-content text-start">
+                <p class="fs-5 text-grey">"Excellent service! We had a major ant problem, and they took care of it quickly and professionally.!"</p>
+            </div>
+            
+        </div>
+      </div>
+
+      <div class="swiper-slide card testimonial-item  p-5">
+        <div class="testimonial-author">
+            <div class="author-image">
+                <figure class="image-anime text-start">
+                    <img src="https://html.awaikenthemes.com/petronus/images/author-5.jpg" class="img-fluid img-pill" alt="">
+                </figure>
+            </div>
+            <div class="author-content text-start">
+                <h4 class="text-navyblue fw-7">Raj Tower CHS Ltd.-</h4>
+                <p class="text-grey">chairman</p>
+            </div>
+            <div class="testimonial-rating text-start">
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+            </div>
+            <div class="testimonial-content text-start">
+                <p class="fs-5 text-grey">"Excellent service! We had a major ant problem, and they took care of it quickly and professionally.!"</p>
+            </div>
+            
+        </div>
+      </div>
+
+      <div class="swiper-slide card testimonial-item  p-5">
+        <div class="testimonial-author">
+            <div class="author-image">
+                <figure class="image-anime text-start">
+                    <img src="https://html.awaikenthemes.com/petronus/images/author-5.jpg" class="img-fluid img-pill" alt="">
+                </figure>
+            </div>
+            <div class="author-content text-start">
+                <h4 class="text-navyblue fw-7">Times Of India suburban press.</h4>
+                <p class="text-grey">chairman</p>
+            </div>
+            <div class="testimonial-rating text-start">
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+            </div>
+            <div class="testimonial-content text-start">
+                <p class="fs-5 text-grey">"Excellent service! We had a major ant problem, and they took care of it quickly and professionally.!"</p>
+            </div>
+            
+        </div>
+      </div>
+
+      <div class="swiper-slide card testimonial-item  p-5">
+        <div class="testimonial-author">
+            <div class="author-image">
+                <figure class="image-anime text-start">
+                    <img src="https://html.awaikenthemes.com/petronus/images/author-5.jpg" class="img-fluid img-pill" alt="">
+                </figure>
+            </div>
+            <div class="author-content text-start">
+                <h4 class="text-navyblue fw-7">Gokul Accord CHS Ltd.</h4>
+                <p class="text-grey">chairman</p>
+            </div>
+            <div class="testimonial-rating text-start">
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+            </div>
+            <div class="testimonial-content text-start">
+                <p class="fs-5 text-grey">"Excellent service! We had a major ant problem, and they took care of it quickly and professionally.!"</p>
+            </div>
+            
+        </div>
+      </div>
+
+      <div class="swiper-slide card testimonial-item  p-5">
+        <div class="testimonial-author">
+            <div class="author-image">
+                <figure class="image-anime text-start">
+                    <img src="https://html.awaikenthemes.com/petronus/images/author-5.jpg" class="img-fluid img-pill" alt="">
+                </figure>
+            </div>
+            <div class="author-content text-start">
+                <h4 class="text-navyblue fw-7">Riddhi Tower CHS Ltd.</h4>
+                <p class="text-grey">chairman</p>
+            </div>
+            <div class="testimonial-rating text-start">
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+                <i class="fa-solid fa-star"></i>
+            </div>
+            <div class="testimonial-content text-start">
+                <p class="fs-5 text-grey">"Excellent service! We had a major ant problem, and they took care of it quickly and professionally.!"</p>
+            </div>
+            
+        </div>
+      </div>
+
+      
       
      
     </div>

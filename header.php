@@ -43,7 +43,7 @@
         <a class="nav-link me-3 pages fs-7" href="about.php">About Us<span class="under-line"></span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link me-3 projects fs-7" href="product.php">Products <span class="under-line"></span></a>
+        <a class="nav-link me-3 projects fs-7" href="service.php">Services <span class="under-line"></span></a>
       </li>
      <!-- <li class="nav-item">
         <a class="nav-link me-3 blog fs-7" href="#">Contact <span class="under-line"></span></a>
@@ -52,7 +52,7 @@
         <a class="nav-link me-3 shop fs-7" href="#">Shop <span class="under-line"></span></a>
       </li>-->
       <li class="nav-item">
-        <a class="nav-link me-3 contact fs-7" href="contact.php">Contacts <span class="under-line"></span></a>
+        <a class="nav-link me-3 contact fs-7" href="contact.php">Contact <span class="under-line"></span></a>
       </li> 
     </ul>
 
