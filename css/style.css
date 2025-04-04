@@ -1,14 +1,3 @@
-/* :root{
-  --primary-color: #002F47;
-    --secondary-color: #F5F7F2;
-    --text-color: #3D5A6A;
-    --accent-color: #013198;
-    --white-color: #FFFFFF;
-    --divider-color: #002F471A;
-    --dark-divider-color: #FFFFFF24;
-    --error-color: rgb(230, 87, 87);
-    --default-font: "Onest", sans-serif;
-} */
 html,body{
     font-family: "Onest", sans-serif;
 	background-color: #FFFFFF;
@@ -20,22 +9,17 @@ html,body{
 /* Make the navbar transparent */
 .navbar {
   background-color: transparent !important; /* Semi-transparent background */
-  /* position: fixed;  Change from absolute to fixed for sticky behavior */
   width: 100%;
   height: 100px;  /* Default height */
   top: 0;
   z-index: 1000;
-  /* border-bottom: 1px solid #535353; */
-  /* padding-top: 2rem; */
-  transition: all 0.3s ease-in-out;  /* Smooth transition for height and background */
-  /* padding: 50px; */
 }
-.navbar.scrolled {
-  height: 100px; /*  Reduced height when scrolled*/
-  background-color: #0B0D26 !important;  /* Darker background when scrolled */
-  border-bottom: 1px solid #222;  /* Darker border */
+@media (max-width:480px) {
+  .navbar{
+    height: auto;
+  }
+  
 }
-
 .navbar-brand img {
   padding-bottom: 8px;
   min-width: 130px;
@@ -44,12 +28,6 @@ html,body{
   max-width: 250px;
   transition: all 0.3s ease-in-out; /* Smooth transition for logo resizing */
 }
-
-/* Shrink Logo on Scroll */
-.navbar.scrolled .navbar-brand img {
-  max-width: 150px;  /* Shrink logo on scroll */
-}
-
 /* Ensure the navbar text is visible over the slideshow */
 .navbar-nav .nav-link,
 .navbar-text {
@@ -60,9 +38,7 @@ html,body{
   border-color: rgba(255, 255, 255, 0.7);
 }
 
-.navbar-toggler-icon {
-  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='%23ffffff' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.7%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
-}
+
 .nav-link{
   transition: all 0.6s ease;
   font-size: 1.2rem;
@@ -75,7 +51,7 @@ html,body{
   color: #1b59dd !important;
   transition: all 0.3s ease;
 }
-/* Index Page Hero Section */
+/* Index Page Hero Section Start */
 .hero{
     /* margin-top: 7rem; */
     position: relative;
@@ -184,13 +160,45 @@ html,body{
     margin-bottom: -156px;
     z-index: 2;
 }
+@media (max-width: 991px) {
+  
+  .section-title h1{
+    font-size: 44px;
+  }
+  .section-title h5{
+    padding: 4px 15px 4px 31px;
+  }
+  
+}
+@media (max-width: 768px) {
+  .section-title{
+    padding: 10px;
+  }
+  .section-title h1{
+    font-size: 26px;
+  }
+  .p-10{
+    padding: 10px;
+  }
+
+  
+}
 /* Index Page Hero Section end */
 
 /* Index Page Service Card Section Start */
-.best-service .icon-box{
+.best-service-item{
+  width: 25%;
+  display: flex;
+  /* flex-wrap: wrap; */
+  align-items: center;
+  border-right: 1px solid #002F471A;
+  border-bottom: 1px solid #002F471A;
+  padding: 40px 2.604vw;
+}
+.best-service-item .icon-box{
     position: relative;
-    width: 70px;
-    height: 70px;
+    min-width: 70px;
+    min-height: 70px;
     background: #013198;
     border-radius: 50%;
     display: flex;
@@ -198,11 +206,28 @@ html,body{
     justify-content: center;
     margin-right: 20px;
 }
-.best-service .icon-box img{
+.best-service-content{
+  width: calc(100% - 80px);
+}
+.best-service-item .icon-box img{
     position: relative;
     width: 100%;
     max-width: 30px;
     z-index: 1;
+}
+@media (max-width:991px ) {
+  .best-service-item{
+    width: 50%;
+    padding: 25px;
+  }
+}
+@media (max-width: 560px) {
+  .best-service-item{
+    width: 100%;
+    padding: 15px;
+    border-right: none !important;
+  }
+  
 }
 /* Index Page Service Card Section ENd */
 
@@ -300,6 +325,46 @@ html,body{
   border-radius: 50px;
   color: #FFFFFF;
 }
+.about-us-list{
+  width: calc(70% - 15px);
+}
+.about-us-list ul{
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px 30px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.about-us-list ul::before{
+  content: "";
+    display: block;
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translateX(-50%);
+    border-left: 1px solid #002F471A;
+    width: 1px;
+    height: 100%;
+    z-index: 0;
+}
+.about-us-list ul li {
+  position: relative;
+  width: calc(50% - 15px);
+  line-height: 1.5em;
+  text-transform: capitalize;
+  padding-left: 25px;
+}
+.about-us-list ul li::before{
+  position: absolute;
+  font-family: 'FontAwesome';
+  font-weight: 900;
+  left: 0;
+  top: 0;
+  font-size: 16px;
+  color: #013198;
+}
 .about-us-video-image{
   position: relative;
   border-radius: 24px;
@@ -343,6 +408,14 @@ html,body{
   justify-content: center;
   /* cursor: none; */
 }
+.about-countup{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+.about-counter-item{
+  width: calc(25% - 30px);
+}
 .about-countup h2{
   font-size: 44px;
 }
@@ -351,7 +424,39 @@ html,body{
   font-weight: 700;
   line-height: 1.1em;
 }
+@media (max-width: 768px) {
+  .section-title h2{
+    font-size: 24px !important;
+  }
+  .about-us-circle-img-1 figure , .about-us-circle-img-2 figure{
+    max-width: 90px;
 
+  }
+  .about-us-video-image, .about-us-list {
+    width: 100%;
+}
+.about-us-list ul::before{
+  display: none;
+}
+.padding-right-left{
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.about-us-list ul li{
+  width: 100%;
+}
+.about-counter-item{
+  width: calc(45% - 1px);
+}
+.about-counter-item h2 {
+  font-size: 24px;
+}
+.about-counter-item p{
+  font-size: 16px !important;
+
+}
+  
+}
 /* Index Page About  Section ENd */
 
 /* Index Page Service Slider Start */
@@ -420,6 +525,11 @@ background:#FFFFFF !important;
 }
 
 /* Index Page features section start */
+.our-features-list{
+  display: flex ;
+      flex-wrap: wrap;
+      gap: 30px;
+}
 .features-item{
   width: calc(50% - 15px);
     display: flex;
@@ -428,7 +538,7 @@ background:#FFFFFF !important;
   position: relative;
   background: #013198;
   border-radius: 50%;
-  width: 60px;
+  min-width: 60px;
   height: 60px;
   display: flex;
   align-items: center;
@@ -513,6 +623,19 @@ background:#FFFFFF !important;
   width: 6px;
   height: 6px;
 }
+@media (max-width: 768px){
+  .features-item{
+    width: 100%;
+  }
+  .features-image{
+    padding: 0;
+    margin: 0;
+  }
+}
+
+/* Index Page features section End */
+
+
 /* index page why choose us section start */
 .why-choose-us-item{
   position: relative;
@@ -547,6 +670,11 @@ background:#FFFFFF !important;
   width: 100%;
   transition: all 0.4s ease-in-out;
 
+}
+.why-choose-us-box{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
 }
 .why-choose-us-item .icon-box{
   position: relative;
@@ -617,6 +745,28 @@ background:#FFFFFF !important;
   margin-bottom: 0px !important;
   line-height: 1.6em;
 }
+@media (max-width:991px){
+  .why-choose-us-item{
+    width: calc(50% - 15px);
+    padding: 20px;
+  }
+  .page-cta-box{
+    width: calc(50% - 15px);
+    padding: 30px 20px;
+  }
+}
+@media (max-width: 768px){
+  .why-choose-us-item{
+    width: 100%;
+    padding: 20px;
+  }
+  .page-cta-box{
+    width: 100%;
+  }
+
+}
+/* index page why choose us section End */
+
 /* index-page faq Section Start */
 .our-faq-images{
   position: relative;
@@ -676,6 +826,37 @@ background:#FFFFFF !important;
   box-shadow: none !important;
 }  
 
+@media (max-width:991px) {
+  .our-faq-images{
+    background-position: left 75px bottom 45px;
+        max-width: 100%;
+        margin-bottom: 30px;
+  }
+}
+@media (max-width: 768px){
+  .our-faq-images{
+    width: 100%;
+    max-width: 81%;
+    margin: 0 auto;
+    margin-bottom: 30px
+  }
+  .faqs-img-1{
+    padding-right: 152px;
+  }
+  .faqs-img-2{
+    max-width: 210px;
+    margin: 0 auto;
+    margin-right: 0;
+    margin-top: -110px;
+  }
+  .faqs-img-3{
+    top: 50px;
+    max-width: 140px;
+  }
+
+}
+
+/* index-page faq Section End */
 /* INdex page testimonial Page  */
 .bg-img{
   background: url('https://html.awaikenthemes.com/petronus/images/testimonial-bg-img.png') no-repeat;
@@ -732,7 +913,7 @@ background:#FFFFFF !important;
 }
 /* testimonial section ends */
 
-/* Need section Start */
+/*Index Page Pest Need section Start */
 .cta-box{
   position: relative;
   background: url('https://html.awaikenthemes.com/petronus/images/cta-box-bg.jpg') no-repeat;
@@ -754,7 +935,7 @@ background:#FFFFFF !important;
 .cta-box-image {
   position: relative;
   text-align: center;
-  margin-right: 90px;
+  /* margin-right: 90px; */
   z-index: 1;
 }
 .cta-box-image img {
@@ -791,6 +972,8 @@ background:#FFFFFF !important;
   width: 20px;
   height: 20px;
 }
+/*Index Page Pest Need section End */
+
 
 /* index page footer */
 .footer-padding{
@@ -819,13 +1002,7 @@ background:#FFFFFF !important;
   border-radius: 25px;
 }
 
-
-
-
-
-
-
-
+/* Footer End */
 
 
 
@@ -849,13 +1026,16 @@ background:#FFFFFF !important;
   padding: 100px 0;
 }
 .text-grey{
-  color: #3d5a6a;
+  color: #3d5a6a !important;
 }
 .bg-navyblue{
   background-color: #002f47 !important;
 }
 .text-navyblue{
   color: #002f47;
+}
+.border-green{
+  border: 2px solid #013198;
 }
 
 /*** Contact Page Start ***/
@@ -921,4 +1101,26 @@ background:#FFFFFF !important;
     transition: all 0.5s ease-in-out;
     z-index: 1;
 }
+
+@media (max-width: 991px){
+
+}
+@media (max-width: 768px){
+  .contact-about-icon{
+    /* max-width: 30px; */
+    font-size: 30px;
+    
+  }
+  .contact-section{
+    padding: 1rem !important;
+  }
+  .flex-direction{
+    flex-direction: column;
+  }
+}
 /*** Contact Page End ***/
+
+/* About Page Start */
+
+
+/* About Page End */

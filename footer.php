@@ -32,27 +32,41 @@
         </div>
         <div class="col-lg-3 col-md-5 text-white">
             <h4 class="mb-3">Contact Us </h4>
-            <p class="mt-3"> <i class="fa-solid fa-envelope mail me-3"></i> sagarpestcontrol2002@gmail.com</p>
-            <p class="mt-3"> <i class="fa-solid fa-phone mail me-3"></i> +91 98201 31924</p>
+            <p class="mt-3"> <i class="fa-solid fa-envelope mail me-2"></i> sagarpestcontrol2002@gmail.com</p>
+            <p class="mt-3"> <i class="fa-solid fa-phone mail me-2"></i> +91 98201 31924</p>
         </div>
-        <div class="col-lg-12 mt-5 border-secondary border-top d-flex justify-content-between flex-wrap align-items-center">
-            <div class="footer-logo d-flex align-items-center">
-                <img src="./img/logo.png" class="img-fluid" alt="">
-                <h3 class="text-light fw-7">Sagar Pest Controller</h3>
-            </div>
-            <div class="footer-social">
-            <ul class="list-unstyled d-flex justify-content-center gap-3 align-items-center">
-                <li><a href="#"><i class="fa-brands fa-instagram icon"></i></a></li>
-                <li><a href="#"><i class="fa-brands fa-facebook-f icon"></i></a></li>
-                <li><a href="#"><i class="fa-brands fa-dribbble icon"></i></a></li>
-             </ul>
 
-            </div>
-            <div class="footer-content">
-                <p class="text-white  text-end">Copyright © 2025 All Rights Reserved.</p>
+        <div class="row mt-5 border-secondary border-top d-flex justify-content-between flex-wrap align-items-center">
+           
+        <div class="col-lg-4 col-md-6">
+                <div class="footer-logo d-flex align-items-center">
+                        <img src="./img/logo.png" class="img-fluid" alt="">
+                        <h3 class="text-light fw-7">Sagar Pest Controller</h3>
+                    </div>
+                </div>
+
+        <div class="col-lg-4 col-md-6">
+            <div class="footer-social">
+                        <ul class="list-unstyled d-flex justify-content-center gap-3 align-items-center">
+                            <li><a href="#"><i class="fa-brands fa-instagram icon"></i></a></li>
+                            <li><a href="#"><i class="fa-brands fa-facebook-f icon"></i></a></li>
+                            <li><a href="#"><i class="fa-brands fa-dribbble icon"></i></a></li>
+                        </ul>
+                </div>
+        </div>
+
+        <div class="col-lg-4 col-md-12">
+  <div class="footer-content">
+                <p class="text-white  text-center">Copyright © 2025 All Rights Reserved.</p>
                 <p class="text-white  text-center">Developed by Deltasoft.</p>
 
             </div>
+        </div>
+        
+          
+
+            
+          
            
         </div>
     </div>
@@ -61,7 +75,7 @@
 
 <!-- Bootstrap CDN -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
-<!-- Swiper Js Script Cdn -->
+<!-- Swiper JS -->
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <script>
 

@@ -17,9 +17,8 @@
 <!-- Count Up Animation -->
 <script src="https://cdn.rawgit.com/inorganik/countUp.js/master/dist/countUp.min.js"></script>
 
-<!-- Swiper Js Cdn -->
-<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
-
+<!-- Swiper CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
 <!-- Jquery Cdn -->
 <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
 </head>
@@ -27,41 +26,56 @@
 <nav class="navbar  navbar-expand-lg">
   <div class="container ">
     <!-- <div class="container"></div> -->
-    <a class="navbar-brand me-5" href="index.php">
+    <a class="navbar-brand" href="index.php">
       <img loading="lazy" class="logo_image" src="./img/logo.png" alt="Fabrica" width="100" height="100">
        
     </a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+
+
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
+    
+
     </button>
+
+
     <div class="collapse navbar-collapse " id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item active">
-        <a class="nav-link me-3 fs-7 home  " href="index.php">Home <span class="under-line"></span> </a>
+        <a class="nav-link me-3 fs-7 home  " href="index.php">Home  </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link me-3 pages fs-7" href="about.php">About Us<span class="under-line"></span></a>
+        <a class="nav-link me-3 pages fs-7" href="about.php">About Us</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link me-3 projects fs-7" href="service.php">Services <span class="under-line"></span></a>
+        <a class="nav-link me-3 projects fs-7" href="service.php">Services </a>
       </li>
      <!-- <li class="nav-item">
-        <a class="nav-link me-3 blog fs-7" href="#">Contact <span class="under-line"></span></a>
+        <a class="nav-link me-3 blog fs-7" href="#">Contact </a>
       </li>
        <li class="nav-item">
-        <a class="nav-link me-3 shop fs-7" href="#">Shop <span class="under-line"></span></a>
+        <a class="nav-link me-3 shop fs-7" href="#">Shop </a>
       </li>-->
       <li class="nav-item">
-        <a class="nav-link me-3 contact fs-7" href="contact.php">Contact <span class="under-line"></span></a>
+        <a class="nav-link me-3 contact fs-7" href="contact.php">Contact </a>
       </li> 
     </ul>
+
+     	<!-- Mobile Number -->
+       <div class="d-flex ms-auto">
+        <span class="navbar-text  text-grey">
+          <i class="fa-solid fa-phone-volume"></i> <a href="tel:+917507483383" class="text-grey  fs-5  ">+91 7507483383</a> / <a href="tel:+91 9325682260" class="text-grey  fs-5"> 9325682260</a>
+        </span>
+      </div>
 
     
   </div>
 
     </div>
 
-  </div>
+ 
 </nav>
+
+
     
 

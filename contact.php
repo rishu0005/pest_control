@@ -23,91 +23,97 @@
     </div>
 </div>
 
-<div class="container mt-5 mb-5 bg-navyblue  p-5 contact-section border-radius">
-    <div class="row">
-        <div class="col-lg-4 col-md-6">
-            <div class="card bg-transparent border-0  d-flex gap-3 flex-row">
-            <i class="fa-solid fa-envelope  contact-about-icon "></i>
-            <div class="">
-                <h3 class="text-white">Email Address</h3>
-                <p class="text-white">santoshmhabdi@gmail.com </p>
-            </div>
+<div class="container-fluid padding-right-left">
 
-            </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6">
-            <div class="card bg-transparent border-0  d-flex gap-3 flex-row">
-            <i class="fa-solid fa-phone-volume contact-about-icon"></i>
-            <div class="mb-3">
-                <h3 class="text-white">Contact Us</h3>
-                <div class="d-flex">
-
-                    <p class="text-white mb-1">9820614206 </p>
-                    <p class="text-white mb-1">&emsp; 9867096470 </p>
-                    <p class="text-white ">&emsp; 9820131924 </p>
+    <div class="container mt-5 mb-5 bg-navyblue  p-5 contact-section border-radius">
+        <div class="row">
+            <div class="col-lg-4 col-md-6">
+                <div class="card bg-transparent border-0  d-flex gap-3 flex-row">
+                <i class="fa-solid fa-envelope  contact-about-icon "></i>
+                <div class="">
+                    <h3 class="text-white">Email Address</h3>
+                    <p class="text-white">santoshmhabdi@gmail.com </p>
                 </div>
-                <!-- <p class="text-white">9820259539 </p> -->
+    
+                </div>
             </div>
-
+    
+            <div class="col-lg-4 col-md-6">
+                <div class="card bg-transparent border-0  d-flex gap-3 flex-row">
+                <i class="fa-solid fa-phone-volume contact-about-icon"></i>
+                <div class="mb-3">
+                    <h3 class="text-white">Contact Us</h3>
+                    <div class="d-flex flex-direction">
+    
+                        <p class="text-white mb-1 me-2">9820614206 </p>
+                        <p class="text-white mb-1 me-2"> 9867096470 </p>
+                        <p class="text-white me-2">9820131924 </p>
+                    </div>
+                    <!-- <p class="text-white">9820259539 </p> -->
+                </div>
+    
+                </div>
+            </div>
+    
+            <div class="col-lg-4 col-md-6">
+                <div class="card bg-transparent border-0  gap-3 d-flex  flex-row">
+                <i class="fa-solid fa-location-dot contact-about-icon"></i>
+                <div class="p-0 m-0">
+                    <h3 class="text-white">Location </h3>
+                    <p class="text-white">Kandivali East, Mumbai – 400101 </p>
+                </div>
+    
+                </div>
             </div>
         </div>
-
-        <div class="col-lg-4 col-md-6">
-            <div class="card bg-transparent border-0  d-flex gap-3 flex-row">
-            <<i class="fa-solid fa-location-dot contact-about-icon"></i>
-            <div class="p-0 m-0">
-                <h3 class="text-white">Location </h3>
-                <p class="text-white">Kandivali East, Mumbai – 400101 </p>
-            </div>
-
-            </div>
-        </div>
+    
     </div>
-
 </div>
 
-<div class="container bg-lightsecondary  overflow-hidden border-radius mb-5">
-    <div class="row ">
-        
-        <div class="col-lg-6 p-4">
-            <div class="section-title">
-                <h2 class="text-anime">Effective Pest Solutions - <span class="text-green">reach out today</span></h2>
-            </div>
+<div class="container-fluid padding-right-left">
 
-         <form action="mail.php" method="post" class="contact-form">
-
-            <div class="row mt-5">
-            <div class="form-group col-md-6 mb-4">
-                <input type="text" name="name" class="form-control" placeholder="Name" id="" required>
+    <div class="container  bg-lightsecondary  overflow-hidden border-radius mb-5">
+        <div class="row ">
+            
+            <div class="col-lg-6  p-4">
+                <div class="section-title">
+                    <h2 class="text-anime">Effective Pest Solutions - <span class="text-green">reach out today</span></h2>
+                </div>
+    
+             <form action="mail.php" method="post" class="contact-form">
+    
+                <div class="row mt-3 ">
+                <div class="form-group col-md-6 mb-4">
+                    <input type="text" name="name" class="form-control" placeholder="Name" id="" required>
+                </div>
+                <div class="form-group col-md-6 mb-4">
+                    <input type="text" name="location" class="form-control" placeholder="Location" id="">
+                </div>
+                <div class="form-group col-md-6 mb-4">
+                    <input type="email" name="email" class="form-control" placeholder="Emal" id="" required>
+                </div>
+                <div class="form-group col-md-6 mb-4">
+                    <input type="number" name="phone"  class="form-control" placeholder="Phone No." id="">
+                </div>
+                <div class="col-md-12 mb-5 form-group">
+                    <textarea name="message" class="form-control" rows="4" placeholder="Message" id=""></textarea>
+                </div>
+    
+                <div class="col-md-12">
+                    <button type="submit" class="btn-default">Send Message</button>
+                </div>
+    
+    
+              </div>
+            
+            </form>
+              
+    
             </div>
-            <div class="form-group col-md-6 mb-4">
-                <input type="text" name="location" class="form-control" placeholder="Location" id="">
+            <div class="col-lg-6 p-0">
+                <img src="https://img.freepik.com/free-vector/man-hazmat-suit-cleaning-kitchen-from-bacteria_23-2148480881.jpg?ga=GA1.1.1643490475.1742809442&semt=ais_hybrid" alt="" class="img-fluid contact-form-img">
+                <!-- <img src="https://img.freepik.com/free-vector/virus-desinfection-concept_52683-35790.jpg?ga=GA1.1.1643490475.1742809442&semt=ais_hybrid" alt="" class="img-fluid contact-form-img"> -->
             </div>
-            <div class="form-group col-md-6 mb-4">
-                <input type="email" name="email" class="form-control" placeholder="Emal" id="" required>
-            </div>
-            <div class="form-group col-md-6 mb-4">
-                <input type="number" name="phone"  class="form-control" placeholder="Phone No." id="">
-            </div>
-            <div class="col-md-12 mb-5 form-group">
-                <textarea name="message" class="form-control" rows="4" placeholder="Message" id=""></textarea>
-            </div>
-
-            <div class="col-md-12">
-                <button type="submit" class="btn-default">Send Message</button>
-            </div>
-
-
-          </div>
-        
-        </form>
-          
-
-        </div>
-        <div class="col-lg-6 p-0">
-            <img src="https://img.freepik.com/free-vector/man-hazmat-suit-cleaning-kitchen-from-bacteria_23-2148480881.jpg?ga=GA1.1.1643490475.1742809442&semt=ais_hybrid" alt="" class="img-fluid contact-form-img">
-            <!-- <img src="https://img.freepik.com/free-vector/virus-desinfection-concept_52683-35790.jpg?ga=GA1.1.1643490475.1742809442&semt=ais_hybrid" alt="" class="img-fluid contact-form-img"> -->
         </div>
     </div>
 </div>

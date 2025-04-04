@@ -10,7 +10,7 @@
                     <!-- Section Title Start -->
                     <div class="section-title">
                         <h5 class="text-green ">Your Shield Against Unwanted Guests</h5>
-                        <h1 class="text-light">Sagar Pest Control – Control the pest & save your family </h1>
+                        <h1 class="text-light">Sagar Pest Control:  Control the pest & save your family </h1>
                         <p class="text-light mt-4 fs-5">Protect your home and business with our effective pest control solutions. From termites to rodents we eliminate pest quickly & safely.</p>
                     </div>
                     <!-- Section Title End -->
@@ -18,7 +18,7 @@
                     <!-- Hero Button Start  -->
                      <div class="hero-btn">
                         <a class="btn-default btn-highlighted rounded-pill text-decoration-none text-light fw-bold" href="">Book A Service</a>
-                        <a class="text-light ms-4 fw-bold" href="">View All Service</a>
+                        <!-- <a class="text-light ms-4 fw-bold" href="">View All Service</a> -->
                      </div>
                      <!-- Hero Button End -->
 
@@ -28,7 +28,7 @@
             </div>
             <div class="col-lg-6">
                 <!-- Hero Image Start -->
-                <div class="hero-image">
+                <div class="hero-image mt-5">
                      <figure>
                     <img src="https://html.awaikenthemes.com/petronus/images/hero-image.png" class="img-fluid" alt="">
                 </figure> 
@@ -46,64 +46,49 @@
 <!-- Service Item Container  Start -->
 <div class="container-fluid">
     <div class="row">
-        <div class="col-lg-3 border-end  border-bottom">
-            <!-- Service Item Start -->
-            <div class="d-flex justify-content-center align-items-center best-service p-4">
-                <div class="icon-box d-flex">
-                    <img src="https://html.awaikenthemes.com/petronus/images/icon-best-service-1.svg" class="img-fluid" alt="">
+        <div class="col-lg-12">
+            <div class="best-service-box d-flex flex-wrap">
+                <div class="best-service-item">
+                            <div class="icon-box ">
+                                <img src="https://html.awaikenthemes.com/petronus/images/icon-best-service-1.svg" class="img-fluid" alt="">
+                            </div>
+                            <div class="best-service-content">
+                                <h5 class="fw-7">Mosquitoes Control</h5>
+                                <a href="" class="readmore-btn text-decoration-none">Read more</a>
+                            </div>
                 </div>
-                <div class="best-service-content">
-                    <h5 class="fw-7">Mosquitoes Control</h5>
-                    <a href="" class="readmore-btn text-decoration-none">Read more</a>
+
+                <div class="best-service-item">
+                            <div class="icon-box d-flex">
+                                <img src="https://html.awaikenthemes.com/petronus/images/icon-best-service-1.svg" class="img-fluid" alt="">
+                            </div>
+                            <div class="best-service-content">
+                                <h5 class="fw-7">Cockroaches Control</h5>
+                                <a href="" class="readmore-btn text-decoration-none">Read more</a>
+                            </div>
                 </div>
+
+                <div class="best-service-item">
+                            <div class="icon-box d-flex">
+                                <img src="https://html.awaikenthemes.com/petronus/images/icon-best-service-1.svg" class="img-fluid" alt="">
+                            </div>
+                            <div class="best-service-content">
+                                <h5 class="fw-7">Bed-bug Control</h5>
+                                <a href="" class="readmore-btn text-decoration-none">Read more</a>
+                            </div>
+                </div>
+
+                <div class="best-service-item">
+                            <div class="icon-box d-flex">
+                                <img src="https://html.awaikenthemes.com/petronus/images/icon-best-service-1.svg" class="img-fluid" alt="">
+                            </div>
+                            <div class="best-service-content">
+                                <h5 class="fw-7">General Insects, Control</h5>
+                                <a href="" class="readmore-btn text-decoration-none">Read more</a>
+                            </div>
+                </div>
+
             </div>
-            <!-- Service Item End -->
-
-        </div>
-
-        <div class="col-lg-3 border-end  border-bottom">
-            <!-- Service Item Start  -->
-            <div class="d-flex justify-content-center align-items-center best-service p-4">
-                <div class="icon-box d-flex">
-                    <img src="https://html.awaikenthemes.com/petronus/images/icon-best-service-1.svg" class="img-fluid" alt="">
-                </div>
-                <div class="best-service-content">
-                    <h5 class="fw-7">Cockroaches Control</h5>
-                    <a href="" class="readmore-btn text-decoration-none">Read more</a>
-                </div>
-            </div>
-            <!-- Service Item End -->
-
-        </div>
-
-        <div class="col-lg-3 border-end  border-bottom">
-            <!-- Service Item Start -->
-            <div class="d-flex justify-content-center align-items-center best-service p-4">
-                <div class="icon-box d-flex">
-                    <img src="https://html.awaikenthemes.com/petronus/images/icon-best-service-1.svg" class="img-fluid" alt="">
-                </div>
-                <div class="best-service-content">
-                    <h5 class="fw-7">Bed-bug  Control</h5>
-                    <a href="" class="readmore-btn text-decoration-none">Read more</a>
-                </div>
-            </div>
-            <!-- Service Item End -->
-
-        </div>
-
-        <div class="col-lg-3 border-end  border-bottom">
-            <!-- Service Item Start -->
-            <div class="d-flex justify-content-center align-items-center best-service p-4">
-                <div class="icon-box d-flex">
-                    <img src="https://html.awaikenthemes.com/petronus/images/icon-best-service-1.svg" class="img-fluid" alt="">
-                </div>
-                <div class="best-service-content">
-                    <h5 class="fw-7">General Insects, Control</h5>
-                    <a href="" class="readmore-btn text-decoration-none ">Read more</a>
-                </div>
-            </div>
-            <!-- Service Item End -->
-
         </div>
     </div>
 </div> 
@@ -143,35 +128,33 @@
             </div>
         </div>
 
-            <div class="col-lg-7">
+            <div class="col-lg-7 ">
                     <!-- Section Title Start -->
                     <div class="section-title">
                         <h5 class="text-green">About Us</h5>
-                        <h2 class="">Delivering  Safe & Effective  Pest Control, <span class="text-green">Since 2002</span></h2>
+                        <h2 class="">Delivering Quality product & quick service <span class="text-green">Since 2002</span></h2>
                         <p class="text-grey mt-4 fs-5">At Sagar Pest Controller, we have been delivering top-quality pest control solutions since 2002. With over two decades of experience, we specialize in providing safe, effective, and eco-friendly pest management services for homes, businesses, and industries. <br><br>
 
-We use advanced machines and cutting-edge techniques to eliminate pests efficiently while ensuring minimal environmental impact. Our team of trained professionals is committed to safeguarding your space from termites, rodents, cockroaches, mosquitoes, and more.<br><br> </p>
+                                We use advanced machines and cutting-edge techniques to eliminate pests efficiently while ensuring minimal environmental impact. Our team of trained professionals is committed to safeguarding your space from termites, rodents, cockroaches, mosquitoes, and more.<br><br> </p>
                     </div>
                     <!-- Section Title ENd -->
-                    <div class="about-us-list d-flex align-items-center flex-warp">
-                        <!-- About Us List Start -->
-                        <ul class="list-unstyled text-grey me-5 ">
+                
+
+                     <div class="about-us-body d-flex flex-wrap gap-4 align-items-center">
+                        <div class="about-us-list">
+                            <ul>
                             <li class="mb-2 "><i class="fa-solid fa-check check me-2"></i>Expertise You Can Trust</li>
                             <li class="mb-2"><i class="fa-solid fa-check check me-2"></i>Certified Professionals</li>
                             <li class="mb-2"><i class="fa-solid fa-check check me-2"></i>Eco-Friendly Approach</li>
                             <li class="mb-2"><i class="fa-solid fa-check check me-2"></i>Customer-Focused Service</li>
-                           
-                        </ul>
-                        <ul  class="list-unstyled text-grey me-4">
                             <li class="mb-2"><i class="fa-solid fa-check check me-2"></i>24/7 Availability</li>
                             <li class="mb-2"><i class="fa-solid fa-check check me-2"></i>Affordable Solutions</li>
                             <li class="mb-2"><i class="fa-solid fa-check check me-2"></i>Advanced Techniques</li>
                             <li class="mb-2"><i class="fa-solid fa-check check me-2"></i>Commitment to Excellence</li>
-                           
-                        </ul>
-                        <!-- About Us List ENd -->
-
-                        <div class="about-us-video-image">
+                            </ul>
+                            
+                        </div>
+                        <div class="about-us-video-image padding-right-left">
                             <!-- About Us Video Start -->
                           
                             <figure class="image-anime">
@@ -186,25 +169,26 @@ We use advanced machines and cutting-edge techniques to eliminate pests efficien
                             <!-- About Us Video ENd -->
 
                         </div>
+
                      </div>
-                <div class="about-countup mt-3 d-flex justify-content-between align-items-center flex-wrap">
+                <div class="about-countup padding-right-left mt-3 ">
                 <!-- Countdown Section Begin -->                         
-                    <div class="border-right ">
+                    <div class="border-right about-counter-item">
                        <h2> <span class="counter" id="cases">0</span></h2>
                         <p class="fs-5 text-grey">Cases Solved</p>
                     </div>
 
-                    <div class="border-right ">
+                    <div class="border-right about-counter-item">
                        <h2><span class="counter count" id="projects">0</span></h2> 
                         <p class="fs-5 text-grey">Team member</p>
                     </div>
 
-                    <div class=" border-right">
+                    <div class=" border-right about-counter-item">
                        <h2> <span class="counter" id="clients">0+</span></h2>
                         <p class="fs-5 text-grey">Years Of Experience</p>
                     </div>
 
-                    <div class="">
+                    <div class="about-counter-item">
                         <h2><span  class="yearly_profit counter" id="profit">0%</span></h2>
                        
                         <p class="fs-5 text-grey">Happy Customers</p>
@@ -239,7 +223,6 @@ We use advanced machines and cutting-edge techniques to eliminate pests efficien
       <div class="service-image">
            <a href="" data-cursor-text="View">
                 <figure class="image-anime">
-                    <!-- <img src="https://html.awaikenthemes.com/petronus/images/service-image-1.jpg" alt=""> -->
                      <img src="./img/cockroach_control.jpeg" alt="">
                 </figure>
             </a>                            
@@ -251,7 +234,7 @@ We use advanced machines and cutting-edge techniques to eliminate pests efficien
                 Tailored Solutions to protect your home from common pests.
             </p>
         </div>
-        <div class="service-btn">
+        <div class="service-btn mb-2">
             <a href="" class="readmore-btn text-decoration-none">read more</a>
         </div>
       </div>
@@ -259,7 +242,6 @@ We use advanced machines and cutting-edge techniques to eliminate pests efficien
       <div class="service-image">
            <a href="" data-cursor-text="View">
                 <figure class="image-anime">
-                    <!-- <img src="https://html.awaikenthemes.com/petronus/images/service-image-4.jpg" alt=""> -->
                      <img src="./img/termite_control.jpeg" alt="">
                 </figure>
             </a>                            
@@ -279,7 +261,6 @@ We use advanced machines and cutting-edge techniques to eliminate pests efficien
       <div class="service-image">
            <a href="" data-cursor-text="View">
                 <figure class="image-anime">
-                    <!-- <img src="https://html.awaikenthemes.com/petronus/images/service-image-4.jpg" alt=""> -->
                      <img src="./img/rat_guard_installion.jpeg" alt="">
                 </figure>
             </a>                            
@@ -295,13 +276,11 @@ We use advanced machines and cutting-edge techniques to eliminate pests efficien
             <a href="" class="readmore-btn text-decoration-none">read more</a>
         </div>
       </div>
-      
-      
+
       <div class="swiper-slide card service-item ">
       <div class="service-image">
            <a href="" data-cursor-text="View">
                 <figure class="image-anime">
-                    <!-- <img src="https://html.awaikenthemes.com/petronus/images/service-image-4.jpg" alt=""> -->
                      <img src="./img/rodent_control.jpeg" alt="">
                 </figure>
             </a>                            
@@ -322,7 +301,6 @@ We use advanced machines and cutting-edge techniques to eliminate pests efficien
       <div class="service-image">
            <a href="" data-cursor-text="View">
                 <figure class="image-anime">
-                    <!-- <img src="https://html.awaikenthemes.com/petronus/images/service-image-4.jpg" alt=""> -->
                      <img src="./img/general_insect.jpeg" alt="">
                 </figure>
             </a>                            
@@ -363,12 +341,7 @@ We use advanced machines and cutting-edge techniques to eliminate pests efficien
       <div class="service-image">
            <a href="" data-cursor-text="View">
                 <figure class="image-anime">
-                <!-- <img src="./img/cockroach_control.jpeg" alt=""> -->
-
-                    <!-- <img src="https://html.awaikenthemes.com/petronus/images/service-image-3.jpg" alt=""> -->
                     <img src="https://html.awaikenthemes.com/petronus/images/service-image-2.jpg" alt="">
-
-                     <!-- <img src="./img/bed_bugs" alt=""> -->
                 </figure>
             </a>                            
         </div>
@@ -386,7 +359,7 @@ We use advanced machines and cutting-edge techniques to eliminate pests efficien
      
     </div>
 
-      <div class="swiper-pagination services-pagination text-green mt-5"></div>
+      <div class="swiper-pagination services-pagination text-green "></div>
 </div>
             </div>
 
@@ -415,14 +388,14 @@ We use advanced machines and cutting-edge techniques to eliminate pests efficien
                 </div>
 
                 <div class="our-features-list">
-                    <div class="d-flex flex-wrap">
-                        <div class="features-item d-flex">
+                    
+                        <div class="features-item  d-flex">
                             <div class="icon-box">
                                 <img src="https://html.awaikenthemes.com/petronus/images/icon-features-item-1.svg" alt="">
                             </div>
                             <div class="feature-items-content">
-                                <h5 class="fw-7">Emergency Services</h5>
-                                <p class="text-grey word-wrap w-75">We are available round the clock to address.</p>
+                                <h5 class="fw-7">Non Toxic </h5>
+                                <p class="text-grey word-wrap ">Is safe to non – target animal and Human Beigns.</p>
 
                             </div>
                         </div>
@@ -432,8 +405,8 @@ We use advanced machines and cutting-edge techniques to eliminate pests efficien
                                 <img src="https://html.awaikenthemes.com/petronus/images/icon-features-item-1.svg" alt="">
                             </div>
                             <div class="feature-items-content">
-                                <h5 class="fw-7">Customized Treatment</h5>
-                                <p class="text-grey word-wrap w-75">We are available round the clock to address.</p>
+                                <h5 class="fw-7">Long Lasting</h5>
+                                <p class="text-grey word-wrap ">Long lasting residual effects.</p>
 
                             </div>
                         </div>
@@ -443,8 +416,9 @@ We use advanced machines and cutting-edge techniques to eliminate pests efficien
                                 <img src="https://html.awaikenthemes.com/petronus/images/icon-features-item-1.svg" alt="">
                             </div>
                             <div class="feature-items-content">
-                                <h5 class="fw-7">Certified Professionals</h5>
-                                <p class="text-grey word-wrap w-75">We are available round the clock to address.</p>
+                                <h5 class="fw-7">Cost effective</h5>
+                                <p class="text-grey word-wrap ">Cost effective due to low dosage and target
+                                specific.</p>
 
                             </div>
                         </div>
@@ -454,23 +428,23 @@ We use advanced machines and cutting-edge techniques to eliminate pests efficien
                                 <img src="https://html.awaikenthemes.com/petronus/images/icon-features-item-1.svg" alt="">
                             </div>
                             <div class="feature-items-content">
-                                <h5 class="fw-7">Guaranteed Results</h5>
-                                <p class="text-grey word-wrap w-75">We are available round the clock to address.</p>
+                                <h5 class="fw-7">Easy TO Apply</h5>
+                                <p class="text-grey word-wrap ">Easy to apply in minimum time.</p>
 
                             </div>
                         </div>
 
-                    </div>
+                    
 
                 </div>
 
             </div>
             <div class="col-lg-6">
-                <div class="features-image">
+                <div class="features-image mt-5">
                
                     <figure class="image-anime reveal" style="transform: translate(0px, 0px); opacity: 1; visibility: inherit;">
                             <!-- <img src="images/features-image.jpg" alt="" style="transform: translate(0px, 0px);"> -->
-                        <img src="./img/mosquito_control.jpeg" alt="heelo why are you not coming" alt="" style="transform: translate(0px, 0px);">
+                        <img src="./img/mosquito_control.jpeg"  alt="heelo why are you not coming" alt="" style="transform: translate(0px, 0px);">
                     </figure>
                 </div>
 
@@ -496,8 +470,8 @@ We use advanced machines and cutting-edge techniques to eliminate pests efficien
      </div>
 
      <div class="row">
-         <div class="col-lg-12 m-5">
-            <div class="why-choose-us-box gap-4 d-flex flex-wrap">
+         <div class="col-lg-12">
+            <div class="why-choose-us-box gap-3 d-flex flex-wrap">
                 <div class="why-choose-us-item card border-0">
                     <div class="icon-box">
                         <img src="https://html.awaikenthemes.com/petronus/images/icon-why-choose-1.svg" alt="">
@@ -596,7 +570,7 @@ We use advanced machines and cutting-edge techniques to eliminate pests efficien
                         <div class="accordion-item border-0">
                             <h2 class="accordion-header bg-navyblue text-light" id="headingOne">
                             <button class="accordion-button bg-navyblue text-white  fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            1. WHY PEST CONTROL IS NECESSARY ?
+                            1. Why pest control is necessary ?
                             </button>
                             </h2>
                             <div id="collapseOne" class="bg-navyblue  accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
@@ -612,13 +586,13 @@ We use advanced machines and cutting-edge techniques to eliminate pests efficien
                         <div class="accordion-item border-0 border-top border-secondary  ">
                             <h2 class="accordion-header " id="headingTwo">
                             <button class="accordion-button collapsed bg-navyblue fw-bold text-white" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                            2. WHERE PEST CONTROL SERVICE REQUIRED ?
+                            2. Where pest control service required ?
                              
                             </button>
                             </h2>
                             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                             <div class="accordion-body bg-navyblue text-white">
-                            CO-OPERATIVE HOUSING SOCIETY outside common area
+                            co-operative housing society outside common area
                             like as drain & gutter line, ducts, meter room, pump room, lift
                             well, garbej, refuse area , car- parking , security cabin, shop line,
                             stair-case, storage room, toilets & bathroom, garden and society
@@ -629,25 +603,31 @@ We use advanced machines and cutting-edge techniques to eliminate pests efficien
                         <div class="accordion-item border-0 border-top border-secondary">
                             <h2 class="accordion-header" id="headingThree">
                             <button class="accordion-button collapsed bg-navyblue fw-bold text-white" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                             3. How often should I schedule pest control services ?
+                             3.When we have to do pest control ?
                             </button>
                             </h2>
                             <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                             <div class="accordion-body bg-navyblue text-white">
-                            We handle a wide range of pests, including rodents, ants, cockroaches, termites, bed bugs, mosquitoes, spiders, and wildlife.
+                            Before renovate/ repairing of premises. Pre-construction. Post construction. If you are looking to protect a new home or treat an older one.
                             </div>
                             </div>
                         </div>
                         <div class="accordion-item border-0 border-top border-secondary">
                             <h2 class="accordion-header" id="headingfour">
                             <button class="accordion-button collapsed bg-navyblue fw-bold text-white" type="button" data-bs-toggle="collapse" data-bs-target="#collapsefour" aria-expanded="false" aria-controls="collapsefour">
-                              4. Do you offer emergency pest control services ?
+                              4. Benefit of pest control ?
                             </button>
                             </h2>
                             <div id="collapsefour" class="accordion-collapse collapse" aria-labelledby="headingfour" data-bs-parent="#accordionExample">
                             <div class="accordion-body bg-navyblue text-white">
-                            We handle a wide range of pests, including rodents, ants, cockroaches, termites, bed bugs, mosquitoes, spiders, and wildlife.
-                            </div>
+                                        Among the key benefits of Pest control, the first and
+                                        most important is it helps you kill all those harmful
+                                        pests and also helps in protecting your property such
+                                        as wooden furniture. That’s types of insects is
+                                        cockroaches, Termite, Rodents, Bed-buges, Ants,
+                                        Mosquitoes, wood-borers and so many different
+                                        types of insects.
+                        </div>
                             </div>
                         </div>
                         <div class="accordion-item border-0 border-top border-secondary">
@@ -658,8 +638,7 @@ We use advanced machines and cutting-edge techniques to eliminate pests efficien
                             </h2>
                             <div id="collapsefive" class="accordion-collapse collapse" aria-labelledby="headingfive" data-bs-parent="#accordionExample">
                             <div class="accordion-body bg-navyblue text-white">
-                            We handle a wide range of pests, including rodents, ants, cockroaches, termites, bed bugs, mosquitoes, spiders, and wildlife.   
-                            </div>
+                            A pest infestation can be identified by signs like droppings, unusual noises, property damage, and foul odors. You may also notice visible pests, nests, or bite marks on your skin. If these signs appear, it's best to take action quickly by cleaning, sealing entry points, and seeking professional pest control if needed.                            </div>
                             </div>
                         </div>
                 </div>
