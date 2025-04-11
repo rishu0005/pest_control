@@ -11,7 +11,13 @@
                     <div class="section-title">
                         <h5 class="text-green ">Your Shield Against Unwanted Guests</h5>
                         <h1 class="text-light">Sagar Pest Control:  Control the pest & save your family </h1>
-                        <p class="text-light mt-4 fs-5">Protect your home and business with our effective pest control solutions. From termites to rodents we eliminate pest quickly & safely.</p>
+                        <p class="text-light mt-4 fs-5">Kandivali address:- shop no.17, singe chawl, vadar pada naka, Akurli Road, Kandivali East, Mumbai 400101. <br><br>
+                    
+                        Virar Address:- 209 Vaibhav apartment, Bldg no.18, Narayan Nagar, Gandhi chowk, phool pada road, Virar East, District Palghar pincode 401305 <br> <br>
+
+                        Contact No. :  9820614206, 9820131924, 9820259539, 9920442079
+                    
+                    </p>
                     </div>
                     <!-- Section Title End -->
 
@@ -54,7 +60,7 @@
                             </div>
                             <div class="best-service-content">
                                 <h5 class="fw-7">Mosquitoes Control</h5>
-                                <a href="" class="readmore-btn text-decoration-none">Read more</a>
+                                <a href="service.php#mosquito_solution" class="readmore-btn text-decoration-none">Read more</a>
                             </div>
                 </div>
 
@@ -64,7 +70,7 @@
                             </div>
                             <div class="best-service-content">
                                 <h5 class="fw-7">Cockroaches Control</h5>
-                                <a href="" class="readmore-btn text-decoration-none">Read more</a>
+                                <a href="service.php#cockroaches_sloution" class="readmore-btn text-decoration-none">Read more</a>
                             </div>
                 </div>
 
@@ -74,7 +80,7 @@
                             </div>
                             <div class="best-service-content">
                                 <h5 class="fw-7">Bed-bug Control</h5>
-                                <a href="" class="readmore-btn text-decoration-none">Read more</a>
+                                <a href="service.php#bed_bug_solution" class="readmore-btn text-decoration-none">Read more</a>
                             </div>
                 </div>
 
@@ -84,7 +90,7 @@
                             </div>
                             <div class="best-service-content">
                                 <h5 class="fw-7">General Insects, Control</h5>
-                                <a href="" class="readmore-btn text-decoration-none">Read more</a>
+                                <a href="service.php#general_inscet_solution" class="readmore-btn text-decoration-none">Read more</a>
                             </div>
                 </div>
 
@@ -185,7 +191,7 @@
 
                     <div class=" border-right about-counter-item">
                        <h2> <span class="counter" id="clients">0+</span></h2>
-                        <p class="fs-5 text-grey">Years Of Experience</p>
+                        <p class="fs-5 text-grey">Happy CLient</p>
                     </div>
 
                     <div class="about-counter-item">
@@ -477,8 +483,8 @@
                         <img src="https://html.awaikenthemes.com/petronus/images/icon-why-choose-1.svg" alt="">
                     </div>
                     <div class="why-choose-item-content">
-                        <h3 class="fw-7">Emergency Services</h3>
-                        <p class="text-grey">We are available round the clock to address</p>
+                        <h3 class="fw-7">Strong Effects </h3>
+                        <p class="text-grey">Our Chemicals are very strong and target effective</p>
                     </div>
 
 
@@ -488,8 +494,8 @@
                         <img src="https://html.awaikenthemes.com/petronus/images/icon-why-choose-1.svg" alt="">
                     </div>
                     <div class="why-choose-item-content">
-                        <h3 class="fw-7">Customized Treatments</h3>
-                        <p class="text-grey">We are available round the clock to address</p>
+                        <h3 class="fw-7"> Odorless Chemical</h3>
+                        <p class="text-grey">We use chemical that are herbal and odorless. </p>
                     </div>
                 </div>
                 <div class="why-choose-us-item card border-0">
@@ -497,8 +503,8 @@
                         <img src="https://html.awaikenthemes.com/petronus/images/icon-why-choose-1.svg" alt="">
                     </div>
                     <div class="why-choose-item-content">
-                        <h3 class="fw-7">Certified Professionals</h3>
-                        <p class="text-grey">We are available round the clock to address</p>
+                        <h3 class="fw-7">Affordable Solutions </h3>
+                        <p class="text-grey">Our Chemicals are cost effective for  insecticides and other inscets</p>
                     </div>
                 </div>
                 <div class="page-cta-box card border-0">
@@ -523,7 +529,7 @@
              
          </div>
          <div class="col-lg-12 mt-5 text-center">
-            <p class="text-grey"> <span class="btn bg-green text-white">Free</span> Let's create a pest-free environment - <a href="" class="text-green fw-bold">Contact Us Today!</a> </p>
+            <p class="text-grey"> <span class="btn bg-green text-white">Free</span> Let's create a pest-free environment - <a href="" class="text-green why-choose-us-text fw-bold">Contact Us Today!</a> </p>
          </div>
      </div>
                 </div>

@@ -3,10 +3,10 @@
     <div class="row">
         <div class="col-lg-5">
             <div class="about-footer w-75 text-white">
-                <h4 class="fw-7">About </h4>
-                <p class="">At Sagar Pest Controller, we have been delivering top-quality pest control solutions since 2002. With over two decades of experience, we specialize in providing safe, effective, and eco-friendly pest management services for homes, businesses, and industries.
-                   <br><br>
-                   Our team of trained professionals is committed to safeguarding your space from termites, rodents, cockroaches, mosquitoes, and more.</p>
+                <h4 class="fw-7">Address </h4>
+                <p class="">Kandivali address:- shop no.17, singe chawl, vadar pada naka, Akurli Road, Kandivali East, Mumbai 400101. <br><br>
+                    
+                    Virar Address:- 209 Vaibhav apartment, Bldg no.18, Narayan Nagar, Gandhi chowk, phool pada road, Virar East, District Palghar pincode 401305 <br> <br></p>
             </div>
         </div>
         <div class="col-lg-2 col-md-3 footer-links text-white">
@@ -33,7 +33,10 @@
         <div class="col-lg-3 col-md-5 text-white">
             <h4 class="mb-3">Contact Us </h4>
             <p class="mt-3"> <i class="fa-solid fa-envelope mail me-2"></i> sagarpestcontrol2002@gmail.com</p>
-            <p class="mt-3"> <i class="fa-solid fa-phone mail me-2"></i> +91 98201 31924</p>
+            <p class="mt-3"> <i class="fa-solid fa-phone mail me-2"></i> +91 98206 14206</p>
+            <p class="mt-3 ms-5">+91 98201 31924</p>
+            <p class="mt-3 ms-5">+91 98202 59539</p>
+            <p class="mt-3 ms-5">+91 99204 42079</p>
         </div>
 
         <div class="row mt-5 border-secondary border-top d-flex justify-content-between flex-wrap align-items-center">
@@ -41,7 +44,7 @@
         <div class="col-lg-4 col-md-6">
                 <div class="footer-logo d-flex align-items-center">
                         <img src="./img/logo.png" class="img-fluid" alt="">
-                        <h3 class="text-light fw-7">Sagar Pest Controller</h3>
+                        <h3 class="text-light fw-7">Sagar Pest Control</h3>
                     </div>
                 </div>
 

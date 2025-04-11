@@ -27,11 +27,9 @@
   <div class="container ">
     <!-- <div class="container"></div> -->
     <a class="navbar-brand" href="index.php">
-      <img loading="lazy" class="logo_image" src="./img/logo.png" alt="Fabrica" width="100" height="100">
+      <img loading="lazy" class="logo_image" src="./img/logo10.png" alt="logo" >
        
     </a>
-
-
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     
@@ -64,7 +62,7 @@
      	<!-- Mobile Number -->
        <div class="d-flex ms-auto">
         <span class="navbar-text  text-grey">
-          <i class="fa-solid fa-phone-volume"></i> <a href="tel:+917507483383" class="text-grey  fs-5  ">+91 7507483383</a> / <a href="tel:+91 9325682260" class="text-grey  fs-5"> 9325682260</a>
+          <i class="fa-solid fa-phone-volume"></i> <a href="tel:+91 9820614206" class="text-grey  fs-5  ">+91 9820614206</a> / <a href="tel:+91 9820131924" class="text-grey  fs-5"> 9820131924</a>
         </span>
       </div>
 

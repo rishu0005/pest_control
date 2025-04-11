@@ -43,10 +43,11 @@
                 <i class="fa-solid fa-phone-volume contact-about-icon"></i>
                 <div class="mb-3">
                     <h3 class="text-white">Contact Us</h3>
-                    <div class="d-flex flex-direction">
+                    <div class="d-flex flex-wrap flex-direction">
     
                         <p class="text-white mb-1 me-2">9820614206 </p>
                         <p class="text-white mb-1 me-2"> 9867096470 </p>
+                        <p class="text-white me-2">9820131924 </p>
                         <p class="text-white me-2">9820131924 </p>
                     </div>
                     <!-- <p class="text-white">9820259539 </p> -->
@@ -60,7 +61,8 @@
                 <i class="fa-solid fa-location-dot contact-about-icon"></i>
                 <div class="p-0 m-0">
                     <h3 class="text-white">Location </h3>
-                    <p class="text-white">Kandivali East, Mumbai – 400101 </p>
+                    <p class="text-white">Kandivali address:- shop no.17, singe chawl, vadar pada naka, Akurli Road, Kandivali East, Mumbai 400101. </p>
+                    <p class="text-white">Virar address:- 209 Vaibhav apartment, Bldg no.18, Narayan Nagar, Gandhi chowk, phool pada road, Virar East, District Palghar pincode 401305</p>
                 </div>
     
                 </div>

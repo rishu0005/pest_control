@@ -54,17 +54,17 @@
             <div class="col-lg-6">
                 <img src="https://5.imimg.com/data5/SELLER/Default/2020/12/TZ/SJ/YB/79400556/drainage-pest-control-services-500x500.jpg" alt="" class="img-fluid border-radius">
             </div>
-            <div class="col-lg-6">
-                <div class="section-title">
+            <div class="col-lg-6" id="drain_line">
+                <div class="section-title" >
                     <h5 class="text-green">Solution for drain & gutter line</h5>
                     <h2> General Pest control in <span class="text-green">drain & gutter line</span></h2>
-                    <p class="fs-5 text-grey mt-4">Our specialized pest control service targets drains and gutter lines to eliminate cockroaches, rodents, and other pests that thrive in these areas. Using effective treatments, we prevent infestations, block breeding grounds, and ensure a hygienic environment.</p>
+                    <p class="fs-5 text-grey mt-4" id="cockroaches_sloution">Our specialized pest control service targets drains and gutter lines to eliminate cockroaches, rodents, and other pests that thrive in these areas. Using effective treatments, we prevent infestations, block breeding grounds, and ensure a hygienic environment.</p>
                 </div>
             </div>
 
 
 
-            <div class="col-lg-6 mt-5">
+            <div class="col-lg-6 mt-5" >
                 <div class="section-title">
                     <h5 class="text-green">Solution for Cockroaches</h5>
                     <h2> Gel Based <span class="text-green">Cockroaches Control </span></h2>
@@ -86,7 +86,7 @@
                 <div class="section-title">
                     <h5 class="text-green">Solution for Rodent</h5>
                     <h2>Profesional Rodent<span class="text-green"> Removal </span></h2>
-                    <p class="fs-5 text-grey mt-4">Our rodent control service provides effective solutions to eliminate rats and mice from homes, offices, and commercial spaces. We use a combination of baiting, trapping, and proofing techniques to control infestations and prevent future entry. Our methods are safe, eco-friendly, and tailored to ensure long-term rodent protection while maintaining hygiene and safety. Keep your property rodent-free with our professional and reliable pest control solutions.</p>
+                    <p class="fs-5 text-grey mt-4">Our rodent control service provides effective solutions to eliminate rats and mice from homes, offices, and commercial spaces. We use a combination of baiting, trapping, and proofing techniques to control infestations and prevent future entry.</p><br> <br> <p id="mosquito_solution"> Our methods are safe, eco-friendly, and tailored to ensure long-term rodent protection while maintaining hygiene and safety. Keep your property rodent-free with our professional and reliable pest control solutions.</p>
                 </div>
             </div>
 
@@ -119,9 +119,11 @@
 
 
                    <span class="text-green fw-bold">Post-Construction Treatment:</span>  Effective methods like drilling, injection, and surface treatments to eliminate existing termite infestations and prevent future damage.
-                   <br> <br>
+                   <br> <br></p>
 
-                    We use safe, high-quality termiticides to safeguard homes and buildings from structural damage caused by termites and ants. Protect your property with our expert pest control solutions.</p>
+                  <p id="bed_bug_solution" class=" fs-5 text-grey m-0">
+                     We use safe, high-quality termiticides to safeguard homes and buildings from structural damage caused by termites and ants. Protect your property with our expert pest control solutions.
+                  </p> 
                 </div>
             </div>
 
@@ -186,7 +188,10 @@
                 <div class="section-title">
                     <h5 class="text-green"> Mosquitoes Net Guard </h5>
                     <h2> Mosquitoes Netting <span class="text-green">Installation Service  </span></h2>
-                    <p class="fs-5 text-grey mt-4">Our mosquito netting installation service provides a safe and effective barrier against mosquitoes, flies, and other insects. We offer high-quality, durable nets customized for windows, doors, balconies, and ventilation points to ensure maximum protection. Our professional installation helps prevent mosquito-borne diseases like Dengue and Malaria, keeping your home or workplace safe and comfortable. Stay protected with our expert mosquito netting solutions!</p>
+                    <p class="fs-5 text-grey mt-4">Our mosquito netting installation service provides a safe and effective barrier against mosquitoes, flies, and other insects. We offer high-quality, durable nets customized for windows, doors, balconies, and ventilation points to ensure maximum protection. </p>
+                    <p id="general_inscet_solution">
+                    Our professional installation helps prevent mosquito-borne diseases like Dengue and Malaria, keeping your home or workplace safe and comfortable. Stay protected with our expert mosquito netting solutions!
+                    </p>
                 </div>
             </div>
 

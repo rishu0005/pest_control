@@ -22,8 +22,8 @@ html,body{
 }
 .navbar-brand img {
   padding-bottom: 8px;
-  min-width: 130px;
-  height: 120px;
+  min-width: 100px;
+  height: 80px;
   max-height: 120px;
   max-width: 250px;
   transition: all 0.3s ease-in-out; /* Smooth transition for logo resizing */
@@ -140,6 +140,9 @@ html,body{
     background-size: 24px auto;
     transform: translateY(-50%) rotate(-45deg);
     transition: all 0.3s ease-in-out;
+}
+.btn-default:hover::before{
+  transform: translateY(-50%) rotate(0deg) ;
 }
 .btn-default::after {
     content: "";
@@ -505,6 +508,9 @@ background:#FFFFFF !important;
   transform: translateX(-3px);
   transition: all 0.4s ease-in-out;
 }
+.readmore-btn:hover::before{
+  transform: translateX(3px);
+}
 
 /* Index Page Service Slider Start */
 .service-item{
@@ -695,6 +701,11 @@ background:#FFFFFF !important;
   margin-bottom: 10px;
   transition: all 0.3s ease-in-out;
   color: #002f47;
+}
+.why-choose-us-text:hover{
+  color: black;
+  transition: all 0.3s ease;
+  
 }
 .page-cta-box{
   position: relative;
