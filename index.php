@@ -11,13 +11,22 @@
                     <div class="section-title">
                         <h5 class="text-green ">Your Shield Against Unwanted Guests</h5>
                         <h1 class="text-light">Sagar Pest Control:  Control the pest & save your family </h1>
-                        <p class="text-light mt-4 fs-5">Kandivali address:- shop no.17, singe chawl, vadar pada naka, Akurli Road, Kandivali East, Mumbai 400101. <br><br>
-                    
-                        Virar Address:- 209 Vaibhav apartment, Bldg no.18, Narayan Nagar, Gandhi chowk, phool pada road, Virar East, District Palghar pincode 401305 <br> <br>
-
-                        Contact No. :  9820614206, 9820131924, 9820259539, 9920442079
-                    
+                        <p class="text-light mt-4 mb-3 fs-5">
+                           
+                                Kandivali address:- shop no.17, singe chawl, vadar pada naka, Akurli Road, Kandivali East, Mumbai 400101.
                     </p>
+
+                            
+                    
+                       <p class="text-light mb-3 fs-5">
+                        Virar Address:- 209 Vaibhav apartment, Bldg no.18, Narayan Nagar, Gandhi chowk, phool pada road, Virar East, District Palghar pincode 401305
+                       </p> 
+
+                       <p class="text-light mb-3 fs-5">
+
+                           Contact No. :  9820614206, 9820131924, 9820259539, 9920442079
+                       </p>
+                    
                     </div>
                     <!-- Section Title End -->
 
@@ -34,7 +43,7 @@
             </div>
             <div class="col-lg-6">
                 <!-- Hero Image Start -->
-                <div class="hero-image mt-5">
+                <div class="hero-image mt-1">
                      <figure>
                     <img src="https://html.awaikenthemes.com/petronus/images/hero-image.png" class="img-fluid" alt="">
                 </figure> 
@@ -56,7 +65,7 @@
             <div class="best-service-box d-flex flex-wrap">
                 <div class="best-service-item">
                             <div class="icon-box ">
-                                <img src="https://html.awaikenthemes.com/petronus/images/icon-best-service-1.svg" class="img-fluid" alt="">
+                                <img src="./img/icon/insect-repellent.png" class="img-fluid" alt="">
                             </div>
                             <div class="best-service-content">
                                 <h5 class="fw-7">Mosquitoes Control</h5>
@@ -66,7 +75,7 @@
 
                 <div class="best-service-item">
                             <div class="icon-box d-flex">
-                                <img src="https://html.awaikenthemes.com/petronus/images/icon-best-service-1.svg" class="img-fluid" alt="">
+                                <img src="./img/icon/cockroach.png" class="img-fluid" alt="">
                             </div>
                             <div class="best-service-content">
                                 <h5 class="fw-7">Cockroaches Control</h5>
@@ -76,7 +85,7 @@
 
                 <div class="best-service-item">
                             <div class="icon-box d-flex">
-                                <img src="https://html.awaikenthemes.com/petronus/images/icon-best-service-1.svg" class="img-fluid" alt="">
+                                <img src="./img/icon/mattress.png" class="img-fluid" alt="">
                             </div>
                             <div class="best-service-content">
                                 <h5 class="fw-7">Bed-bug Control</h5>
@@ -86,7 +95,7 @@
 
                 <div class="best-service-item">
                             <div class="icon-box d-flex">
-                                <img src="https://html.awaikenthemes.com/petronus/images/icon-best-service-1.svg" class="img-fluid" alt="">
+                                <img src="./img/icon/insects.png" class="img-fluid" alt="">
                             </div>
                             <div class="best-service-content">
                                 <h5 class="fw-7">General Insects, Control</h5>
@@ -139,7 +148,7 @@
                     <div class="section-title">
                         <h5 class="text-green">About Us</h5>
                         <h2 class="">Delivering Quality product & quick service <span class="text-green">Since 2002</span></h2>
-                        <p class="text-grey mt-4 fs-5">At Sagar Pest Controller, we have been delivering top-quality pest control solutions since 2002. With over two decades of experience, we specialize in providing safe, effective, and eco-friendly pest management services for homes, businesses, and industries. <br><br>
+                        <p class="text-grey mt-4 fs-5">At Sagar Pest Control, we have been delivering top-quality pest control solutions since 2002. With over two decades of experience, we specialize in providing safe, effective, and eco-friendly pest management services for homes, businesses, and industries. <br><br>
 
                                 We use advanced machines and cutting-edge techniques to eliminate pests efficiently while ensuring minimal environmental impact. Our team of trained professionals is committed to safeguarding your space from termites, rodents, cockroaches, mosquitoes, and more.<br><br> </p>
                     </div>
@@ -186,12 +195,12 @@
 
                     <div class="border-right about-counter-item">
                        <h2><span class="counter count" id="projects">0</span></h2> 
-                        <p class="fs-5 text-grey">Team member</p>
+                        <p class="fs-5 text-grey"> Chemical  </p>
                     </div>
 
                     <div class=" border-right about-counter-item">
                        <h2> <span class="counter" id="clients">0+</span></h2>
-                        <p class="fs-5 text-grey">Happy CLient</p>
+                        <p class="fs-5 text-grey">Team Member </p>
                     </div>
 
                     <div class="about-counter-item">
@@ -237,11 +246,11 @@
         <div class="service-content p-3 text-center">
             <h5 class="text-navyblue fw-7">Mosquitoes  Control</h5>
             <p class="text-grey fs-6">
-                Tailored Solutions to protect your home from common pests.
+            Reliable mosquito control solutions to keep your space safe, healthy, and bite-free.
             </p>
         </div>
         <div class="service-btn mb-2">
-            <a href="" class="readmore-btn text-decoration-none">read more</a>
+            <a href="service.php#mosquito_solution" class="readmore-btn text-decoration-none">read more</a>
         </div>
       </div>
       <div class="swiper-slide card service-item ">
@@ -256,11 +265,11 @@
         <div class="service-content p-3 text-center">
             <h5 class="text-navyblue fw-7">Termite Control</h5>
             <p class="text-grey fs-6">
-                Tailored Solutions to protect your home from common pests.
+            Powerful termite control to protect your property from hidden damage and costly repairs.
             </p>
         </div>
         <div class="service-btn">
-            <a href="" class="readmore-btn text-decoration-none">read more</a>
+            <a href="service.php#termite_control" class="readmore-btn text-decoration-none">read more</a>
         </div>
       </div>
       <div class="swiper-slide card service-item ">
@@ -275,11 +284,11 @@
         <div class="service-content p-3 text-center">
             <h5 class="text-navyblue fw-7">Rat Guard Installion</h5>
             <p class="text-grey fs-6">
-                Tailored Solutions to protect your home from common pests.
+            Professional rat guard installation to block rodent entry and safeguard your space.
             </p>
         </div>
         <div class="service-btn">
-            <a href="" class="readmore-btn text-decoration-none">read more</a>
+            <a href="service.php#rat_guard" class="readmore-btn text-decoration-none">read more</a>
         </div>
       </div>
 
@@ -295,11 +304,11 @@
         <div class="service-content p-3 text-center">
             <h5 class="text-navyblue fw-7">Rodent Control</h5>
             <p class="text-grey fs-6">
-                Tailored Solutions to protect your home from common pests.
+            Effective rodent control solutions to eliminate infestations and prevent future intrusions.
             </p>
         </div>
         <div class="service-btn">
-            <a href="" class="readmore-btn text-decoration-none">read more</a>
+            <a href="service.php#rodent_control" class="readmore-btn text-decoration-none">read more</a>
         </div>
       </div>
       
@@ -315,11 +324,11 @@
         <div class="service-content p-3 text-center">
             <h5 class="text-navyblue fw-7">General Insects Control</h5>
             <p class="text-grey fs-6">
-                Tailored Solutions to protect your home from common pests.
+            Comprehensive insect control to keep your space free from ants, cockroaches, and other common pests.
             </p>
         </div>
         <div class="service-btn">
-            <a href="" class="readmore-btn text-decoration-none">read more</a>
+            <a href="service.php#general_inscet_solution" class="readmore-btn text-decoration-none">read more</a>
         </div>
       </div>
 
@@ -336,11 +345,11 @@
         <div class="service-content p-3 text-center">
             <h5 class="text-navyblue fw-7">Cockroaches Control</h5>
             <p class="text-grey fs-6">
-                Tailored Solutions to protect your home from common pests.
+            Targeted cockroach control to eliminate infestations and ensure a clean, hygienic environment.
             </p>
         </div>
         <div class="service-btn">
-            <a href="" class="readmore-btn text-decoration-none">read more</a>
+            <a href="service.php#cockroaches_sloution" class="readmore-btn text-decoration-none">read more</a>
         </div>
       </div>
       <div class="swiper-slide card service-item ">
@@ -355,11 +364,13 @@
         <div class="service-content p-3 text-center">
             <h5 class="text-navyblue fw-7">Bed Bugs Control</h5>
             <p class="text-grey fs-6">
-                Tailored Solutions to protect your home from common pests.
+            Expert bed bug control to eliminate infestations and restore comfort to your home or business.
+
+
             </p>
         </div>
         <div class="service-btn">
-            <a href="" class="readmore-btn text-decoration-none">read more</a>
+            <a href="service.php#bed_bug_solution" class="readmore-btn text-decoration-none">read more</a>
         </div>
       </div>
      
@@ -370,7 +381,7 @@
             </div>
 
             <div class="col-lg-12">
-                <p class="text-grey text-center pt-5">Ready for a Pest-Free Home? <a href="" class="text-green fw-bold" >Reach Out To Us Today!</a></p>
+                <p class="text-grey text-center pt-5">Ready for a Pest-Free Home? <a href="contact.php" class="text-green fw-bold" >Reach Out To Us Today!</a></p>
             </div>
 
         </div>
@@ -397,7 +408,7 @@
                     
                         <div class="features-item  d-flex">
                             <div class="icon-box">
-                                <img src="https://html.awaikenthemes.com/petronus/images/icon-features-item-1.svg" alt="">
+                                <img src="./img/icon/non-toxic.png" alt="">
                             </div>
                             <div class="feature-items-content">
                                 <h5 class="fw-7">Non Toxic </h5>
@@ -408,7 +419,7 @@
 
                         <div class="features-item d-flex">
                             <div class="icon-box">
-                                <img src="https://html.awaikenthemes.com/petronus/images/icon-features-item-1.svg" alt="">
+                                <img src="./img/icon/reliability.png" alt="">
                             </div>
                             <div class="feature-items-content">
                                 <h5 class="fw-7">Long Lasting</h5>
@@ -419,7 +430,7 @@
 
                         <div class="features-item d-flex">
                             <div class="icon-box">
-                                <img src="https://html.awaikenthemes.com/petronus/images/icon-features-item-1.svg" alt="">
+                                <img src="./img/icon/loan.png" alt="">
                             </div>
                             <div class="feature-items-content">
                                 <h5 class="fw-7">Cost effective</h5>
@@ -431,10 +442,10 @@
 
                         <div class="features-item d-flex">
                             <div class="icon-box">
-                                <img src="https://html.awaikenthemes.com/petronus/images/icon-features-item-1.svg" alt="">
+                                <img src="./img/icon/easy.png" alt="">
                             </div>
                             <div class="feature-items-content">
-                                <h5 class="fw-7">Easy TO Apply</h5>
+                                <h5 class="fw-7">Easy To Apply</h5>
                                 <p class="text-grey word-wrap ">Easy to apply in minimum time.</p>
 
                             </div>
@@ -450,7 +461,7 @@
                
                     <figure class="image-anime reveal" style="transform: translate(0px, 0px); opacity: 1; visibility: inherit;">
                             <!-- <img src="images/features-image.jpg" alt="" style="transform: translate(0px, 0px);"> -->
-                        <img src="./img/mosquito_control.jpeg"  alt="heelo why are you not coming" alt="" style="transform: translate(0px, 0px);">
+                        <img src="./img/mosquito_control.jpeg"  alt="mosquito image" alt="" style="transform: translate(0px, 0px);">
                     </figure>
                 </div>
 
@@ -480,7 +491,7 @@
             <div class="why-choose-us-box gap-3 d-flex flex-wrap">
                 <div class="why-choose-us-item card border-0">
                     <div class="icon-box">
-                        <img src="https://html.awaikenthemes.com/petronus/images/icon-why-choose-1.svg" alt="">
+                        <img src="./img/icon/strong.png" class="img-fluid p-3" alt="">
                     </div>
                     <div class="why-choose-item-content">
                         <h3 class="fw-7">Strong Effects </h3>
@@ -491,7 +502,7 @@
                 </div>
                 <div class="why-choose-us-item card border-0">
                 <div class="icon-box">
-                        <img src="https://html.awaikenthemes.com/petronus/images/icon-why-choose-1.svg" alt="">
+                        <img src="./img/icon/odor.png" class="img-fluid p-3" alt="">
                     </div>
                     <div class="why-choose-item-content">
                         <h3 class="fw-7"> Odorless Chemical</h3>
@@ -500,7 +511,7 @@
                 </div>
                 <div class="why-choose-us-item card border-0">
                 <div class="icon-box">
-                        <img src="https://html.awaikenthemes.com/petronus/images/icon-why-choose-1.svg" alt="">
+                        <img src="./img/icon/loan.png" class="img-fluid p-3" alt="">
                     </div>
                     <div class="why-choose-item-content">
                         <h3 class="fw-7">Affordable Solutions </h3>
@@ -614,7 +625,7 @@
                             </h2>
                             <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                             <div class="accordion-body bg-navyblue text-white">
-                            Before renovate/ repairing of premises. Pre-construction. Post construction. If you are looking to protect a new home or treat an older one.
+                            Before renovate/ repairing of premises. Pre-construction. Post construction. If you are looking to protect a new home or treat an older one. Before damage the property
                             </div>
                             </div>
                         </div>

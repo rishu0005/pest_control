@@ -36,7 +36,7 @@
                     <div class="section-title">
                         <h5 class="text-green">About Us</h5>
                         <h2 class="">Delivering  Quality Product & quick service <span class="text-green">Since 2002</span></h2>
-                        <p class="text-grey mt-4 fs-5">At Sagar Pest Controller, we have been delivering top-quality pest control solutions since 2002. With over two decades of experience, we specialize in providing safe, effective, and eco-friendly pest management services for homes, businesses, and industries. <br><br>
+                        <p class="text-grey mt-4 fs-5">At Sagar Pest Control, we have been delivering top-quality pest control solutions since 2002. With over two decades of experience, we specialize in providing safe, effective, and eco-friendly pest management services for homes, businesses, and industries. <br><br>
 
                         We use advanced machines and cutting-edge techniques to eliminate pests efficiently while ensuring minimal environmental impact. Our team of trained professionals is committed to safeguarding your space from termites, rodents, cockroaches, mosquitoes, and more.<br><br> </p>
                     </div>
@@ -146,7 +146,7 @@
                 <h2>The Most Effective Way to <span class="text-green">Get Rid of Pests</span></h2>
                 <p class="text-secondary">
                 At Sagar Pest Control, we follow a structured and result-driven approach to ensure complete pest elimination while keeping your space safe. <br><br>
-
+                </p>
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-sm-12 mt-2">
                     <div class="card bg-navyblue h-100 d-flex flex-column p-4 pb-2 border-0" style="max-width: 25rem;">
@@ -177,20 +177,11 @@
                     </div>
                     </div>
                 </div>
-                <div class="d-flex gap-5  flex-wrap justify-content-start align-items-strech ">
-                   
-
                 
-
-                  
-
-                 
-
-                </div>
 
 
                     
-                </p>
+               
             </div>
         </div>
     </div>
@@ -216,7 +207,7 @@
                     <div class="d-flex flex-wrap">
                         <div class="features-item d-flex">
                             <div class="icon-box">
-                                <img src="https://html.awaikenthemes.com/petronus/images/icon-features-item-1.svg" alt="">
+                                <img src="./img/icon/non-toxic.png" class="img-fluid" alt="">
                             </div>
                             <div class="feature-items-content">
                                 <h5 class="fw-7">Non Toxic</h5>
@@ -228,7 +219,7 @@
 
                         <div class="features-item d-flex">
                             <div class="icon-box">
-                                <img src="https://html.awaikenthemes.com/petronus/images/icon-features-item-1.svg" alt="">
+                                <img src="./img/icon/reliability.png" alt="">
                             </div>
                             <div class="feature-items-content">
                                 <h5 class="fw-7">Long Lasting</h5>
@@ -239,7 +230,7 @@
 
                         <div class="features-item d-flex">
                             <div class="icon-box">
-                                <img src="https://html.awaikenthemes.com/petronus/images/icon-features-item-1.svg" alt="">
+                                <img src="./img/icon/loan.png" alt="">
                             </div>
                             <div class="feature-items-content">
                                 <h5 class="fw-7"> Cost effective</h5>
@@ -251,7 +242,7 @@
 
                         <div class="features-item d-flex">
                             <div class="icon-box">
-                                <img src="https://html.awaikenthemes.com/petronus/images/icon-features-item-1.svg" alt="">
+                                <img src="./img/icon/easy.png" alt="">
                             </div>
                             <div class="feature-items-content">
                                 <h5 class="fw-7">Easy TO Apply</h5>
