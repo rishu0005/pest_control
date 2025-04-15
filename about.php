@@ -43,7 +43,7 @@
                     <!-- Section Title ENd -->
                     <div class="about-us-body d-flex flex-wrap gap-4 align-items-center">
                         <div class="about-us-list">
-                            <ul>
+                            <ul class="text-grey">
                             <li class="mb-2 "><i class="fa-solid fa-check check me-2"></i>Expertise You Can Trust</li>
                             <li class="mb-2"><i class="fa-solid fa-check check me-2"></i>Certified Professionals</li>
                             <li class="mb-2"><i class="fa-solid fa-check check me-2"></i>Eco-Friendly Approach</li>
@@ -76,17 +76,17 @@
                 <!-- Countdown Section Begin -->                         
                     <div class="border-right about-counter-item">
                        <h2> <span class="counter" id="cases">0</span></h2>
-                        <p class="fs-5 text-grey">Cases Solved</p>
+                        <p class="fs-5 text-grey">Monthly Services</p>
                     </div>
 
                     <div class="border-right about-counter-item">
                        <h2><span class="counter count" id="projects">0</span></h2> 
-                        <p class="fs-5 text-grey">Team member</p>
+                        <p class="fs-5 text-grey">Domestic Client</p>
                     </div>
 
                     <div class=" border-right about-counter-item">
                        <h2> <span class="counter" id="clients">0+</span></h2>
-                        <p class="fs-5 text-grey">Years Of Experience</p>
+                        <p class="fs-5 text-grey">Housing society</p>
                     </div>
 
                     <div class="about-counter-item">
@@ -122,7 +122,7 @@
                 <!-- About Us Circle Image Start -->
                 <div class="about-us-circle-img-2">
                     <figure class="image-anime">
-                        <img src="https://html.awaikenthemes.com/petronus/images/about-circle-img-2.jpg" class="img-fluid"  alt="">
+                        <img src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_239/https://versatechpm.com/wp-content/uploads/2022/03/Los-Angeles-County-Rodent-Control-Rat-Exterminator.jpeg" class="img-fluid"  alt="">
                     </figure>
                 </div>
                 <!-- About Us Circle Image ENd -->
@@ -133,55 +133,59 @@
 <!-- About Us Section End -->
 
 <!-- Our Approach Section Start -->
- <div class="container-fluid bg-lightsecondary pt-5 pb-5">
-    <div class="row">
-        <div class="col-lg-5 d-flex justify-content-center align-items-center">
-            <img src="https://img.freepik.com/free-vector/workers-providing-cleaning-service-public-spaces_23-2148555732.jpg?ga=GA1.1.1643490475.1742809442&semt=ais_hybrid" class="img-fluid w-75 rounded" alt="pest image">
+ <div class="container-fluid  bg-lightsecondary pt-5 pb-5">
+    <div class="container">
 
-        </div>
-
-        <div class="col-lg-7">
-            <div class="section-title">
-                <h5 class="bg-green text-white">Our Approach</h5>
-                <h2>The Most Effective Way to <span class="text-green">Get Rid of Pests</span></h2>
-                <p class="text-secondary">
-                At Sagar Pest Control, we follow a structured and result-driven approach to ensure complete pest elimination while keeping your space safe. <br><br>
-                </p>
-                <div class="row align-items-center">
-                    <div class="col-lg-6 col-sm-12 mt-2">
-                    <div class="card bg-navyblue h-100 d-flex flex-column p-4 pb-2 border-0" style="max-width: 25rem;">
-                        <h4 class="text-white">1. Inspection & Assessment</h4>
-                        <p class="text-white"> Our experts conduct a thorough inspection to identify pest infestations and determine the best treatment plan.</p>
+        <div class="row">
+            <div class="col-lg-5 d-flex justify-content-center align-items-center">
+                <!-- <img src="https://img.freepik.com/free-vector/workers-providing-cleaning-service-public-spaces_23-2148555732.jpg?ga=GA1.1.1643490475.1742809442&semt=ais_hybrid" class="img-fluid w-75 rounded" alt="pest image"> -->
+                <img src="./img/resident-pest.png" class="img-fluid  rounded" alt="pest image">
+    
+            </div>
+    
+            <div class="col-lg-7">
+                <div class="section-title">
+                    <h5 class="bg-green  text-white">Our Approach</h5>
+                    <h2>The Most Effective Way to <span class="text-green">Get Rid of Pests</span></h2>
+                    <p class="text-secondary">
+                    At Sagar Pest Control, we follow a structured and result-driven approach to ensure complete pest elimination while keeping your space safe. <br><br>
+                    </p>
+                    <div class="row align-items-center justify-content-center">
+                        <div class="col-lg-6 d-flex justify-content-center col-sm-12 mt-2">
+                        <div class="card bg-navyblue h-100 d-flex flex-column p-4 pb-2 border-0" style="max-width: 25rem;">
+                            <h4 class="text-white">1. Inspection & Assessment</h4>
+                            <p class="text-white"> Our experts conduct a thorough inspection to identify pest infestations and determine the best treatment plan.</p>
+                        </div>
+    
+                        </div>
+    
+                        <div class="col-lg-6 col-md-12 col-sm-12 mt-2 d-flex justify-content-center">
+                        <div class="card bg-navyblue h-100 d-flex flex-column p-4 pb-2 border-0" style="max-width: 25rem;">
+                            <h4 class="text-white">2. Eco-Friendly Solutions</h4>
+                            <p class="text-white"> We use safe, high-quality, and  eco-friendly pest control products to protect your home, business, and loved ones.</p>
+                        </div>
+                        </div>
+    
+                        <div class="col-lg-6 mt-5 d-flex justify-content-center">
+                        <div class="card bg-navyblue h-100 d-flex flex-column p-4 pb-2 border-0" style="max-width: 25rem;">
+                            <h4 class="text-white">3. Quick & Efficient Treatment</h4>
+                            <p class="text-white">Our team ensures fast and effective pest removal, minimizing disruption to your daily life. We work diligently to keep your space pest-free with long-lasting results.</p>
+                        </div>
+                        </div>
+    
+                        <div class="col-lg-6 mt-5 d-flex justify-content-center">
+                        <div class="card bg-navyblue h-100 d-flex flex-column p-4 pb-2 border-0" style="max-width: 25rem;">
+                            <h4 class="text-white">4.Preventive Measures & Guidance</h4>
+                            <p class="text-white"> We don’t just eliminate pests; we help you prevent future infestations with expert tips and long-term solutions.</p>
+                        </div>
+                        </div>
                     </div>
-
-                    </div>
-
-                    <div class="col-lg-6 col-md-12 col-sm-12 mt-2">
-                    <div class="card bg-navyblue h-100 d-flex flex-column p-4 pb-2 border-0" style="max-width: 25rem;">
-                        <h4 class="text-white">2. Eco-Friendly Solutions</h4>
-                        <p class="text-white"> We use safe, high-quality, and environmentally friendly pest control products to protect your home, business, and loved ones.</p>
-                    </div>
-                    </div>
-
-                    <div class="col-lg-6 mt-5">
-                    <div class="card bg-navyblue h-100 d-flex flex-column p-4 pb-2 border-0" style="max-width: 25rem;">
-                        <h4 class="text-white">3. Quick & Efficient Treatment</h4>
-                        <p class="text-white">Our team ensures fast and effective pest removal, minimizing disruption to your daily life. We work diligently to keep your space pest-free with long-lasting results.</p>
-                    </div>
-                    </div>
-
-                    <div class="col-lg-6 mt-5">
-                    <div class="card bg-navyblue h-100 d-flex flex-column p-4 pb-2 border-0" style="max-width: 25rem;">
-                        <h4 class="text-white">4.Preventive Measures & Guidance</h4>
-                        <p class="text-white"> We don’t just eliminate pests; we help you prevent future infestations with expert tips and long-term solutions.</p>
-                    </div>
-                    </div>
-                </div>
-                
-
-
                     
-               
+    
+    
+                        
+                   
+                </div>
             </div>
         </div>
     </div>
@@ -261,7 +265,7 @@
                
                     <figure class="image-anime reveal" style="transform: translate(0px, 0px); opacity: 1; visibility: inherit;">
                             <!-- <img src="images/features-image.jpg" alt="" style="transform: translate(0px, 0px);"> -->
-                        <img src="./img/mosquito_control.jpeg" alt="heelo why are you not coming" alt="" style="transform: translate(0px, 0px);">
+                        <img src="https://lifecarepestcontrol.com/wp-content/uploads/2021/06/h3.jpg" alt="heelo why are you not coming" alt="" style="transform: translate(0px, 0px);">
                     </figure>
                 </div>
 
@@ -306,7 +310,7 @@
                 <i class="fa-solid fa-star"></i>
             </div>
             <div class="testimonial-content text-start">
-                <p class="fs-5 text-grey">"Excellent service! We had a major ant problem, and they took care of it quickly and professionally.!"</p>
+                <p class="fs-5 text-grey">"I had a termite issue at home and called Sagar Pest Control. The team was polite, explained everything clearly, and did a great job. Really happy with the service."</p>
             </div>
             
         </div>
@@ -330,7 +334,7 @@
                 <i class="fa-solid fa-star"></i>
             </div>
             <div class="testimonial-content text-start">
-                <p class="fs-5 text-grey">"Excellent service! We had a major ant problem, and they took care of it quickly and professionally.!"</p>
+                <p class="fs-5 text-grey">"Very professional and punctual. They solved our cockroach problem in just one visit. Great service!"</p>
             </div>
             
         </div>
@@ -354,7 +358,7 @@
                 <i class="fa-solid fa-star"></i>
             </div>
             <div class="testimonial-content text-start">
-                <p class="fs-5 text-grey">"Excellent service! We had a major ant problem, and they took care of it quickly and professionally.!"</p>
+                <p class="fs-5 text-grey">"I’ve used Sagar Pest Control twice now once for bed bugs and once for ants. Both times, they were efficient and the results lasted."</p>
             </div>
             
         </div>
@@ -378,13 +382,13 @@
                 <i class="fa-solid fa-star"></i>
             </div>
             <div class="testimonial-content text-start">
-                <p class="fs-5 text-grey">"Excellent service! We had a major ant problem, and they took care of it quickly and professionally.!"</p>
+                <p class="fs-5 text-grey">"We had a severe rodent issue at our shop. Sagar Pest Control took care of it quickly and safely. Very satisfied."</p>
             </div>
             
         </div>
       </div>
 
-      <div class="swiper-slide card testimonial-item  p-5">
+      <!-- <div class="swiper-slide card testimonial-item  p-5">
         <div class="testimonial-author">
             <div class="author-image">
                 <figure class="image-anime text-start">
@@ -407,9 +411,9 @@
             </div>
             
         </div>
-      </div>
+      </div> -->
 
-      <div class="swiper-slide card testimonial-item  p-5">
+      <!-- <div class="swiper-slide card testimonial-item  p-5">
         <div class="testimonial-author">
             <div class="author-image">
                 <figure class="image-anime text-start">
@@ -432,9 +436,9 @@
             </div>
             
         </div>
-      </div>
+      </div> -->
 
-      <div class="swiper-slide card testimonial-item  p-5">
+      <!-- <div class="swiper-slide card testimonial-item  p-5">
         <div class="testimonial-author">
             <div class="author-image">
                 <figure class="image-anime text-start">
@@ -457,9 +461,9 @@
             </div>
             
         </div>
-      </div>
+      </div> -->
 
-      <div class="swiper-slide card testimonial-item  p-5">
+      <!-- <div class="swiper-slide card testimonial-item  p-5">
         <div class="testimonial-author">
             <div class="author-image">
                 <figure class="image-anime text-start">
@@ -482,9 +486,9 @@
             </div>
             
         </div>
-      </div>
+      </div> -->
 
-      <div class="swiper-slide card testimonial-item  p-5">
+      <!-- <div class="swiper-slide card testimonial-item  p-5">
         <div class="testimonial-author">
             <div class="author-image">
                 <figure class="image-anime text-start">
@@ -507,9 +511,9 @@
             </div>
             
         </div>
-      </div>
+      </div> -->
 
-      <div class="swiper-slide card testimonial-item  p-5">
+      <!-- <div class="swiper-slide card testimonial-item  p-5">
         <div class="testimonial-author">
             <div class="author-image">
                 <figure class="image-anime text-start">
@@ -532,7 +536,7 @@
             </div>
             
         </div>
-      </div>
+      </div> -->
 
       
       

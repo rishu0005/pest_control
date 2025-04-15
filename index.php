@@ -32,7 +32,7 @@
 
                     <!-- Hero Button Start  -->
                      <div class="hero-btn">
-                        <a class="btn-default btn-highlighted rounded-pill text-decoration-none text-light fw-bold" href="">Book A Service</a>
+                        <a class="btn-default btn-highlighted rounded-pill text-decoration-none text-light fw-bold" href="contact.php">Book A Service</a>
                         <!-- <a class="text-light ms-4 fw-bold" href="">View All Service</a> -->
                      </div>
                      <!-- Hero Button End -->
@@ -120,6 +120,7 @@
                 <!-- About Us Image Start -->
                 <div class="about-us-image">
                     <figure class="image-anime">
+                        <!-- <img src="https://html.awaikenthemes.com/petronus/images/about-us-image.jpg" class="img-fluid" alt=""> -->
                         <img src="https://html.awaikenthemes.com/petronus/images/about-us-image.jpg" class="img-fluid" alt="">
                     </figure>
                 </div>
@@ -128,6 +129,7 @@
                 <!-- About Us Circle Image Start -->
                 <div class="about-us-circle-img-1">
                     <figure class="image-anime">
+                        <!-- <img src="https://html.awaikenthemes.com/petronus/images/about-circle-img-1.jpg" class="img-fluid" alt=""> -->
                         <img src="https://html.awaikenthemes.com/petronus/images/about-circle-img-1.jpg" class="img-fluid" alt="">
                     </figure>
                 </div>
@@ -136,7 +138,8 @@
                 <!-- About Us Circle Image Start -->
                 <div class="about-us-circle-img-2">
                     <figure class="image-anime">
-                        <img src="https://html.awaikenthemes.com/petronus/images/about-circle-img-2.jpg" class="img-fluid"  alt="">
+                        <!-- <img src="https://html.awaikenthemes.com/petronus/images/about-circle-img-2.jpg" class="img-fluid"  alt=""> -->
+                        <img src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_239/https://versatechpm.com/wp-content/uploads/2022/03/Los-Angeles-County-Rodent-Control-Rat-Exterminator.jpeg" class="img-fluid"  alt="">
                     </figure>
                 </div>
                 <!-- About Us Circle Image ENd -->
@@ -147,7 +150,7 @@
                     <!-- Section Title Start -->
                     <div class="section-title">
                         <h5 class="text-green">About Us</h5>
-                        <h2 class="">Delivering Quality product & quick service <span class="text-green">Since 2002</span></h2>
+                        <h2 class="">Delivering Quality Product & Quick Service <span class="text-green">Since 2002</span></h2>
                         <p class="text-grey mt-4 fs-5">At Sagar Pest Control, we have been delivering top-quality pest control solutions since 2002. With over two decades of experience, we specialize in providing safe, effective, and eco-friendly pest management services for homes, businesses, and industries. <br><br>
 
                                 We use advanced machines and cutting-edge techniques to eliminate pests efficiently while ensuring minimal environmental impact. Our team of trained professionals is committed to safeguarding your space from termites, rodents, cockroaches, mosquitoes, and more.<br><br> </p>
@@ -157,7 +160,7 @@
 
                      <div class="about-us-body d-flex flex-wrap gap-4 align-items-center">
                         <div class="about-us-list">
-                            <ul>
+                            <ul class="text-grey">
                             <li class="mb-2 "><i class="fa-solid fa-check check me-2"></i>Expertise You Can Trust</li>
                             <li class="mb-2"><i class="fa-solid fa-check check me-2"></i>Certified Professionals</li>
                             <li class="mb-2"><i class="fa-solid fa-check check me-2"></i>Eco-Friendly Approach</li>
@@ -177,7 +180,7 @@
                            </figure>
 
                             <div class="video-play-button">
-                                <a class="text-decoration-none" href="https://www.youtube.com/watch?v=Y-x0efG1seA">
+                                <a class="text-decoration-none" target="_blank" href="https://www.youtube.com/watch?v=Y-x0efG1seA">
                                     <i class="fa-solid fa-play text-light "></i>
                                 </a>
                             </div>
@@ -190,17 +193,17 @@
                 <!-- Countdown Section Begin -->                         
                     <div class="border-right about-counter-item">
                        <h2> <span class="counter" id="cases">0</span></h2>
-                        <p class="fs-5 text-grey">Cases Solved</p>
+                        <p class="fs-5 text-grey">Monthly Services</p>
                     </div>
 
                     <div class="border-right about-counter-item">
                        <h2><span class="counter count" id="projects">0</span></h2> 
-                        <p class="fs-5 text-grey"> Chemical  </p>
+                        <p class="fs-5 text-grey"> Domestic Client   </p>
                     </div>
 
                     <div class=" border-right about-counter-item">
                        <h2> <span class="counter" id="clients">0+</span></h2>
-                        <p class="fs-5 text-grey">Team Member </p>
+                        <p class="fs-5 text-grey">Housing society </p>
                     </div>
 
                     <div class="about-counter-item">
@@ -236,7 +239,7 @@
     <div class="swiper-wrapper mb-5">
       <div class="swiper-slide card service-item ">
       <div class="service-image">
-           <a href="" data-cursor-text="View">
+           <a href="service.php#mosquito_solution" data-cursor-text="View">
                 <figure class="image-anime">
                      <img src="./img/cockroach_control.jpeg" alt="">
                 </figure>
@@ -255,7 +258,7 @@
       </div>
       <div class="swiper-slide card service-item ">
       <div class="service-image">
-           <a href="" data-cursor-text="View">
+           <a href="service.php#termite_control" data-cursor-text="View">
                 <figure class="image-anime">
                      <img src="./img/termite_control.jpeg" alt="">
                 </figure>
@@ -274,7 +277,7 @@
       </div>
       <div class="swiper-slide card service-item ">
       <div class="service-image">
-           <a href="" data-cursor-text="View">
+           <a href="service.php#rat_guard" data-cursor-text="View">
                 <figure class="image-anime">
                      <img src="./img/rat_guard_installion.jpeg" alt="">
                 </figure>
@@ -294,7 +297,7 @@
 
       <div class="swiper-slide card service-item ">
       <div class="service-image">
-           <a href="" data-cursor-text="View">
+           <a href="service.php#rodent_control" data-cursor-text="View">
                 <figure class="image-anime">
                      <img src="./img/rodent_control.jpeg" alt="">
                 </figure>
@@ -314,7 +317,7 @@
       
       <div class="swiper-slide card service-item ">
       <div class="service-image">
-           <a href="" data-cursor-text="View">
+           <a href="service.php#general_inscet_solution" data-cursor-text="View">
                 <figure class="image-anime">
                      <img src="./img/general_insect.jpeg" alt="">
                 </figure>
@@ -334,7 +337,7 @@
 
       <div class="swiper-slide card service-item ">
       <div class="service-image">
-           <a href="" data-cursor-text="View">
+           <a href="service.php#cockroaches_sloution" data-cursor-text="View">
                 <figure class="image-anime">
                     <img src="https://html.awaikenthemes.com/petronus/images/service-image-3.jpg" alt="">
 
@@ -354,9 +357,9 @@
       </div>
       <div class="swiper-slide card service-item ">
       <div class="service-image">
-           <a href="" data-cursor-text="View">
+           <a href="service.php#bed_bug_solution" data-cursor-text="View">
                 <figure class="image-anime">
-                    <img src="https://html.awaikenthemes.com/petronus/images/service-image-2.jpg" alt="">
+                    <img src="https://img.freepik.com/premium-photo/worker-sprays-pesticides-bedroom-lying-floor_918839-15374.jpg?ga=GA1.1.1643490475.1742809442&semt=ais_hybrid" alt="">
                 </figure>
             </a>                            
         </div>
@@ -461,7 +464,8 @@
                
                     <figure class="image-anime reveal" style="transform: translate(0px, 0px); opacity: 1; visibility: inherit;">
                             <!-- <img src="images/features-image.jpg" alt="" style="transform: translate(0px, 0px);"> -->
-                        <img src="./img/mosquito_control.jpeg"  alt="mosquito image" alt="" style="transform: translate(0px, 0px);">
+                        <!-- <img src="./img/mosquito_control.jpeg"  alt="mosquito image" alt="" style="transform: translate(0px, 0px);"> -->
+                        <img src="https://lifecarepestcontrol.com/wp-content/uploads/2021/06/h3.jpg"  alt="mosquito image" alt="" style="transform: translate(0px, 0px);">
                     </figure>
                 </div>
 
@@ -540,7 +544,7 @@
              
          </div>
          <div class="col-lg-12 mt-5 text-center">
-            <p class="text-grey"> <span class="btn bg-green text-white">Free</span> Let's create a pest-free environment - <a href="" class="text-green why-choose-us-text fw-bold">Contact Us Today!</a> </p>
+            <p class="text-grey"> <span class="btn bg-green text-white">Free</span> Let's create a pest-free environment - <a href="contact.php" class="text-green why-choose-us-text fw-bold">Contact Us Today!</a> </p>
          </div>
      </div>
                 </div>
@@ -557,17 +561,17 @@
                 <div class="our-faq-images">
                     <div class="faqs-img-1">
                      <figure class="image-anime reveal" style="transform: translate(0px, 0px); opacity: 1; visibility: inherit;">
-                        <img src="./img/general_insect.jpeg" style="transform: translate(0px, 0px);" alt="">
+                        <img src="https://html.awaikenthemes.com/petronus/images/about-us-image.jpg" style="transform: translate(0px, 0px);" alt="">
                      </figure>
                     </div>
                     <div class="faqs-img-2">
                         <figure class="image-anime reveal" style="transform: translate(0px, 0px); opacity: 1; visibility: inherit;" >
-                            <img src="./img/termite_control.jpeg" style="transform: translate(0px, 0px);" alt="">
+                            <img src="http://theterminators.in/1.png" style="transform: translate(0px, 0px);" alt="">
                         </figure>
                     </div>
                     <div class="faqs-img-3">
                         <figure class="image-anime reveal"  style="transform: translate(0px, 0px); opacity: 1; visibility: inherit;">
-                            <img src="./img/cockroach_control.jpeg" style="transform: translate(0px, 0px);" alt="">
+                            <img src="https://debugpest.in/admin/assets/images/1672640743Residential-Pest-Control-Services-in-Pune.jpg" style="transform: translate(0px, 0px);" alt="">
                         </figure>
                     </div>
                     
@@ -700,7 +704,7 @@
                 <i class="fa-solid fa-star"></i>
             </div>
             <div class="testimonial-content text-start">
-                <p class="fs-5 text-grey">"Excellent service! We had a major ant problem, and they took care of it quickly and professionally.!"</p>
+                <p class="fs-5 text-grey">"I had a termite issue at home and called Sagar Pest Control. The team was polite, explained everything clearly, and did a great job. Really happy with the service."</p>
             </div>
             
         </div>
@@ -724,7 +728,7 @@
                 <i class="fa-solid fa-star"></i>
             </div>
             <div class="testimonial-content text-start">
-                <p class="fs-5 text-grey">"Excellent service! We had a major ant problem, and they took care of it quickly and professionally.!"</p>
+                <p class="fs-5 text-grey">"Very professional and punctual. They solved our cockroach problem in just one visit. Great service!"</p>
             </div>
             
         </div>
@@ -748,7 +752,7 @@
                 <i class="fa-solid fa-star"></i>
             </div>
             <div class="testimonial-content text-start">
-                <p class="fs-5 text-grey">"Excellent service! We had a major ant problem, and they took care of it quickly and professionally.!"</p>
+                <p class="fs-5 text-grey">"I’ve used Sagar Pest Control twice now once for bed bugs and once for ants. Both times, they were efficient and the results lasted."</p>
             </div>
             
         </div>
@@ -772,13 +776,13 @@
                 <i class="fa-solid fa-star"></i>
             </div>
             <div class="testimonial-content text-start">
-                <p class="fs-5 text-grey">"Excellent service! We had a major ant problem, and they took care of it quickly and professionally.!"</p>
+                <p class="fs-5 text-grey">"We had a severe rodent issue at our shop. Sagar Pest Control took care of it quickly and safely. Very satisfied."</p>
             </div>
             
         </div>
       </div>
 
-      <div class="swiper-slide card testimonial-item  p-5">
+      <!-- <div class="swiper-slide card testimonial-item  p-5">
         <div class="testimonial-author">
             <div class="author-image">
                 <figure class="image-anime text-start">
@@ -801,9 +805,9 @@
             </div>
             
         </div>
-      </div>
+      </div> -->
 
-      <div class="swiper-slide card testimonial-item  p-5">
+      <!-- <div class="swiper-slide card testimonial-item  p-5">
         <div class="testimonial-author">
             <div class="author-image">
                 <figure class="image-anime text-start">
@@ -826,9 +830,9 @@
             </div>
             
         </div>
-      </div>
+      </div> -->
 
-      <div class="swiper-slide card testimonial-item  p-5">
+      <!-- <div class="swiper-slide card testimonial-item  p-5">
         <div class="testimonial-author">
             <div class="author-image">
                 <figure class="image-anime text-start">
@@ -851,9 +855,9 @@
             </div>
             
         </div>
-      </div>
+      </div> -->
 
-      <div class="swiper-slide card testimonial-item  p-5">
+      <!-- <div class="swiper-slide card testimonial-item  p-5">
         <div class="testimonial-author">
             <div class="author-image">
                 <figure class="image-anime text-start">
@@ -876,9 +880,9 @@
             </div>
             
         </div>
-      </div>
+      </div> -->
 
-      <div class="swiper-slide card testimonial-item  p-5">
+      <!-- <div class="swiper-slide card testimonial-item  p-5">
         <div class="testimonial-author">
             <div class="author-image">
                 <figure class="image-anime text-start">
@@ -901,9 +905,9 @@
             </div>
             
         </div>
-      </div>
+      </div> -->
 
-      <div class="swiper-slide card testimonial-item  p-5">
+      <!-- <div class="swiper-slide card testimonial-item  p-5">
         <div class="testimonial-author">
             <div class="author-image">
                 <figure class="image-anime text-start">
@@ -926,7 +930,7 @@
             </div>
             
         </div>
-      </div>
+      </div> -->
 
       
       
@@ -968,7 +972,7 @@
                         </div>
 
                         <div class="cta-btn">
-                            <a href="" class="btn-default text-white text-decoration-none">Get Membership</a>
+                            <a href="contact.php" class="btn-default text-white text-decoration-none">Book a Meeting</a>
                         </div>
                     </div>
 

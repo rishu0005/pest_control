@@ -6,7 +6,7 @@
     <title>Sagar Pest Control</title>
 
     <!-- Favicon -->
-     <link rel="shortcut icon" href="./img/logo.png" type="image/x-icon">
+     <link rel="shortcut icon" href="./img/favicon.png" type="image/x-icon">
 
         <!-- Bootstrap CDN -->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
@@ -30,7 +30,7 @@
   <div class="container ">
     <!-- <div class="container"></div> -->
     <a class="navbar-brand" href="index.php">
-      <img loading="lazy" class="logo_image" src="./img/logo10.png" alt="logo" >
+      <img loading="lazy" class="logo_image" src="./img/logo.png" alt="logo" >
        
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -65,7 +65,7 @@
      	<!-- Mobile Number -->
        <div class="d-flex ms-auto">
         <span class="navbar-text  text-grey">
-          <i class="fa-solid fa-phone-volume"></i> <a href="tel:+91 9820614206" class="text-grey  fs-5  ">+91 9820614206</a> / <a href="tel:+91 9820131924" class="text-grey  fs-5"> 9820131924</a>
+          <i class="fa-solid fa-phone-volume"></i> <a href="tel:+919820614206" class="text-grey text-decoration-none fs-5  ">+91 9820614206</a> / <a href="tel:+919820131924" class="text-grey text-decoration-none fs-5"> 9820131924</a>
         </span>
       </div>
 

@@ -89,13 +89,13 @@
                     <input type="text" name="name" class="form-control" placeholder="Name" id="" required>
                 </div>
                 <div class="form-group col-md-6 mb-4">
-                    <input type="text" name="location" class="form-control" placeholder="Location" id="">
+                    <input type="text" name="address" class="form-control" placeholder="Location" id="">
                 </div>
                 <div class="form-group col-md-6 mb-4">
                     <input type="email" name="email" class="form-control" placeholder="Emal" id="" required>
                 </div>
                 <div class="form-group col-md-6 mb-4">
-                    <input type="number" name="phone"  class="form-control" placeholder="Phone No." id="">
+                    <input type="number" name="number"  class="form-control" placeholder="Phone No." id="">
                 </div>
                 <div class="col-md-12 mb-5 form-group">
                     <textarea name="message" class="form-control" rows="4" placeholder="Message" id=""></textarea>
