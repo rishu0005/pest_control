@@ -17,7 +17,7 @@ if(isset($_POST['email']))
         $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
         // $headers .= 'From: your-email@example.com' . "\r\n"; // Add the "From" header here
         // $additional_headers = '-f sagarpestcontrol2002@gmail.com'; // Return path
-        $headers .= 'From: sagarpestcontrol2002@gmail.com' ."\r\n"; // Add the "From" header here
+        $headers .= 'From: info@sagarpestcontrol.com' ."\r\n"; // Add the "From" header here
         $body="<html><body><div style='background:#ffffff;border:solid 1px #3498db; padding:15px'>
           <h2 style='font-weight:italic;'> Dear Sir/Madam,</h2>
           <br>
