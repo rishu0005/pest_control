@@ -45,7 +45,7 @@
                 <!-- Hero Image Start -->
                 <div class="hero-image mt-1">
                      <figure>
-                    <img src="https://html.awaikenthemes.com/petronus/images/hero-image.png" class="img-fluid" alt="">
+                    <img src="./img/hero-man1.webp" class="img-fluid" alt="">
                 </figure> 
             </div>
             <!-- Hero Image End -->
@@ -121,7 +121,8 @@
                 <div class="about-us-image">
                     <figure class="image-anime">
                         <!-- <img src="https://html.awaikenthemes.com/petronus/images/about-us-image.jpg" class="img-fluid" alt=""> -->
-                        <img src="https://html.awaikenthemes.com/petronus/images/about-us-image.jpg" class="img-fluid" alt="">
+                        <!-- <img src="https://html.awaikenthemes.com/petronus/images/about-us-image.jpg" class="img-fluid" alt=""> -->
+                        <img src="./img/pest-man.webp" class="img-fluid" alt="">
                     </figure>
                 </div>
                 <!-- About Us Images ENd -->
@@ -130,7 +131,8 @@
                 <div class="about-us-circle-img-1">
                     <figure class="image-anime">
                         <!-- <img src="https://html.awaikenthemes.com/petronus/images/about-circle-img-1.jpg" class="img-fluid" alt=""> -->
-                        <img src="https://html.awaikenthemes.com/petronus/images/about-circle-img-1.jpg" class="img-fluid" alt="">
+                        <img src="./img/circle-mosquito.webp" class="img-fluid" alt="">
+                        <!-- <img src="https://html.awaikenthemes.com/petronus/images/about-circle-img-1.jpg" class="img-fluid" alt=""> -->
                     </figure>
                 </div>
                 <!-- About Us Circle Image End -->
@@ -139,7 +141,8 @@
                 <div class="about-us-circle-img-2">
                     <figure class="image-anime">
                         <!-- <img src="https://html.awaikenthemes.com/petronus/images/about-circle-img-2.jpg" class="img-fluid"  alt=""> -->
-                        <img src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_239/https://versatechpm.com/wp-content/uploads/2022/03/Los-Angeles-County-Rodent-Control-Rat-Exterminator.jpeg" class="img-fluid"  alt="">
+                        <!-- <img src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_239/https://versatechpm.com/wp-content/uploads/2022/03/Los-Angeles-County-Rodent-Control-Rat-Exterminator.jpeg" class="img-fluid"  alt=""> -->
+                        <img src="./img/circle-mouse.webp" class="img-fluid"  alt="">
                     </figure>
                 </div>
                 <!-- About Us Circle Image ENd -->
@@ -176,7 +179,7 @@
                             <!-- About Us Video Start -->
                           
                             <figure class="image-anime">
-                            <img src="https://html.awaikenthemes.com/petronus/images/about-us-video-image.jpg" alt="">
+                            <img src="./img/bg-video.webp" alt="">
                            </figure>
 
                             <div class="video-play-button">
@@ -241,7 +244,7 @@
       <div class="service-image">
            <a href="service.php#mosquito_solution" data-cursor-text="View">
                 <figure class="image-anime">
-                     <img src="./img/cockroach_control.jpeg" alt="">
+                     <img src="./img/cockroach_control.webp" alt="">
                 </figure>
             </a>                            
         </div>
@@ -260,7 +263,7 @@
       <div class="service-image">
            <a href="service.php#termite_control" data-cursor-text="View">
                 <figure class="image-anime">
-                     <img src="./img/termite_control.jpeg" alt="">
+                     <img src="./img/termite_control.webp" alt="">
                 </figure>
             </a>                            
         </div>
@@ -279,7 +282,7 @@
       <div class="service-image">
            <a href="service.php#rat_guard" data-cursor-text="View">
                 <figure class="image-anime">
-                     <img src="./img/rat_guard_installion.jpeg" alt="">
+                     <img src="./img/rat-guard-installation.webp" alt="">
                 </figure>
             </a>                            
         </div>
@@ -299,7 +302,7 @@
       <div class="service-image">
            <a href="service.php#rodent_control" data-cursor-text="View">
                 <figure class="image-anime">
-                     <img src="./img/rodent_control.jpeg" alt="">
+                     <img src="./img/rodent_control.webp" alt="">
                 </figure>
             </a>                            
         </div>
@@ -319,7 +322,7 @@
       <div class="service-image">
            <a href="service.php#general_inscet_solution" data-cursor-text="View">
                 <figure class="image-anime">
-                     <img src="./img/general_insect.jpeg" alt="">
+                     <img src="./img/general-insect.webp" alt="">
                 </figure>
             </a>                            
         </div>
@@ -339,7 +342,7 @@
       <div class="service-image">
            <a href="service.php#cockroaches_sloution" data-cursor-text="View">
                 <figure class="image-anime">
-                    <img src="https://html.awaikenthemes.com/petronus/images/service-image-3.jpg" alt="">
+                    <img src="./img/cockroach-control.webp" alt="">
 
                 </figure>
             </a>                            
@@ -359,7 +362,7 @@
       <div class="service-image">
            <a href="service.php#bed_bug_solution" data-cursor-text="View">
                 <figure class="image-anime">
-                    <img src="https://img.freepik.com/premium-photo/worker-sprays-pesticides-bedroom-lying-floor_918839-15374.jpg?ga=GA1.1.1643490475.1742809442&semt=ais_hybrid" alt="">
+                    <img src="./img/bed-bug-control.webp" alt="">
                 </figure>
             </a>                            
         </div>
@@ -465,7 +468,7 @@
                     <figure class="image-anime reveal" style="transform: translate(0px, 0px); opacity: 1; visibility: inherit;">
                             <!-- <img src="images/features-image.jpg" alt="" style="transform: translate(0px, 0px);"> -->
                         <!-- <img src="./img/mosquito_control.jpeg"  alt="mosquito image" alt="" style="transform: translate(0px, 0px);"> -->
-                        <img src="https://lifecarepestcontrol.com/wp-content/uploads/2021/06/h3.jpg"  alt="mosquito image" alt="" style="transform: translate(0px, 0px);">
+                        <img src="./img/insect-free-villa.webp"  alt="mosquito image" alt="" style="transform: translate(0px, 0px);">
                     </figure>
                 </div>
 
@@ -529,7 +532,7 @@
                         <p class="text-white fw-7"> CALL NOW </p>
                         <div class="cta-contact-item d-flex  align-items-center">
                             <div class="icon-box">
-                                <img src="https://html.awaikenthemes.com/petronus/images/icon-cta-phone.svg" alt="">
+                                <img src="./img/icon-cta-phone.svg" alt="">
                                 
                             </div>
                             <div class="cta-contact-item-content text-white">
@@ -561,17 +564,17 @@
                 <div class="our-faq-images">
                     <div class="faqs-img-1">
                      <figure class="image-anime reveal" style="transform: translate(0px, 0px); opacity: 1; visibility: inherit;">
-                        <img src="https://html.awaikenthemes.com/petronus/images/about-us-image.jpg" style="transform: translate(0px, 0px);" alt="">
+                        <img src="./img/pest-man.webp" style="transform: translate(0px, 0px);" alt="">
                      </figure>
                     </div>
                     <div class="faqs-img-2">
                         <figure class="image-anime reveal" style="transform: translate(0px, 0px); opacity: 1; visibility: inherit;" >
-                            <img src="http://theterminators.in/1.png" style="transform: translate(0px, 0px);" alt="">
+                            <img src="./img/faq-image3.webp" style="transform: translate(0px, 0px);" alt="">
                         </figure>
                     </div>
                     <div class="faqs-img-3">
                         <figure class="image-anime reveal"  style="transform: translate(0px, 0px); opacity: 1; visibility: inherit;">
-                            <img src="https://debugpest.in/admin/assets/images/1672640743Residential-Pest-Control-Services-in-Pune.jpg" style="transform: translate(0px, 0px);" alt="">
+                            <img src="./img/insect-free-home.webp" style="transform: translate(0px, 0px);" alt="">
                         </figure>
                     </div>
                     
@@ -689,7 +692,7 @@
         <div class="testimonial-author">
             <div class="author-image">
                 <figure class="image-anime text-start">
-                    <img src="https://html.awaikenthemes.com/petronus/images/author-2.jpg" class="img-fluid img-pill" alt="">
+                    <img src="./img/testimonial1.jpg" class="img-fluid img-pill" alt="">
                 </figure>
             </div>
             <div class="author-content text-start">
@@ -713,7 +716,7 @@
         <div class="testimonial-author">
             <div class="author-image">
                 <figure class="image-anime text-start">
-                    <img src="https://html.awaikenthemes.com/petronus/images/author-1.jpg" class="img-fluid img-pill" alt="">
+                    <img src="./img/testimoial2.jpg" class="img-fluid img-pill" alt="">
                 </figure>
             </div>
             <div class="author-content text-start">
@@ -737,7 +740,7 @@
         <div class="testimonial-author">
             <div class="author-image">
                 <figure class="image-anime text-start">
-                    <img src="https://html.awaikenthemes.com/petronus/images/author-4.jpg" class="img-fluid img-pill" alt="">
+                    <img src="./img/testimonial3.jpg" class="img-fluid img-pill" alt="">
                 </figure>
             </div>
             <div class="author-content text-start">
@@ -761,7 +764,7 @@
         <div class="testimonial-author">
             <div class="author-image">
                 <figure class="image-anime text-start">
-                    <img src="https://html.awaikenthemes.com/petronus/images/author-5.jpg" class="img-fluid img-pill" alt="">
+                    <img src="./img/testimonial4.jpg" class="img-fluid img-pill" alt="">
                 </figure>
             </div>
             <div class="author-content text-start">
@@ -953,7 +956,7 @@
             <div class="row">
                 <div class="col-lg-7 col-md-6 order-md-1 order-2">
                     <div class="cta-box-image">
-                      <img src="https://html.awaikenthemes.com/petronus/images/cta-box-image.png" alt="">
+                      <img src="./img/pest-man3.webp" alt="">
                     </div>
                 </div>
                 <div class="col-lg-5 col-md-6 order-md-2 order-1">

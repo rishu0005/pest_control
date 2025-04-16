@@ -113,7 +113,8 @@
     
             </div>
             <div class="col-lg-6 p-0">
-                <img src="https://img.freepik.com/free-vector/man-hazmat-suit-cleaning-kitchen-from-bacteria_23-2148480881.jpg?ga=GA1.1.1643490475.1742809442&semt=ais_hybrid" alt="" class="img-fluid contact-form-img">
+                <!-- <img src="https://img.freepik.com/free-vector/man-hazmat-suit-cleaning-kitchen-from-bacteria_23-2148480881.jpg?ga=GA1.1.1643490475.1742809442&semt=ais_hybrid" alt="" class="img-fluid contact-form-img"> -->
+                <img src="./img/pest-man2.webp" alt="" class="img-fluid contact-form-img">
                 <!-- <img src="https://img.freepik.com/free-vector/virus-desinfection-concept_52683-35790.jpg?ga=GA1.1.1643490475.1742809442&semt=ais_hybrid" alt="" class="img-fluid contact-form-img"> -->
             </div>
         </div>
@@ -123,7 +124,7 @@
 <div class="container-fluid m-0 p-0">
     <div class="row">
         <div class="col-lg-12">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3767.917997056629!2d72.86182227503058!3d19.198783682031287!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b7051db9b4a7%3A0x8ae7a4169f618bbd!2sSagar%20Pest%20Control!5e0!3m2!1sen!2sin!4v1743577291405!5m2!1sen!2sin" width="100%" height="700" class="pb-0  mb-0" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3767.917997056629!2d72.86182227503058!3d19.198783682031287!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b7051db9b4a7%3A0x8ae7a4169f618bbd!2sSagar%20Pest%20Control!5e0!3m2!1sen!2sin!4v1743577291405!5m2!1sen!2sin" width="100%" height="700" class="pb-0 iframe  mb-0" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
     </div>
 </div>

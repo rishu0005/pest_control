@@ -18,7 +18,7 @@ html,body{
   .navbar{
     height: auto;
   }
-  
+ 
 }
 .navbar-brand img {
   padding-bottom: 8px;
@@ -55,7 +55,7 @@ html,body{
 .hero{
     /* margin-top: 7rem; */
     position: relative;
-    background: url('https://html.awaikenthemes.com/petronus/images/hero-bg.jpg') no-repeat;
+    background: url('../img/bg-hero.webp') no-repeat;
     background-position: center center;
     background-size: cover;
     padding: 118px 0;
@@ -185,6 +185,9 @@ html,body{
   }
   .p-10{
     padding: 10px;
+  }
+  .iframe{
+    height: 500px;
   }
 
   
@@ -713,7 +716,7 @@ background:#FFFFFF !important;
 .page-cta-box{
   position: relative;
   width: calc(25% - 22.5px);
-  background: url('https://html.awaikenthemes.com/petronus/images/page-cta-box-bg.jpg') no-repeat;
+  background: url('../img/call-person.webp') no-repeat;
   background-position: center center;
   background-size: cover;
   align-content: center;
@@ -1051,7 +1054,7 @@ background:#FFFFFF !important;
 .border-green{
   border: 2px solid #013198;
 }
-@media(max-width:768px){
+@media(max-width:991.9px){
   .flex-reverse-small{
        flex-direction: column-reverse;
   }
@@ -1060,7 +1063,7 @@ background:#FFFFFF !important;
 /*** Contact Page Start ***/
 .page-header{
   position: relative;
-  background-image: url('https://html.awaikenthemes.com/petronus/images/page-header-bg.jpg');
+  background-image: url('../img/banner.webp');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;

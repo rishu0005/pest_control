@@ -37,7 +37,7 @@
                 
             </div>
             <div class="col-lg-6 d-flex justify-content-center  mt-4">
-                <img src="https://html.awaikenthemes.com/petronus/images/approach-img-2.jpg" class="img-fluid mx-auto rounded" alt="">
+                <img src="./img/pest-man4.webp" class="img-fluid mx-auto rounded" alt="">
             </div> 
             <!-- <div class="col-lg-6 mt-4">
                 <p class="text-secondary fs-5">At Sagar Pest Control, we provide reliable and effective pest control services to safeguard your home and business. Our expert team specializes in controlling mosquitoes, cockroaches, termites, rodents, and other pests to help prevent diseases like Dengue, Malaria, Allergies, and Plague, as well as property damage. We use high-quality products and the latest techniques to ensure quick and long-lasting results. With a commitment to safety and customer satisfaction, we offer customized solutions for residential, commercial, and industrial spaces. Choose Sagar Pest Control for a pest-free environment with quality products and quick service</p>
@@ -54,7 +54,7 @@
         <div class="row px-2 mt-3 flex-reverse-small">
 
             <div class="col-lg-6  d-flex justify-content-center">
-                <img src="https://5.imimg.com/data5/SELLER/Default/2020/12/TZ/SJ/YB/79400556/drainage-pest-control-services-500x500.jpg" alt="" class="img-fluid border-radius">
+                <img src="./img/gutter-line.webp" alt="" class="img-fluid border-radius">
             </div>
             <div class="col-lg-6" id="drain_line">
                 <div class="section-title" >
@@ -77,7 +77,7 @@
              </div>
  
              <div class="col-lg-6  d-flex justify-content-center">
-                 <img src="https://img.freepik.com/premium-photo/man-hazmat-suit-cleaning-kitchen-floor_1254870-4549.jpg?ga=GA1.1.1643490475.1742809442&semt=ais_hybrid" alt="" class="img-fluid border-radius">
+                 <img src="./img/gel-cockroach-control.webp" alt="" class="img-fluid border-radius">
              </div>
          </div>
 
@@ -85,7 +85,7 @@
 
          <div class="row px-2 mt-5 flex-reverse-small">
              <div class="col-lg-6 d-flex justify-content-center ">
-                 <img src="https://img.freepik.com/premium-vector/rodents-pest-control-service-isolated-concept-vector-illustration_107173-43382.jpg?ga=GA1.1.1643490475.1742809442" alt="" class="img-fluid border-radius">
+                 <img src="./img/rodent-control.webp" alt="" class="img-fluid border-radius">
              </div>
     
              <div class="col-lg-6 ">
@@ -110,7 +110,7 @@
              </div>
  
              <div class="col-lg-6 d-flex justify-content-center">
-                 <img src="https://img.freepik.com/free-vector/workers-providing-cleaning-service-public-spaces_23-2148562306.jpg?ga=GA1.1.1643490475.1742809442&semt=ais_hybrid" alt="" class="img-fluid border-radius">
+                 <img src="./img/mosquito_service.webp" alt="" class="img-fluid border-radius">
              </div>
          </div>
 
@@ -118,7 +118,7 @@
          <div class="row px-2 flex-reverse-small mt-5">
 
              <div class="col-lg-6 d-flex justify-content-center ">
-                 <img src="https://img.freepik.com/free-vector/pest-control-concept-illustration_114360-24973.jpg?ga=GA1.1.1643490475.1742809442&semt=ais_hybrid" alt="" class="img-fluid border-radius">
+                 <img src="./img/ant-control.webp" alt="" class="img-fluid border-radius">
              </div>
     
              <div class="col-lg-6 ">
@@ -153,7 +153,7 @@
              </div>
  
              <div class="col-lg-6 d-flex justify-content-center ">
-                 <img src="https://img.freepik.com/premium-photo/worker-sprays-pesticides-bedroom-lying-floor_918839-15374.jpg?ga=GA1.1.1643490475.1742809442&semt=ais_hybrid" alt="" class="img-fluid border-radius">
+                 <img src="./img/bed-bug-control.webp" alt="" class="img-fluid border-radius">
              </div>
          </div>
 
@@ -162,7 +162,7 @@
          <div class="row px-2 mt-5 flex-reverse-small">
 
              <div class="col-lg-6 d-flex justify-content-center">
-                 <img src="https://img.freepik.com/free-photo/female-gardener-spraying-insecticide-plant_23-2147918609.jpg?ga=GA1.1.1643490475.1742809442&semt=ais_hybrid" alt="" class="img-fluid border-radius">
+                 <img src="./img/wood.webp" alt="" class="img-fluid border-radius">
              </div>
  
              <div class="col-lg-6">
@@ -186,7 +186,7 @@
              </div>
  
              <div class="col-lg-6 d-flex justify-content-center align-items-center ">
-                 <img src="https://5.imimg.com/data5/SELLER/Default/2024/8/441288732/VK/FJ/BS/224141523/rat-guard-installation-services-500x500.jpeg" alt="" class="img-fluid border-radius">
+                 <img src="./img/rat-guard.webp" alt="" class="img-fluid border-radius">
              </div>
          </div>
 
@@ -195,7 +195,7 @@
          <div class="row px-2 flex-reverse-small mt-5">
 
              <div class="col-lg-6 d-flex justify-content-center">
-                 <img src="https://besthvacservices.com/wp-content/uploads/2024/11/1-IMG00025-20110221-1638-e1731080399914.jpg" alt="" class="img-fluid border-radius">
+                 <img src="./img/bird-net.webp" alt="" class="img-fluid border-radius">
              </div>
  
              <div class="col-lg-6">
@@ -224,7 +224,7 @@
                          </div>
              
                          <div class="col-lg-6  d-flex justify-content-center">
-                             <img src="https://img.freepik.com/premium-photo/mosquito-net-wire-screen-house-window-protection-against-insect_293060-2491.jpg?ga=GA1.1.1643490475.1742809442&semt=ais_hybrid" alt="" class="img-fluid border-radius">
+                             <img src="./img/mosquito_net.webp" alt="" class="img-fluid border-radius">
                          </div>
          </div>
 
@@ -235,7 +235,7 @@
          <div class="row px-2 mt-5 flex-reverse-small">
 
              <div class="col-lg-6 d-flex justify-content-center ">
-                 <img src="./img/general_insect.jpg" alt="general_inscet" class="img-fluid border-radius">
+                 <img src="./img/pest_control.webp" alt="general_inscet" class="img-fluid border-radius">
              </div>
  
              <div class="col-lg-6">

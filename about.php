@@ -27,7 +27,9 @@
 
 
 <!--About Us Section Start -->
-<div class="container top-padding">
+<div class="container-fluid bg-lightsecondary ">
+   <div class="container  top-padding">
+
     <div class="row  align-items-center">
       
 
@@ -59,7 +61,7 @@
                             <!-- About Us Video Start -->
                           
                             <figure class="image-anime">
-                            <img src="https://html.awaikenthemes.com/petronus/images/about-us-video-image.jpg" alt="">
+                            <img src="./img/bg-video.webp" alt="">
                            </figure>
 
                             <div class="video-play-button">
@@ -106,7 +108,7 @@
                 <!-- About Us Image Start -->
                 <div class="about-us-image">
                     <figure class="image-anime">
-                        <img src="https://html.awaikenthemes.com/petronus/images/about-us-image.jpg" class="img-fluid" alt="">
+                        <img src="./img/pest-man.webp" class="img-fluid" alt="">
                     </figure>
                 </div>
                 <!-- About Us Images ENd -->
@@ -114,7 +116,7 @@
                 <!-- About Us Circle Image Start -->
                 <div class="about-us-circle-img-1">
                     <figure class="image-anime">
-                        <img src="https://html.awaikenthemes.com/petronus/images/about-circle-img-1.jpg" class="img-fluid" alt="">
+                        <img src="./img/circle-mosquito.webp" class="img-fluid" alt="">
                     </figure>
                 </div>
                 <!-- About Us Circle Image End -->
@@ -122,24 +124,27 @@
                 <!-- About Us Circle Image Start -->
                 <div class="about-us-circle-img-2">
                     <figure class="image-anime">
-                        <img src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_239/https://versatechpm.com/wp-content/uploads/2022/03/Los-Angeles-County-Rodent-Control-Rat-Exterminator.jpeg" class="img-fluid"  alt="">
+                        <img src="./img/circle-mouse.webp" class="img-fluid"  alt="">
+                        <!-- <img src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_239/https://versatechpm.com/wp-content/uploads/2022/03/Los-Angeles-County-Rodent-Control-Rat-Exterminator.jpeg" class="img-fluid"  alt=""> -->
                     </figure>
                 </div>
                 <!-- About Us Circle Image ENd -->
             </div>
         </div>
     </div> 
+</div> 
 </div>
+
 <!-- About Us Section End -->
 
 <!-- Our Approach Section Start -->
- <div class="container-fluid  bg-lightsecondary pt-5 pb-5">
+ <div class="container-fluid   pt-5 pb-5">
     <div class="container">
 
         <div class="row">
             <div class="col-lg-5 d-flex justify-content-center align-items-center">
                 <!-- <img src="https://img.freepik.com/free-vector/workers-providing-cleaning-service-public-spaces_23-2148555732.jpg?ga=GA1.1.1643490475.1742809442&semt=ais_hybrid" class="img-fluid w-75 rounded" alt="pest image"> -->
-                <img src="./img/resident-pest.png" class="img-fluid  rounded" alt="pest image">
+                <img src="./img/insect-free-home.webp" class="img-fluid  rounded" alt="pest image">
     
             </div>
     
@@ -265,7 +270,7 @@
                
                     <figure class="image-anime reveal" style="transform: translate(0px, 0px); opacity: 1; visibility: inherit;">
                             <!-- <img src="images/features-image.jpg" alt="" style="transform: translate(0px, 0px);"> -->
-                        <img src="https://lifecarepestcontrol.com/wp-content/uploads/2021/06/h3.jpg" alt="heelo why are you not coming" alt="" style="transform: translate(0px, 0px);">
+                        <img src="./img/insect-free-villa.webp" alt="heelo why are you not coming" alt="" style="transform: translate(0px, 0px);">
                     </figure>
                 </div>
 
@@ -295,7 +300,7 @@
         <div class="testimonial-author">
             <div class="author-image">
                 <figure class="image-anime text-start">
-                    <img src="https://html.awaikenthemes.com/petronus/images/author-2.jpg" class="img-fluid img-pill" alt="">
+                    <img src="./img/testimonial1.jpg" class="img-fluid img-pill" alt="">
                 </figure>
             </div>
             <div class="author-content text-start">
@@ -319,7 +324,7 @@
         <div class="testimonial-author">
             <div class="author-image">
                 <figure class="image-anime text-start">
-                    <img src="https://html.awaikenthemes.com/petronus/images/author-1.jpg" class="img-fluid img-pill" alt="">
+                    <img src="./img/testimoial2.jpg" class="img-fluid img-pill" alt="">
                 </figure>
             </div>
             <div class="author-content text-start">
@@ -343,7 +348,7 @@
         <div class="testimonial-author">
             <div class="author-image">
                 <figure class="image-anime text-start">
-                    <img src="https://html.awaikenthemes.com/petronus/images/author-4.jpg" class="img-fluid img-pill" alt="">
+                    <img src="./img/testimonial3.jpg" class="img-fluid img-pill" alt="">
                 </figure>
             </div>
             <div class="author-content text-start">
@@ -367,7 +372,7 @@
         <div class="testimonial-author">
             <div class="author-image">
                 <figure class="image-anime text-start">
-                    <img src="https://html.awaikenthemes.com/petronus/images/author-5.jpg" class="img-fluid img-pill" alt="">
+                    <img src="./img/testimonial4.jpg" class="img-fluid img-pill" alt="">
                 </figure>
             </div>
             <div class="author-content text-start">
