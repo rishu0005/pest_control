@@ -13,20 +13,20 @@
 
             <h4 class="ms-3">Services</h4>
             <ul class="">
-                <li class="mb-3 "><a href="service.php#rat_guard" class="text-white">Rat Guard Installation</a></li>
-                <li class="mb-3"><a href="service.php#rodent_control" class="text-white">Rodent Control</a></li>
-                <li class="mb-3"><a href="service.php#termite_control" class="text-white">Termite Control</a></li>
-                <li class="mb-3"><a href="service.php#bed_bug_solution" class="text-white">Bed Bugs Control</a></li>
-                <li class="mb-3"><a href="service.php#cockroaches_sloution" class="text-white">Cockroaches Control</a></li>
+                <li class="mb-3 "><a href="service.php#rat_guard" class="text-white text-decoration-none">Rat Guard Installation</a></li>
+                <li class="mb-3"><a href="service.php#rodent_control" class="text-white text-decoration-none">Rodent Control</a></li>
+                <li class="mb-3"><a href="service.php#termite_control" class="text-white text-decoration-none">Termite Control</a></li>
+                <li class="mb-3"><a href="service.php#bed_bug_solution" class="text-white text-decoration-none">Bed Bugs Control</a></li>
+                <li class="mb-3"><a href="service.php#cockroaches_sloution" class="text-white text-decoration-none">Cockroaches Control</a></li>
             </ul>
         </div>
         <div class="col-lg-2 footer-links col-md-4 text-white">
             <h4 class="ms-3">Links</h4>
             <ul class="">
-                <li class="mb-3"><a class="text-white links text-decoration-nne" href="about.php">About Us</a></li>     
-                <li class="mb-3"><a class="text-white text-decoration-nne" href="service.php" >Services</a></li>
-                <li class="mb-3"><a class="text-white text-decoration-nne" href="contact.php">Contact</a></li>
-                <li class="mb-3"><a class="text-white text-decoration-nne" href="index.php">Home</a></li>
+                <li class="mb-3"><a class="text-white links text-decoration-none" href="about.php">About Us</a></li>     
+                <li class="mb-3"><a class="text-white text-decoration-none" href="service.php" >Services</a></li>
+                <li class="mb-3"><a class="text-white text-decoration-none" href="contact.php">Contact</a></li>
+                <li class="mb-3"><a class="text-white text-decoration-none" href="index.php">Home</a></li>
                 <!-- <li class="mb-3">Eco-Friendly Pest</li> -->
                 <!-- <li class="mb-3">Wildlife Removal </li> -->
             </ul>
@@ -62,7 +62,7 @@
         <div class="col-lg-4 col-md-12">
   <div class="footer-content">
                 <p class="text-white  text-center">Copyright © 2025 All Rights Reserved.</p>
-                <p class="text-white  text-center">Developed by <a href=""  target="_blank" class="text-white text-decoration-none fw-bold">Deltasoft</a> .</p>
+                <p class="text-white  text-center">Developed by <a href="https://deltasoftsys.in/"  target="_blank" class="text-white text-decoration-none fw-bold">Deltasoft</a> .</p>
 
             </div>
         </div>

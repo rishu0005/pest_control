@@ -12,10 +12,11 @@ if(isset($_POST['email']))
         $address = $_POST['address'];
         $message=$_POST['message'];
         $to = 'sagarpestcontrol2002@gmail.com';
-        $subject = 'A new email has arrived from your website morya luxury car care';
+        $subject = 'A new email has arrived from your website Sagar Pest Control';
         $headers  = 'MIME-Version: 1.0' . "\r\n";
         $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
         // $headers .= 'From: your-email@example.com' . "\r\n"; // Add the "From" header here
+        // $additional_headers = '-f sagarpestcontrol2002@gmail.com'; // Return path
         $headers .= 'From: sagarpestcontrol2002@gmail.com' ."\r\n"; // Add the "From" header here
         $body="<html><body><div style='background:#ffffff;border:solid 1px #3498db; padding:15px'>
           <h2 style='font-weight:italic;'> Dear Sir/Madam,</h2>
@@ -34,7 +35,9 @@ if(isset($_POST['email']))
           //          "Body =". $body . "<br>".
           //          "Message =". $message . "<br>";
           // var_dump($result) ;
-        $result=mail($to,$subject,$body,$headers);
+        // $result=mail($to,$subject,$body,$headers);
+$result = mail($to, $subject, $body, $headers);
+
         if(!$result) {
           error_log("Email failed to send: " . error_get_last());
           die('Problem occurred while sending email!');
@@ -43,10 +46,5 @@ if(isset($_POST['email']))
         {
           echo '<p class="alert alert-success">Your message has been send and we will reply you soon.</p>';
         }
-        
-       /* echo "<script>alert('Your query has been send and we will reply you soon.')</script>";
-        echo "<script>document.getElementById('id02').style.display='none'</script>";*/
-        
-    //ob_end_flush();
 }
 ?>

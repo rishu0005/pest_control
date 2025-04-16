@@ -92,7 +92,7 @@
                     <input type="text" name="address" class="form-control" placeholder="Location" id="">
                 </div>
                 <div class="form-group col-md-6 mb-4">
-                    <input type="email" name="email" class="form-control" placeholder="Emal" id="" required>
+                    <input type="email" name="email" class="form-control" placeholder="Email" id="" required>
                 </div>
                 <div class="form-group col-md-6 mb-4">
                     <input type="number" name="number"  class="form-control" placeholder="Phone No." id="">
